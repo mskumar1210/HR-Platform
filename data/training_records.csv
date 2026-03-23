@@ -1,0 +1,801 @@
+training_id,employee_id,course_name,provider,category,start_date,completion_date,status,score_pct,hours_spent,cost_usd,certificate_earned,mandatory,ai_recommended,skill_gap_addressed
+TRN00001,EMP01900,Mental Health at Work,Harvard Online,Soft Skills,2024-11-03,,In Progress,,65,1663,No,No,No,Kubernetes
+TRN00002,EMP02110,SQL Mastery,Pluralsight,Leadership,2023-05-04,2024-05-29,Completed,92,72,1390,No,No,Yes,Rust
+TRN00003,EMP01163,Data Privacy (GDPR),Internal,Compliance,2024-03-02,,Enrolled,,38,1902,No,No,No,NLP
+TRN00004,EMP02157,Security Awareness,Pluralsight,Compliance,2023-01-19,,In Progress,,28,1934,No,No,No,Java
+TRN00005,EMP01871,UX Design Thinking,Skillsoft,Compliance,2023-11-10,2023-01-01,Completed,86,52,1060,No,No,Yes,HubSpot
+TRN00006,EMP01316,Excel Advanced,Internal,Domain,2023-08-26,2023-01-06,Completed,100,72,61,No,Yes,Yes,Account Management
+TRN00007,EMP01978,Legal Compliance 2024,Udemy,Technical,2024-10-28,,Dropped,,26,1162,No,Yes,Yes,JavaScript
+TRN00008,EMP01243,Python for Data Science,Harvard Online,Compliance,2024-03-14,2024-10-04,Completed,81,59,1814,No,Yes,Yes,Deep Learning
+TRN00009,EMP01782,AWS Certification,Internal,Technical,2023-03-20,2024-07-12,Completed,87,10,1191,No,Yes,Yes,Java
+TRN00010,EMP01992,Leadership Fundamentals,Skillsoft,Leadership,2024-08-29,2023-12-07,Completed,94,6,1601,No,No,Yes,TypeScript
+TRN00011,EMP01743,Leadership Fundamentals,LinkedIn Learning,Leadership,2024-05-14,,Dropped,,32,725,No,Yes,Yes,Azure
+TRN00012,EMP01743,Product Management 101,Pluralsight,Leadership,2023-10-28,,Enrolled,,10,794,No,Yes,Yes,Kubernetes
+TRN00013,EMP01764,React Development,Harvard Online,Soft Skills,2023-08-24,2024-03-08,Completed,86,2,1954,No,Yes,Yes,HubSpot
+TRN00014,EMP01215,Agile & Scrum,Internal,Domain,2024-11-04,2023-05-18,Passed,66,17,1747,Yes,Yes,Yes,Legal Research
+TRN00015,EMP01104,Financial Analysis,Coursera,Technical,2023-06-08,2024-04-09,Completed,65,80,36,No,No,Yes,Power BI
+TRN00016,EMP01129,Public Speaking,Internal,Technical,2024-12-26,2023-12-07,Completed,84,19,498,No,Yes,Yes,HR Analytics
+TRN00017,EMP01376,Docker & Kubernetes,Internal,Domain,2024-06-23,,In Progress,,45,1487,No,No,Yes,UX Research
+TRN00018,EMP02159,Machine Learning Basics,LinkedIn Learning,Domain,2023-06-09,,In Progress,,80,663,No,No,No,NLP
+TRN00019,EMP01684,SQL Mastery,Coursera,Technical,2023-08-17,2023-01-08,Completed,77,60,202,No,No,Yes,Agile
+TRN00020,EMP02198,SQL Mastery,LinkedIn Learning,Soft Skills,2024-01-10,2023-09-11,Passed,62,17,1861,Yes,Yes,Yes,Power BI
+TRN00021,EMP02191,Agile & Scrum,Pluralsight,Compliance,2023-01-13,,In Progress,,2,222,No,Yes,Yes,HR Analytics
+TRN00022,EMP01501,Legal Compliance 2024,Skillsoft,Domain,2023-04-15,2024-07-02,Completed,91,39,200,No,No,No,Communication
+TRN00023,EMP01603,SQL Mastery,Internal,Technical,2024-05-20,,Dropped,,6,1293,No,No,Yes,Product Management
+TRN00024,EMP01935,Excel Advanced,Harvard Online,Leadership,2024-12-21,,Enrolled,,49,166,No,No,Yes,Leadership
+TRN00025,EMP01353,UX Design Thinking,Skillsoft,Compliance,2024-03-14,2023-06-19,Passed,68,21,1394,Yes,No,No,Agile
+TRN00026,EMP01561,Data Privacy (GDPR),Internal,Compliance,2024-08-14,2023-01-02,Completed,96,13,1323,No,Yes,No,AWS
+TRN00027,EMP01883,Diversity & Inclusion,Coursera,Compliance,2023-04-14,2023-11-01,Completed,66,71,1610,No,No,Yes,Marketing Analytics
+TRN00028,EMP01088,Mental Health at Work,Pluralsight,Leadership,2023-12-10,2024-03-21,Completed,60,72,512,No,No,Yes,Leadership
+TRN00029,EMP01401,Data Privacy (GDPR),Harvard Online,Compliance,2024-01-22,,Enrolled,,74,1688,No,No,No,Leadership
+TRN00030,EMP01533,Agile & Scrum,Udemy,Soft Skills,2023-10-26,2023-01-18,Completed,62,12,1545,No,No,Yes,Machine Learning
+TRN00031,EMP01894,Product Management 101,Coursera,Technical,2024-01-01,2023-01-27,Completed,90,57,337,No,No,Yes,JavaScript
+TRN00032,EMP01142,AWS Certification,Internal,Soft Skills,2023-07-09,2023-02-13,Completed,97,40,455,No,No,Yes,Machine Learning
+TRN00033,EMP01041,Communication Skills,LinkedIn Learning,Technical,2024-11-20,,In Progress,,78,1121,No,No,No,Rust
+TRN00034,EMP02063,Excel Advanced,LinkedIn Learning,Technical,2024-11-16,,In Progress,,32,1966,No,No,Yes,NLP
+TRN00035,EMP01064,Docker & Kubernetes,Udemy,Compliance,2024-05-19,,Enrolled,,14,1305,No,Yes,No,TypeScript
+TRN00036,EMP01725,Machine Learning Basics,Pluralsight,Leadership,2024-06-10,2024-08-29,Completed,83,28,1523,No,No,Yes,Salesforce
+TRN00037,EMP01775,SQL Mastery,Harvard Online,Compliance,2023-11-28,2024-10-12,Completed,99,75,697,No,Yes,No,Figma
+TRN00038,EMP01153,SQL Mastery,Internal,Technical,2023-10-23,,Failed,75,72,1009,No,Yes,No,Product Management
+TRN00039,EMP01004,Mental Health at Work,LinkedIn Learning,Domain,2024-02-19,,Failed,62,56,1743,No,No,Yes,Azure
+TRN00040,EMP01438,Communication Skills,LinkedIn Learning,Technical,2024-08-04,2024-11-24,Completed,84,76,393,No,Yes,No,HubSpot
+TRN00041,EMP02022,Leadership Fundamentals,Coursera,Compliance,2023-12-31,,In Progress,,4,1083,No,Yes,No,Deep Learning
+TRN00042,EMP01832,Product Management 101,LinkedIn Learning,Compliance,2023-12-22,2023-01-07,Completed,100,43,1837,No,Yes,Yes,Project Management
+TRN00043,EMP01501,Leadership Fundamentals,Harvard Online,Compliance,2024-04-30,2024-02-25,Completed,92,9,1245,No,No,No,Financial Modeling
+TRN00044,EMP01348,Leadership Fundamentals,LinkedIn Learning,Technical,2024-06-22,2023-08-31,Passed,77,41,61,Yes,Yes,No,Leadership
+TRN00045,EMP01525,Legal Compliance 2024,Skillsoft,Technical,2023-05-08,2023-10-10,Completed,71,77,695,No,Yes,Yes,Customer Success
+TRN00046,EMP01292,SQL Mastery,Internal,Domain,2023-08-19,2023-11-03,Completed,62,21,1794,No,Yes,Yes,JavaScript
+TRN00047,EMP01399,Public Speaking,Pluralsight,Technical,2024-10-05,2024-10-03,Completed,100,38,796,No,Yes,No,Leadership
+TRN00048,EMP01275,Public Speaking,Udemy,Technical,2024-09-27,2024-03-09,Passed,86,57,1867,Yes,Yes,No,Recruitment
+TRN00049,EMP01184,Leadership Fundamentals,LinkedIn Learning,Compliance,2024-05-19,2024-04-05,Completed,72,75,81,No,No,No,HubSpot
+TRN00050,EMP01930,React Development,Udemy,Soft Skills,2023-07-17,2023-03-24,Completed,98,29,151,No,Yes,Yes,TypeScript
+TRN00051,EMP02051,AWS Certification,Coursera,Technical,2023-08-11,2024-07-09,Completed,91,62,391,No,Yes,Yes,Go
+TRN00052,EMP02081,Diversity & Inclusion,Pluralsight,Domain,2023-04-07,,In Progress,,75,1415,No,No,Yes,Go
+TRN00053,EMP01023,React Development,Harvard Online,Leadership,2024-03-16,,Enrolled,,67,1353,No,No,Yes,Deep Learning
+TRN00054,EMP01130,Leadership Fundamentals,Pluralsight,Domain,2023-08-07,2023-08-19,Completed,94,10,1359,No,Yes,No,GCP
+TRN00055,EMP02154,Leadership Fundamentals,Coursera,Compliance,2023-02-25,2024-01-04,Completed,79,27,1220,No,Yes,No,Project Management
+TRN00056,EMP01908,Mental Health at Work,LinkedIn Learning,Leadership,2024-11-03,,In Progress,,33,1055,No,No,Yes,HR Analytics
+TRN00057,EMP01463,Legal Compliance 2024,Udemy,Compliance,2024-06-13,,Dropped,,3,185,No,No,Yes,Leadership
+TRN00058,EMP01757,React Development,Udemy,Technical,2023-02-06,2023-07-29,Completed,71,30,72,No,Yes,Yes,Azure
+TRN00059,EMP02054,Conflict Resolution,Skillsoft,Domain,2024-02-13,,In Progress,,9,1730,No,Yes,No,Data Analysis
+TRN00060,EMP01735,UX Design Thinking,LinkedIn Learning,Compliance,2023-02-20,2023-12-20,Completed,66,71,188,No,No,Yes,Project Management
+TRN00061,EMP01133,Conflict Resolution,Harvard Online,Leadership,2023-05-22,2023-10-30,Completed,79,31,843,No,No,No,Python
+TRN00062,EMP01382,Agile & Scrum,Coursera,Technical,2024-05-28,,In Progress,,7,109,No,Yes,Yes,Agile
+TRN00063,EMP01408,Excel Advanced,LinkedIn Learning,Domain,2024-05-03,,In Progress,,35,1730,No,No,No,Figma
+TRN00064,EMP01205,Legal Compliance 2024,LinkedIn Learning,Soft Skills,2023-04-03,2024-03-29,Completed,91,76,1914,No,Yes,Yes,Leadership
+TRN00065,EMP02135,Security Awareness,LinkedIn Learning,Leadership,2023-12-19,2024-01-30,Completed,74,28,1017,No,Yes,No,Deep Learning
+TRN00066,EMP01448,Data Privacy (GDPR),Coursera,Domain,2023-03-03,,In Progress,,5,1556,No,Yes,Yes,Kubernetes
+TRN00067,EMP01369,Agile & Scrum,Harvard Online,Soft Skills,2024-04-05,2024-04-18,Completed,84,5,796,No,No,Yes,Leadership
+TRN00068,EMP01980,Legal Compliance 2024,Pluralsight,Leadership,2023-10-30,,In Progress,,40,227,No,Yes,Yes,Tableau
+TRN00069,EMP01452,Security Awareness,Coursera,Leadership,2023-06-29,,In Progress,,64,519,No,Yes,Yes,Performance Management
+TRN00070,EMP01380,Product Management 101,Harvard Online,Leadership,2024-07-24,2024-07-30,Completed,65,27,885,No,No,Yes,Java
+TRN00071,EMP01104,Mental Health at Work,LinkedIn Learning,Domain,2024-11-15,,In Progress,,66,1287,No,Yes,Yes,Docker
+TRN00072,EMP01556,Mental Health at Work,Skillsoft,Soft Skills,2024-04-07,2024-08-31,Passed,79,13,627,Yes,No,Yes,Communication
+TRN00073,EMP01005,SQL Mastery,Harvard Online,Soft Skills,2023-07-20,,In Progress,,7,1235,No,No,Yes,Data Analysis
+TRN00074,EMP01747,Machine Learning Basics,Harvard Online,Soft Skills,2024-08-29,2024-07-13,Completed,83,21,1016,No,Yes,No,Performance Management
+TRN00075,EMP01643,SQL Mastery,LinkedIn Learning,Compliance,2023-11-10,,In Progress,,51,1800,No,Yes,Yes,Adobe XD
+TRN00076,EMP01554,Machine Learning Basics,Pluralsight,Leadership,2023-12-13,2024-08-04,Completed,67,33,201,No,Yes,Yes,TypeScript
+TRN00077,EMP02137,Security Awareness,Skillsoft,Technical,2024-10-02,2024-06-27,Completed,65,46,1808,No,No,Yes,Excel
+TRN00078,EMP01107,React Development,Harvard Online,Domain,2024-06-23,2024-02-26,Completed,84,6,1040,No,Yes,Yes,Docker
+TRN00079,EMP01349,AWS Certification,Coursera,Soft Skills,2024-11-03,2024-08-22,Passed,81,23,353,Yes,No,Yes,UX Research
+TRN00080,EMP01837,Product Management 101,LinkedIn Learning,Leadership,2023-01-20,,Enrolled,,28,163,No,No,No,Excel
+TRN00081,EMP01961,Agile & Scrum,Harvard Online,Soft Skills,2023-06-12,2023-10-12,Completed,90,8,1739,No,No,Yes,Node.js
+TRN00082,EMP01740,Agile & Scrum,LinkedIn Learning,Soft Skills,2023-08-17,2024-03-25,Completed,82,58,1945,No,No,Yes,HubSpot
+TRN00083,EMP01996,UX Design Thinking,Harvard Online,Technical,2024-03-28,2023-08-26,Completed,72,2,137,No,No,No,UX Research
+TRN00084,EMP01735,UX Design Thinking,Internal,Domain,2023-04-03,,In Progress,,49,1508,No,Yes,No,Agile
+TRN00085,EMP02143,Agile & Scrum,Harvard Online,Leadership,2023-05-29,2024-07-25,Completed,84,34,315,No,Yes,Yes,Java
+TRN00086,EMP01080,Legal Compliance 2024,Harvard Online,Technical,2023-11-08,2024-05-10,Passed,70,24,1670,Yes,Yes,Yes,Adobe XD
+TRN00087,EMP01483,AWS Certification,Pluralsight,Leadership,2024-12-24,2023-11-21,Completed,65,51,577,No,No,Yes,Financial Modeling
+TRN00088,EMP01969,Financial Analysis,LinkedIn Learning,Technical,2023-01-29,2024-06-15,Completed,80,30,1060,No,Yes,Yes,Recruitment
+TRN00089,EMP01404,Python for Data Science,Harvard Online,Leadership,2024-09-22,,Enrolled,,52,1419,No,Yes,Yes,Performance Management
+TRN00090,EMP01860,Data Privacy (GDPR),Internal,Domain,2024-07-08,2024-08-28,Completed,87,44,1512,No,Yes,Yes,AWS
+TRN00091,EMP01153,Legal Compliance 2024,Coursera,Domain,2024-04-15,,In Progress,,68,1517,No,Yes,No,Go
+TRN00092,EMP01387,AWS Certification,Internal,Leadership,2023-03-10,,Enrolled,,56,1804,No,No,No,C++
+TRN00093,EMP01076,Mental Health at Work,Internal,Leadership,2024-05-19,,Enrolled,,71,1095,No,No,Yes,Java
+TRN00094,EMP01800,Excel Advanced,Pluralsight,Compliance,2023-05-30,2024-11-01,Completed,93,48,958,No,No,Yes,TypeScript
+TRN00095,EMP01490,Product Management 101,Skillsoft,Technical,2024-11-13,2024-01-12,Passed,61,53,1053,Yes,No,Yes,AWS
+TRN00096,EMP01790,Agile & Scrum,Coursera,Leadership,2024-11-25,,In Progress,,64,1728,No,No,Yes,Figma
+TRN00097,EMP01740,Diversity & Inclusion,Harvard Online,Compliance,2023-04-30,,Failed,76,80,1833,No,No,No,Go
+TRN00098,EMP01542,AWS Certification,Skillsoft,Leadership,2024-08-08,,In Progress,,42,594,No,Yes,Yes,Deep Learning
+TRN00099,EMP01138,Excel Advanced,Harvard Online,Compliance,2023-07-08,,Failed,84,73,402,No,No,Yes,Performance Management
+TRN00100,EMP01501,SQL Mastery,Harvard Online,Domain,2023-12-28,,In Progress,,61,44,No,Yes,Yes,Java
+TRN00101,EMP01795,UX Design Thinking,Coursera,Soft Skills,2023-06-22,,Failed,77,9,356,No,Yes,Yes,Go
+TRN00102,EMP02192,Data Privacy (GDPR),Skillsoft,Soft Skills,2023-02-15,2023-07-27,Passed,94,16,1847,Yes,No,Yes,Rust
+TRN00103,EMP01567,Leadership Fundamentals,LinkedIn Learning,Technical,2024-08-10,2024-02-10,Passed,71,56,295,Yes,Yes,Yes,Communication
+TRN00104,EMP02141,UX Design Thinking,Udemy,Leadership,2024-03-12,2023-06-22,Passed,67,2,1483,Yes,No,Yes,Machine Learning
+TRN00105,EMP02045,Docker & Kubernetes,Harvard Online,Soft Skills,2023-02-11,2024-03-18,Completed,85,61,754,No,No,Yes,Account Management
+TRN00106,EMP01027,Public Speaking,Internal,Soft Skills,2023-01-17,2023-09-04,Completed,89,43,1364,No,Yes,No,UX Research
+TRN00107,EMP01542,Leadership Fundamentals,Pluralsight,Domain,2023-07-28,,Failed,60,53,1148,No,Yes,Yes,UX Research
+TRN00108,EMP01750,Docker & Kubernetes,Coursera,Compliance,2024-08-15,2024-12-06,Completed,86,64,305,No,No,Yes,Go
+TRN00109,EMP02054,Agile & Scrum,Pluralsight,Technical,2024-03-15,,In Progress,,29,925,No,Yes,Yes,Figma
+TRN00110,EMP02104,Communication Skills,Coursera,Soft Skills,2024-12-10,2024-06-27,Passed,94,73,1454,Yes,Yes,Yes,HR Analytics
+TRN00111,EMP01640,Legal Compliance 2024,Coursera,Domain,2024-03-26,,In Progress,,62,79,No,Yes,No,Kubernetes
+TRN00112,EMP02086,Security Awareness,LinkedIn Learning,Compliance,2023-09-12,2023-03-31,Completed,62,18,1271,No,Yes,Yes,AWS
+TRN00113,EMP01037,Conflict Resolution,Internal,Compliance,2023-02-06,2023-02-06,Passed,97,25,1495,Yes,No,Yes,UX Research
+TRN00114,EMP01215,Public Speaking,Pluralsight,Soft Skills,2023-04-21,,In Progress,,67,1749,No,Yes,Yes,Node.js
+TRN00115,EMP01349,Excel Advanced,Coursera,Leadership,2023-04-18,,Enrolled,,40,1685,No,Yes,Yes,HubSpot
+TRN00116,EMP02088,UX Design Thinking,Coursera,Domain,2023-05-16,,Failed,91,47,1404,No,No,Yes,Leadership
+TRN00117,EMP01807,Legal Compliance 2024,LinkedIn Learning,Domain,2024-07-18,2024-11-27,Completed,79,55,1342,No,No,No,Excel
+TRN00118,EMP01229,Security Awareness,Harvard Online,Domain,2024-02-13,2023-09-18,Completed,70,44,17,No,No,No,Figma
+TRN00119,EMP01667,Legal Compliance 2024,LinkedIn Learning,Soft Skills,2024-02-01,2024-01-06,Completed,94,71,1838,No,No,Yes,Scrum
+TRN00120,EMP01628,Communication Skills,LinkedIn Learning,Compliance,2023-01-27,,Enrolled,,12,143,No,No,Yes,React
+TRN00121,EMP02196,Machine Learning Basics,Skillsoft,Technical,2024-07-21,2023-04-18,Completed,66,54,108,No,No,No,Machine Learning
+TRN00122,EMP02080,Public Speaking,Harvard Online,Leadership,2024-09-17,2024-10-26,Completed,70,54,1502,No,Yes,Yes,Project Management
+TRN00123,EMP01815,Security Awareness,Skillsoft,Technical,2023-06-10,2023-02-18,Completed,84,26,142,No,No,Yes,React
+TRN00124,EMP01860,Machine Learning Basics,Udemy,Soft Skills,2024-08-22,2024-01-01,Completed,79,2,1360,No,No,No,Power BI
+TRN00125,EMP02024,Communication Skills,Pluralsight,Leadership,2023-05-07,2024-12-25,Completed,91,24,1570,No,No,No,GCP
+TRN00126,EMP02186,Excel Advanced,Coursera,Domain,2024-07-22,,In Progress,,74,1005,No,Yes,No,Node.js
+TRN00127,EMP01450,Communication Skills,Coursera,Soft Skills,2024-03-29,2023-10-16,Completed,78,47,973,No,Yes,Yes,Performance Management
+TRN00128,EMP01114,Legal Compliance 2024,Udemy,Compliance,2024-12-16,,Enrolled,,20,1746,No,Yes,No,Docker
+TRN00129,EMP01133,Python for Data Science,Internal,Domain,2023-03-21,2023-08-25,Completed,87,50,1682,No,No,Yes,GCP
+TRN00130,EMP01864,Leadership Fundamentals,Udemy,Domain,2023-08-16,2024-07-31,Completed,78,24,946,No,Yes,Yes,Data Analysis
+TRN00131,EMP02063,Product Management 101,Internal,Technical,2024-03-02,2024-11-14,Completed,79,74,273,No,Yes,Yes,Salesforce
+TRN00132,EMP02016,AWS Certification,Internal,Compliance,2023-02-20,2023-01-29,Completed,77,66,1854,No,No,Yes,UX Research
+TRN00133,EMP01173,Machine Learning Basics,Harvard Online,Compliance,2024-03-15,2023-11-12,Completed,86,52,446,No,No,Yes,Tableau
+TRN00134,EMP01067,Communication Skills,Skillsoft,Technical,2024-01-30,,Dropped,,28,493,No,No,No,Communication
+TRN00135,EMP01929,Legal Compliance 2024,Pluralsight,Compliance,2024-09-03,,In Progress,,61,646,No,No,No,Communication
+TRN00136,EMP01605,React Development,Internal,Leadership,2024-02-11,2024-03-27,Completed,76,75,1463,No,Yes,Yes,Marketing Analytics
+TRN00137,EMP02025,Conflict Resolution,Pluralsight,Compliance,2023-01-13,,In Progress,,29,340,No,No,Yes,Kubernetes
+TRN00138,EMP01163,Machine Learning Basics,Skillsoft,Compliance,2023-07-24,2024-12-19,Completed,68,38,1477,No,No,Yes,Customer Success
+TRN00139,EMP01195,Conflict Resolution,Coursera,Technical,2023-01-17,2023-10-18,Completed,96,67,392,No,No,Yes,React
+TRN00140,EMP01080,Mental Health at Work,Coursera,Domain,2024-07-28,2023-07-16,Completed,87,48,154,No,No,No,HR Analytics
+TRN00141,EMP01088,Agile & Scrum,Pluralsight,Soft Skills,2024-05-07,2024-02-27,Completed,82,28,1268,No,No,Yes,React
+TRN00142,EMP01060,Diversity & Inclusion,Udemy,Compliance,2023-04-04,2023-01-18,Completed,94,8,1019,No,No,Yes,HR Analytics
+TRN00143,EMP01484,Excel Advanced,LinkedIn Learning,Compliance,2024-01-17,2023-04-25,Completed,73,57,563,No,Yes,Yes,Recruitment
+TRN00144,EMP01438,Communication Skills,Skillsoft,Technical,2024-11-12,2024-11-24,Completed,95,44,1199,No,No,Yes,Deep Learning
+TRN00145,EMP02159,AWS Certification,LinkedIn Learning,Compliance,2024-08-10,2024-01-01,Completed,96,80,1730,No,No,Yes,Machine Learning
+TRN00146,EMP01398,Docker & Kubernetes,Coursera,Leadership,2024-02-05,2023-12-13,Completed,80,29,776,No,Yes,Yes,Excel
+TRN00147,EMP01128,Legal Compliance 2024,Harvard Online,Technical,2023-07-29,2023-05-13,Completed,95,7,1373,No,Yes,Yes,Communication
+TRN00148,EMP01291,Conflict Resolution,Coursera,Compliance,2023-10-01,,In Progress,,17,962,No,Yes,Yes,Account Management
+TRN00149,EMP01605,Product Management 101,Harvard Online,Domain,2023-05-04,2023-03-06,Completed,66,39,1838,No,No,Yes,Data Visualization
+TRN00150,EMP01260,AWS Certification,Internal,Soft Skills,2024-05-04,2023-01-15,Completed,71,17,767,No,Yes,Yes,UX Research
+TRN00151,EMP01509,Excel Advanced,LinkedIn Learning,Compliance,2024-10-04,2024-08-21,Completed,98,52,1898,No,No,Yes,SQL
+TRN00152,EMP01289,Communication Skills,Coursera,Soft Skills,2023-03-18,,Enrolled,,25,635,No,Yes,No,Project Management
+TRN00153,EMP01549,Communication Skills,Harvard Online,Domain,2023-04-24,,Enrolled,,27,1888,No,No,Yes,SQL
+TRN00154,EMP01487,Machine Learning Basics,Harvard Online,Compliance,2023-01-15,2024-01-29,Completed,60,11,1719,No,No,No,Azure
+TRN00155,EMP02017,Financial Analysis,Skillsoft,Domain,2023-10-09,2024-09-02,Completed,95,38,527,No,No,No,Data Analysis
+TRN00156,EMP01904,Leadership Fundamentals,Coursera,Leadership,2023-10-31,2024-06-12,Completed,66,27,1741,No,Yes,No,Product Management
+TRN00157,EMP01308,SQL Mastery,Internal,Domain,2023-10-09,,Failed,64,58,717,No,Yes,Yes,JavaScript
+TRN00158,EMP01985,UX Design Thinking,Internal,Compliance,2024-07-02,2023-05-26,Completed,81,43,534,No,Yes,Yes,Java
+TRN00159,EMP01811,Conflict Resolution,Coursera,Soft Skills,2023-07-23,,Enrolled,,45,1571,No,No,Yes,Python
+TRN00160,EMP01492,Excel Advanced,Coursera,Domain,2023-03-05,2024-05-07,Completed,68,74,512,No,No,No,Product Management
+TRN00161,EMP01561,Docker & Kubernetes,Udemy,Technical,2023-08-07,2024-09-08,Completed,85,24,1412,No,No,Yes,NLP
+TRN00162,EMP01791,Financial Analysis,LinkedIn Learning,Leadership,2023-01-24,,In Progress,,17,1369,No,Yes,Yes,SQL
+TRN00163,EMP01423,UX Design Thinking,Pluralsight,Soft Skills,2024-09-24,2023-08-21,Completed,96,35,330,No,No,Yes,Tableau
+TRN00164,EMP02087,Diversity & Inclusion,Pluralsight,Technical,2023-12-26,,Enrolled,,55,753,No,No,Yes,Adobe XD
+TRN00165,EMP01084,Docker & Kubernetes,LinkedIn Learning,Compliance,2024-04-16,2024-04-20,Completed,61,51,574,No,Yes,Yes,Product Management
+TRN00166,EMP01490,Security Awareness,Pluralsight,Domain,2023-06-08,,In Progress,,36,1771,No,No,Yes,Data Analysis
+TRN00167,EMP01474,Conflict Resolution,Pluralsight,Domain,2023-11-16,,Enrolled,,29,1551,No,Yes,Yes,Data Analysis
+TRN00168,EMP01976,Data Privacy (GDPR),Internal,Technical,2024-02-06,,Dropped,,20,1786,No,No,Yes,Excel
+TRN00169,EMP02027,Data Privacy (GDPR),Coursera,Domain,2023-05-21,2024-08-22,Completed,78,62,1889,No,No,No,Communication
+TRN00170,EMP02158,UX Design Thinking,Internal,Technical,2023-07-16,2024-11-10,Completed,67,71,842,No,No,No,HR Analytics
+TRN00171,EMP01268,Data Privacy (GDPR),LinkedIn Learning,Domain,2023-04-27,,In Progress,,24,1241,No,No,No,Salesforce
+TRN00172,EMP01417,Communication Skills,Internal,Leadership,2023-05-08,,In Progress,,74,1501,No,No,Yes,SQL
+TRN00173,EMP01927,Public Speaking,LinkedIn Learning,Technical,2023-08-21,2024-02-13,Completed,79,41,1391,No,No,No,Kubernetes
+TRN00174,EMP01841,Diversity & Inclusion,Pluralsight,Compliance,2023-11-14,2023-02-14,Completed,67,34,915,No,Yes,Yes,Machine Learning
+TRN00175,EMP01289,Public Speaking,Harvard Online,Leadership,2023-04-23,2024-04-28,Completed,69,47,1048,No,Yes,Yes,Power BI
+TRN00176,EMP01383,Security Awareness,Internal,Technical,2024-10-16,,Enrolled,,66,1732,No,Yes,No,Leadership
+TRN00177,EMP01475,Agile & Scrum,Udemy,Domain,2024-09-14,,In Progress,,74,763,No,Yes,Yes,AWS
+TRN00178,EMP01929,Legal Compliance 2024,LinkedIn Learning,Compliance,2024-03-30,,Dropped,,49,1961,No,No,Yes,Data Analysis
+TRN00179,EMP01566,Mental Health at Work,Udemy,Leadership,2023-01-25,2023-11-07,Completed,89,7,1452,No,Yes,Yes,Rust
+TRN00180,EMP02116,Security Awareness,LinkedIn Learning,Technical,2024-01-21,2024-06-05,Completed,71,16,1500,No,Yes,Yes,Data Analysis
+TRN00181,EMP01532,SQL Mastery,Harvard Online,Domain,2024-10-06,,In Progress,,58,1268,No,No,Yes,Performance Management
+TRN00182,EMP02165,React Development,Skillsoft,Soft Skills,2024-12-20,2023-09-28,Passed,83,21,541,Yes,Yes,No,Leadership
+TRN00183,EMP01733,Security Awareness,Udemy,Compliance,2024-09-01,,In Progress,,10,1618,No,No,No,Kubernetes
+TRN00184,EMP01251,Data Privacy (GDPR),Internal,Leadership,2023-02-04,,In Progress,,25,747,No,No,No,Financial Modeling
+TRN00185,EMP02193,Financial Analysis,Harvard Online,Compliance,2023-05-20,2023-06-11,Completed,62,43,602,No,No,Yes,Legal Research
+TRN00186,EMP01163,Mental Health at Work,Skillsoft,Domain,2024-02-16,2024-04-03,Completed,75,33,1335,No,No,Yes,Product Management
+TRN00187,EMP01659,React Development,Skillsoft,Soft Skills,2023-05-30,2023-07-31,Completed,63,2,1282,No,Yes,No,SQL
+TRN00188,EMP01886,UX Design Thinking,LinkedIn Learning,Leadership,2024-03-16,,Failed,72,18,1219,No,No,Yes,Azure
+TRN00189,EMP01568,Communication Skills,Coursera,Compliance,2024-12-08,2024-03-09,Passed,100,62,552,Yes,No,Yes,Data Visualization
+TRN00190,EMP01415,Leadership Fundamentals,Udemy,Technical,2023-08-06,,Dropped,,54,805,No,Yes,Yes,Java
+TRN00191,EMP01977,Communication Skills,Internal,Domain,2024-04-10,,Enrolled,,16,1394,No,No,No,Tableau
+TRN00192,EMP01383,Python for Data Science,LinkedIn Learning,Soft Skills,2023-03-10,2024-06-28,Passed,100,72,832,Yes,No,Yes,Salesforce
+TRN00193,EMP01267,Mental Health at Work,Skillsoft,Leadership,2024-02-04,2023-05-07,Completed,88,22,946,No,No,No,Node.js
+TRN00194,EMP01016,Product Management 101,Coursera,Technical,2024-01-18,2024-07-28,Completed,95,24,1647,No,No,Yes,Product Management
+TRN00195,EMP01538,Agile & Scrum,Pluralsight,Domain,2023-10-03,2024-11-18,Completed,96,58,528,No,No,Yes,JavaScript
+TRN00196,EMP01879,React Development,LinkedIn Learning,Compliance,2023-02-21,,In Progress,,62,1351,No,Yes,Yes,Machine Learning
+TRN00197,EMP01996,Product Management 101,Internal,Technical,2023-04-10,2023-11-29,Completed,81,44,373,No,No,Yes,JavaScript
+TRN00198,EMP02159,Docker & Kubernetes,Pluralsight,Soft Skills,2023-02-25,2023-04-27,Completed,83,72,130,No,Yes,Yes,JavaScript
+TRN00199,EMP01747,SQL Mastery,Pluralsight,Compliance,2023-07-15,,Failed,67,11,1573,No,No,Yes,Performance Management
+TRN00200,EMP01473,AWS Certification,LinkedIn Learning,Soft Skills,2023-05-31,,In Progress,,28,538,No,No,Yes,Financial Modeling
+TRN00201,EMP01822,Legal Compliance 2024,Harvard Online,Technical,2023-08-11,2024-05-14,Completed,84,51,1654,No,No,Yes,Financial Modeling
+TRN00202,EMP01094,Python for Data Science,Internal,Technical,2023-12-18,2023-03-03,Completed,86,39,57,No,No,Yes,SQL
+TRN00203,EMP01787,Diversity & Inclusion,Skillsoft,Compliance,2023-01-23,2024-12-15,Completed,66,39,1485,No,No,Yes,Rust
+TRN00204,EMP01907,Excel Advanced,Pluralsight,Domain,2023-07-16,2023-11-25,Completed,74,14,930,No,Yes,Yes,Docker
+TRN00205,EMP01429,UX Design Thinking,Skillsoft,Compliance,2023-06-10,2023-06-08,Completed,78,12,136,No,Yes,No,SQL
+TRN00206,EMP01433,AWS Certification,Udemy,Leadership,2024-07-16,2024-08-02,Passed,68,51,757,Yes,Yes,No,Customer Success
+TRN00207,EMP01256,Diversity & Inclusion,Udemy,Domain,2024-02-24,,In Progress,,66,1118,No,No,No,JavaScript
+TRN00208,EMP02047,Data Privacy (GDPR),LinkedIn Learning,Compliance,2024-02-20,2024-06-06,Passed,100,37,899,Yes,Yes,Yes,NLP
+TRN00209,EMP01119,Legal Compliance 2024,Pluralsight,Domain,2024-03-15,,In Progress,,44,1157,No,Yes,Yes,Customer Success
+TRN00210,EMP01360,Machine Learning Basics,Harvard Online,Compliance,2024-10-25,,In Progress,,79,522,No,Yes,Yes,Rust
+TRN00211,EMP01951,Product Management 101,LinkedIn Learning,Leadership,2024-05-29,,Enrolled,,35,512,No,Yes,Yes,Kubernetes
+TRN00212,EMP02193,Leadership Fundamentals,Internal,Leadership,2023-04-28,,Enrolled,,41,1342,No,No,No,React
+TRN00213,EMP01953,Communication Skills,Pluralsight,Leadership,2023-01-14,,Failed,64,11,1039,No,Yes,No,Scrum
+TRN00214,EMP01899,Leadership Fundamentals,Pluralsight,Technical,2024-07-13,,Failed,98,71,199,No,Yes,No,Power BI
+TRN00215,EMP01085,Leadership Fundamentals,LinkedIn Learning,Leadership,2023-01-04,2024-06-04,Completed,77,37,1429,No,No,No,Salesforce
+TRN00216,EMP01340,Communication Skills,LinkedIn Learning,Leadership,2024-04-26,,Enrolled,,19,183,No,Yes,Yes,HubSpot
+TRN00217,EMP01113,Agile & Scrum,Coursera,Domain,2023-10-07,,Failed,83,18,823,No,No,Yes,Customer Success
+TRN00218,EMP01194,Financial Analysis,LinkedIn Learning,Technical,2023-11-04,2024-03-20,Completed,71,3,1740,No,Yes,Yes,Excel
+TRN00219,EMP01743,Mental Health at Work,Skillsoft,Leadership,2024-10-19,,In Progress,,55,611,No,Yes,No,Product Management
+TRN00220,EMP01662,Security Awareness,Udemy,Soft Skills,2024-06-03,2024-01-13,Passed,80,56,1615,Yes,Yes,Yes,Figma
+TRN00221,EMP01821,Product Management 101,Pluralsight,Domain,2023-03-15,2023-02-15,Completed,91,27,293,No,No,No,TypeScript
+TRN00222,EMP01860,Data Privacy (GDPR),Skillsoft,Technical,2023-08-31,,Enrolled,,59,1960,No,No,No,Product Management
+TRN00223,EMP01130,Security Awareness,Harvard Online,Compliance,2024-12-07,2023-07-17,Completed,89,42,1757,No,Yes,Yes,HubSpot
+TRN00224,EMP01790,UX Design Thinking,Skillsoft,Technical,2024-10-02,2023-10-30,Completed,96,37,80,No,Yes,No,UX Research
+TRN00225,EMP01623,Legal Compliance 2024,Udemy,Soft Skills,2024-08-24,2024-04-14,Passed,99,68,1098,Yes,Yes,Yes,Power BI
+TRN00226,EMP01730,Leadership Fundamentals,Internal,Leadership,2024-11-29,2023-02-02,Completed,80,75,1885,No,No,No,Excel
+TRN00227,EMP01961,Docker & Kubernetes,Harvard Online,Technical,2023-09-15,,In Progress,,20,754,No,Yes,Yes,Go
+TRN00228,EMP01674,React Development,Internal,Soft Skills,2023-05-15,2024-01-18,Completed,77,77,803,No,No,Yes,Data Visualization
+TRN00229,EMP02146,Diversity & Inclusion,Skillsoft,Leadership,2023-08-08,2024-05-22,Completed,68,28,1126,No,Yes,No,Rust
+TRN00230,EMP01172,AWS Certification,Internal,Leadership,2023-07-04,,Failed,98,51,1376,No,No,Yes,Customer Success
+TRN00231,EMP02124,Legal Compliance 2024,Udemy,Compliance,2023-06-23,,Enrolled,,69,1154,No,Yes,Yes,UX Research
+TRN00232,EMP01252,Financial Analysis,Skillsoft,Compliance,2023-10-25,2024-02-08,Completed,60,53,1036,No,No,Yes,Recruitment
+TRN00233,EMP01886,SQL Mastery,Udemy,Technical,2024-09-30,,Enrolled,,11,1374,No,Yes,Yes,React
+TRN00234,EMP01410,AWS Certification,Internal,Domain,2023-11-30,2023-08-04,Completed,79,70,1595,No,No,No,UX Research
+TRN00235,EMP01509,Product Management 101,LinkedIn Learning,Leadership,2023-06-22,,Enrolled,,35,50,No,No,Yes,Account Management
+TRN00236,EMP01431,AWS Certification,Internal,Soft Skills,2023-04-04,,Failed,87,51,1572,No,No,Yes,Data Visualization
+TRN00237,EMP01085,SQL Mastery,Udemy,Leadership,2024-08-23,2023-01-17,Completed,76,58,544,No,Yes,Yes,GCP
+TRN00238,EMP02095,React Development,Harvard Online,Leadership,2023-01-22,2024-01-19,Passed,92,5,1420,Yes,No,No,HR Analytics
+TRN00239,EMP01010,Diversity & Inclusion,Skillsoft,Domain,2023-04-10,,Enrolled,,65,106,No,Yes,No,Docker
+TRN00240,EMP01408,Leadership Fundamentals,Internal,Compliance,2023-08-29,2023-01-19,Completed,95,58,1784,No,No,Yes,Docker
+TRN00241,EMP01549,React Development,Harvard Online,Leadership,2024-03-31,,Dropped,,30,571,No,No,Yes,Java
+TRN00242,EMP01094,Financial Analysis,Skillsoft,Technical,2023-02-15,2024-06-25,Completed,83,73,660,No,No,Yes,TypeScript
+TRN00243,EMP02040,Conflict Resolution,LinkedIn Learning,Technical,2024-03-23,2024-05-23,Completed,97,23,1964,No,Yes,Yes,Go
+TRN00244,EMP01099,Financial Analysis,Udemy,Leadership,2023-04-05,,Enrolled,,63,251,No,No,No,Node.js
+TRN00245,EMP01975,Mental Health at Work,Udemy,Leadership,2023-05-24,,In Progress,,5,138,No,No,No,Excel
+TRN00246,EMP01951,Machine Learning Basics,Internal,Technical,2023-09-10,2023-08-13,Passed,68,43,1134,Yes,Yes,Yes,HR Analytics
+TRN00247,EMP02029,Machine Learning Basics,Pluralsight,Technical,2023-08-22,2023-01-19,Completed,62,40,1393,No,Yes,No,Docker
+TRN00248,EMP01536,Conflict Resolution,Pluralsight,Technical,2024-11-15,,In Progress,,44,503,No,Yes,Yes,HubSpot
+TRN00249,EMP01809,Agile & Scrum,Pluralsight,Leadership,2024-12-10,,Enrolled,,50,338,No,No,Yes,Figma
+TRN00250,EMP01620,Python for Data Science,Harvard Online,Technical,2023-02-05,2024-03-21,Completed,64,75,711,No,Yes,No,SQL
+TRN00251,EMP01768,Communication Skills,Pluralsight,Domain,2024-03-17,,In Progress,,43,395,No,No,No,Azure
+TRN00252,EMP01439,Agile & Scrum,Pluralsight,Technical,2024-07-28,2024-05-06,Completed,95,48,1791,No,Yes,Yes,Rust
+TRN00253,EMP01441,Excel Advanced,Internal,Technical,2023-07-01,,Enrolled,,45,134,No,No,Yes,Project Management
+TRN00254,EMP01141,Mental Health at Work,Pluralsight,Technical,2023-05-14,,Failed,79,10,671,No,Yes,Yes,Docker
+TRN00255,EMP01119,Data Privacy (GDPR),Udemy,Soft Skills,2024-07-13,,Enrolled,,60,423,No,Yes,Yes,Project Management
+TRN00256,EMP01062,Security Awareness,Harvard Online,Domain,2024-08-26,,Enrolled,,58,1233,No,No,No,Data Analysis
+TRN00257,EMP01674,Docker & Kubernetes,LinkedIn Learning,Leadership,2024-12-07,,Enrolled,,39,1317,No,Yes,Yes,Financial Modeling
+TRN00258,EMP01859,UX Design Thinking,Udemy,Technical,2024-05-05,2023-05-10,Passed,81,79,558,Yes,Yes,Yes,Data Visualization
+TRN00259,EMP01557,Product Management 101,Skillsoft,Technical,2023-07-17,2023-08-31,Completed,61,77,1049,No,No,Yes,Salesforce
+TRN00260,EMP01523,Communication Skills,Harvard Online,Compliance,2023-11-28,2023-10-25,Completed,99,34,1657,No,Yes,Yes,Tableau
+TRN00261,EMP01496,Agile & Scrum,LinkedIn Learning,Technical,2023-08-29,,Failed,85,27,302,No,No,No,Power BI
+TRN00262,EMP02132,AWS Certification,Udemy,Soft Skills,2023-07-14,2024-10-30,Completed,73,3,712,No,No,Yes,Customer Success
+TRN00263,EMP01336,AWS Certification,Skillsoft,Soft Skills,2024-05-19,2023-05-24,Completed,73,55,961,No,Yes,Yes,Machine Learning
+TRN00264,EMP02084,Excel Advanced,Skillsoft,Compliance,2024-10-09,,Failed,71,21,156,No,Yes,Yes,AWS
+TRN00265,EMP01750,Public Speaking,Pluralsight,Soft Skills,2024-11-09,,In Progress,,8,1039,No,No,Yes,Legal Research
+TRN00266,EMP01312,Excel Advanced,Coursera,Domain,2024-10-30,2023-03-06,Passed,72,68,1649,Yes,Yes,Yes,Account Management
+TRN00267,EMP01883,React Development,Harvard Online,Technical,2023-06-15,,In Progress,,4,1758,No,Yes,Yes,Legal Research
+TRN00268,EMP01584,Mental Health at Work,Skillsoft,Technical,2024-07-12,,Enrolled,,17,544,No,Yes,Yes,Salesforce
+TRN00269,EMP01939,Mental Health at Work,Internal,Soft Skills,2024-07-09,,Dropped,,33,1808,No,No,Yes,Financial Modeling
+TRN00270,EMP01012,Diversity & Inclusion,Pluralsight,Leadership,2024-05-12,2024-11-05,Completed,97,57,1024,No,Yes,No,Scrum
+TRN00271,EMP01809,Leadership Fundamentals,Udemy,Compliance,2023-10-18,,In Progress,,55,535,No,No,Yes,Deep Learning
+TRN00272,EMP01957,Public Speaking,Pluralsight,Leadership,2023-10-06,2024-06-10,Completed,77,5,1414,No,Yes,Yes,C++
+TRN00273,EMP01046,Public Speaking,Coursera,Leadership,2024-01-17,2023-09-19,Passed,69,21,1897,Yes,No,Yes,HR Analytics
+TRN00274,EMP01805,Product Management 101,Internal,Leadership,2024-07-07,2024-08-13,Completed,95,28,1689,No,No,Yes,Account Management
+TRN00275,EMP01985,AWS Certification,LinkedIn Learning,Domain,2024-02-06,,In Progress,,47,1565,No,No,No,Power BI
+TRN00276,EMP02054,Machine Learning Basics,Coursera,Soft Skills,2023-10-05,2024-07-05,Passed,76,45,1972,Yes,No,No,Product Management
+TRN00277,EMP01611,Excel Advanced,Skillsoft,Soft Skills,2024-03-02,,In Progress,,26,446,No,No,No,Go
+TRN00278,EMP01090,Agile & Scrum,Coursera,Leadership,2024-01-03,,In Progress,,77,773,No,No,Yes,Adobe XD
+TRN00279,EMP01447,Conflict Resolution,LinkedIn Learning,Domain,2024-11-14,,Enrolled,,36,1913,No,Yes,Yes,Recruitment
+TRN00280,EMP02181,UX Design Thinking,Internal,Technical,2023-02-20,2024-05-09,Passed,62,51,238,Yes,Yes,No,Python
+TRN00281,EMP01258,Excel Advanced,Harvard Online,Compliance,2024-08-26,2024-03-03,Completed,60,50,1887,No,No,Yes,HubSpot
+TRN00282,EMP01511,Public Speaking,Harvard Online,Compliance,2023-01-24,2024-09-01,Completed,79,38,439,No,No,Yes,Figma
+TRN00283,EMP01775,Product Management 101,Pluralsight,Leadership,2023-03-09,,In Progress,,70,223,No,No,No,Salesforce
+TRN00284,EMP01635,Docker & Kubernetes,Internal,Domain,2023-05-14,,Enrolled,,57,1334,No,Yes,No,Recruitment
+TRN00285,EMP02019,Leadership Fundamentals,Pluralsight,Domain,2024-11-05,,Enrolled,,62,1931,No,Yes,Yes,Node.js
+TRN00286,EMP01326,Data Privacy (GDPR),Skillsoft,Technical,2024-04-21,2024-04-24,Completed,77,56,896,No,No,Yes,Deep Learning
+TRN00287,EMP01437,Public Speaking,Skillsoft,Leadership,2023-02-24,2023-11-25,Passed,81,45,1616,Yes,Yes,Yes,Deep Learning
+TRN00288,EMP01301,Product Management 101,Harvard Online,Soft Skills,2023-04-02,2024-04-26,Completed,68,64,1432,No,No,Yes,Java
+TRN00289,EMP02017,Mental Health at Work,Pluralsight,Compliance,2023-08-29,2023-09-21,Completed,61,20,801,No,Yes,Yes,Node.js
+TRN00290,EMP01182,Mental Health at Work,Harvard Online,Compliance,2023-06-05,2024-01-26,Completed,73,23,426,No,Yes,Yes,Go
+TRN00291,EMP02025,Mental Health at Work,Harvard Online,Compliance,2024-04-25,,Failed,90,67,1408,No,No,No,Docker
+TRN00292,EMP01053,Product Management 101,Udemy,Technical,2024-12-14,2023-03-31,Completed,65,68,859,No,No,Yes,Machine Learning
+TRN00293,EMP01676,SQL Mastery,Skillsoft,Compliance,2023-02-17,2023-03-23,Completed,92,71,188,No,No,Yes,Go
+TRN00294,EMP02196,Machine Learning Basics,Coursera,Domain,2023-03-18,,Enrolled,,66,1410,No,Yes,No,SQL
+TRN00295,EMP01944,AWS Certification,Harvard Online,Soft Skills,2023-04-23,2024-08-27,Completed,77,69,347,No,Yes,No,Scrum
+TRN00296,EMP02021,Excel Advanced,Harvard Online,Domain,2023-09-27,2024-03-18,Completed,74,49,914,No,Yes,Yes,Power BI
+TRN00297,EMP01577,Excel Advanced,LinkedIn Learning,Compliance,2024-04-28,,In Progress,,31,1715,No,No,No,HubSpot
+TRN00298,EMP01665,Docker & Kubernetes,Udemy,Leadership,2023-09-28,2024-11-21,Completed,89,78,1891,No,Yes,Yes,Account Management
+TRN00299,EMP01874,Docker & Kubernetes,Coursera,Soft Skills,2023-09-11,,In Progress,,26,868,No,No,Yes,AWS
+TRN00300,EMP02001,AWS Certification,LinkedIn Learning,Compliance,2023-10-04,2023-06-13,Completed,74,58,502,No,No,No,JavaScript
+TRN00301,EMP01401,Machine Learning Basics,Harvard Online,Compliance,2024-07-07,,Enrolled,,70,1850,No,No,Yes,NLP
+TRN00302,EMP01570,Communication Skills,Udemy,Compliance,2024-07-31,2023-02-03,Completed,85,33,261,No,No,No,Salesforce
+TRN00303,EMP02106,Machine Learning Basics,Skillsoft,Domain,2023-10-20,2023-02-08,Completed,60,38,307,No,Yes,Yes,Recruitment
+TRN00304,EMP01838,Mental Health at Work,Pluralsight,Compliance,2024-04-15,,In Progress,,54,1454,No,Yes,Yes,Legal Research
+TRN00305,EMP01582,Conflict Resolution,Skillsoft,Leadership,2024-08-09,,Enrolled,,28,1684,No,Yes,No,Excel
+TRN00306,EMP01985,Conflict Resolution,Skillsoft,Technical,2024-12-21,2024-05-20,Passed,97,68,1223,Yes,Yes,Yes,Legal Research
+TRN00307,EMP01700,Diversity & Inclusion,Pluralsight,Soft Skills,2023-01-17,,Enrolled,,65,1349,No,Yes,Yes,Product Management
+TRN00308,EMP01756,Python for Data Science,Coursera,Soft Skills,2024-02-18,2023-05-14,Completed,77,2,1038,No,Yes,Yes,Performance Management
+TRN00309,EMP01487,Communication Skills,Skillsoft,Leadership,2023-09-25,,Enrolled,,52,986,No,No,No,Salesforce
+TRN00310,EMP01592,Excel Advanced,Skillsoft,Soft Skills,2023-05-29,,Enrolled,,44,46,No,No,No,Account Management
+TRN00311,EMP01553,Mental Health at Work,Harvard Online,Domain,2024-11-07,,In Progress,,38,1025,No,Yes,No,Legal Research
+TRN00312,EMP01484,Product Management 101,Udemy,Technical,2023-01-30,2023-05-11,Completed,94,74,1506,No,Yes,Yes,Marketing Analytics
+TRN00313,EMP02175,Docker & Kubernetes,Harvard Online,Technical,2023-10-31,,Failed,71,38,394,No,Yes,Yes,Product Management
+TRN00314,EMP02054,Security Awareness,Skillsoft,Compliance,2024-09-14,,In Progress,,22,1096,No,No,Yes,Legal Research
+TRN00315,EMP01579,React Development,LinkedIn Learning,Leadership,2023-08-17,,In Progress,,69,1407,No,No,Yes,Customer Success
+TRN00316,EMP01671,AWS Certification,Udemy,Soft Skills,2023-01-13,2024-05-11,Completed,68,12,1688,No,No,Yes,Excel
+TRN00317,EMP01926,Financial Analysis,Internal,Technical,2023-07-01,2023-07-08,Passed,69,36,1015,Yes,Yes,Yes,Kubernetes
+TRN00318,EMP01936,Agile & Scrum,Udemy,Soft Skills,2024-04-20,2024-07-01,Passed,61,9,795,Yes,No,Yes,Performance Management
+TRN00319,EMP02005,Communication Skills,Pluralsight,Soft Skills,2024-07-27,2024-01-06,Completed,80,48,80,No,No,Yes,HR Analytics
+TRN00320,EMP01276,Python for Data Science,Coursera,Domain,2023-05-17,2024-11-04,Completed,68,40,547,No,Yes,Yes,React
+TRN00321,EMP01918,AWS Certification,Coursera,Domain,2024-01-15,2023-11-22,Completed,91,9,572,No,Yes,Yes,Deep Learning
+TRN00322,EMP01585,Conflict Resolution,LinkedIn Learning,Technical,2024-01-19,2023-04-22,Completed,67,67,279,No,Yes,Yes,Adobe XD
+TRN00323,EMP01165,Security Awareness,Skillsoft,Domain,2024-01-17,2023-03-05,Completed,64,5,260,No,Yes,Yes,Deep Learning
+TRN00324,EMP02080,AWS Certification,Udemy,Domain,2024-08-14,2024-10-14,Completed,68,71,644,No,Yes,No,Machine Learning
+TRN00325,EMP01712,Leadership Fundamentals,Udemy,Soft Skills,2023-04-13,2024-12-31,Completed,77,12,803,No,Yes,Yes,SQL
+TRN00326,EMP01874,Public Speaking,LinkedIn Learning,Soft Skills,2024-11-29,,Dropped,,20,1974,No,Yes,Yes,HubSpot
+TRN00327,EMP01889,Product Management 101,Skillsoft,Soft Skills,2024-11-08,,In Progress,,71,181,No,No,Yes,Product Management
+TRN00328,EMP01929,AWS Certification,Skillsoft,Domain,2024-10-25,2023-11-08,Completed,67,75,959,No,Yes,No,Scrum
+TRN00329,EMP01357,AWS Certification,Pluralsight,Technical,2023-04-21,2023-12-23,Completed,77,28,1498,No,Yes,No,Go
+TRN00330,EMP01079,Product Management 101,Coursera,Technical,2023-11-05,2024-11-21,Completed,95,68,280,No,Yes,No,UX Research
+TRN00331,EMP01974,Communication Skills,Skillsoft,Technical,2024-10-06,2023-01-27,Completed,99,72,385,No,Yes,Yes,Data Visualization
+TRN00332,EMP01280,UX Design Thinking,Udemy,Domain,2023-07-29,2024-09-16,Completed,89,18,764,No,Yes,Yes,Customer Success
+TRN00333,EMP01458,React Development,Skillsoft,Leadership,2024-09-25,2023-04-07,Completed,87,58,1937,No,Yes,Yes,Rust
+TRN00334,EMP02192,Data Privacy (GDPR),LinkedIn Learning,Compliance,2024-12-23,,Failed,61,14,467,No,Yes,No,Legal Research
+TRN00335,EMP01650,Excel Advanced,Udemy,Soft Skills,2023-11-13,2024-10-07,Completed,97,60,1650,No,Yes,No,Deep Learning
+TRN00336,EMP01028,React Development,Harvard Online,Domain,2024-06-05,2024-04-28,Completed,95,57,1694,No,Yes,Yes,Machine Learning
+TRN00337,EMP01093,Communication Skills,Harvard Online,Soft Skills,2024-07-10,,Enrolled,,46,591,No,Yes,No,Python
+TRN00338,EMP01206,Agile & Scrum,Internal,Leadership,2024-06-16,2024-11-03,Completed,76,42,1404,No,Yes,Yes,Salesforce
+TRN00339,EMP02172,Communication Skills,Udemy,Compliance,2024-07-07,2023-09-26,Completed,93,16,1275,No,Yes,No,Python
+TRN00340,EMP01429,Data Privacy (GDPR),Pluralsight,Soft Skills,2024-12-24,2024-03-25,Completed,95,10,579,No,No,Yes,HubSpot
+TRN00341,EMP01972,Product Management 101,Pluralsight,Leadership,2024-11-24,,Enrolled,,14,1727,No,No,Yes,HR Analytics
+TRN00342,EMP01183,Public Speaking,Pluralsight,Technical,2023-11-18,2023-09-07,Completed,74,36,1954,No,No,Yes,Deep Learning
+TRN00343,EMP01791,Excel Advanced,Coursera,Domain,2024-10-14,2023-05-22,Completed,86,78,929,No,Yes,Yes,Azure
+TRN00344,EMP01077,Security Awareness,Harvard Online,Technical,2024-05-30,,Failed,81,21,88,No,No,No,UX Research
+TRN00345,EMP01492,Python for Data Science,Udemy,Compliance,2023-09-19,,In Progress,,8,697,No,No,No,Communication
+TRN00346,EMP02072,UX Design Thinking,Coursera,Domain,2024-04-27,,In Progress,,34,1431,No,Yes,Yes,Communication
+TRN00347,EMP01056,Product Management 101,Harvard Online,Compliance,2024-12-22,2024-12-17,Completed,96,19,1546,No,Yes,Yes,Leadership
+TRN00348,EMP01412,Machine Learning Basics,Pluralsight,Technical,2023-07-06,2024-06-22,Completed,73,11,1709,No,Yes,No,Legal Research
+TRN00349,EMP01417,Public Speaking,LinkedIn Learning,Compliance,2023-05-15,2023-07-08,Passed,92,32,288,Yes,No,Yes,Tableau
+TRN00350,EMP01664,Product Management 101,Udemy,Leadership,2024-09-06,,Failed,86,30,7,No,No,Yes,Salesforce
+TRN00351,EMP01944,Public Speaking,Harvard Online,Compliance,2024-03-28,2024-06-28,Completed,84,38,137,No,No,Yes,Excel
+TRN00352,EMP01806,Mental Health at Work,Skillsoft,Technical,2023-01-14,,Dropped,,45,1474,No,Yes,No,AWS
+TRN00353,EMP01243,Mental Health at Work,Pluralsight,Compliance,2024-01-26,2023-06-13,Completed,75,15,1969,No,Yes,No,Project Management
+TRN00354,EMP01534,UX Design Thinking,Internal,Soft Skills,2024-10-06,,Dropped,,56,1777,No,Yes,Yes,Node.js
+TRN00355,EMP01996,Excel Advanced,Udemy,Compliance,2024-08-17,2023-02-11,Completed,65,46,811,No,No,Yes,Rust
+TRN00356,EMP01976,UX Design Thinking,Harvard Online,Compliance,2024-02-18,2024-08-03,Passed,78,13,541,Yes,No,Yes,Go
+TRN00357,EMP01307,Communication Skills,Skillsoft,Domain,2023-07-19,2024-11-26,Completed,99,51,1662,No,Yes,No,C++
+TRN00358,EMP01662,AWS Certification,Skillsoft,Leadership,2023-05-06,2024-03-09,Completed,83,55,1407,No,No,No,Rust
+TRN00359,EMP01577,Conflict Resolution,Udemy,Soft Skills,2024-01-28,2024-01-02,Completed,81,67,802,No,Yes,No,Azure
+TRN00360,EMP01126,Public Speaking,Harvard Online,Leadership,2024-04-15,2024-08-07,Completed,84,78,461,No,Yes,No,HR Analytics
+TRN00361,EMP01938,Communication Skills,Udemy,Compliance,2023-10-18,2023-07-25,Completed,87,78,1878,No,Yes,Yes,Salesforce
+TRN00362,EMP01124,Security Awareness,Skillsoft,Domain,2023-07-31,2024-05-23,Completed,98,38,909,No,No,Yes,Adobe XD
+TRN00363,EMP01103,Excel Advanced,Udemy,Soft Skills,2024-02-29,,In Progress,,9,237,No,Yes,No,Excel
+TRN00364,EMP01615,Leadership Fundamentals,LinkedIn Learning,Soft Skills,2023-10-17,,In Progress,,44,74,No,Yes,No,Financial Modeling
+TRN00365,EMP02012,AWS Certification,Internal,Compliance,2023-11-13,,Enrolled,,80,1476,No,Yes,Yes,Agile
+TRN00366,EMP01157,Product Management 101,Internal,Compliance,2024-07-21,,In Progress,,65,770,No,Yes,Yes,Leadership
+TRN00367,EMP01652,Product Management 101,Internal,Technical,2023-07-28,2024-01-20,Passed,72,23,1805,Yes,No,Yes,Excel
+TRN00368,EMP02140,Security Awareness,Udemy,Leadership,2023-04-11,2024-09-28,Completed,100,20,178,No,No,Yes,Scrum
+TRN00369,EMP01561,Financial Analysis,Internal,Leadership,2024-04-13,,Enrolled,,31,1243,No,Yes,No,React
+TRN00370,EMP01702,Legal Compliance 2024,Skillsoft,Leadership,2023-06-17,2024-11-13,Passed,72,54,764,Yes,No,No,TypeScript
+TRN00371,EMP01384,React Development,Internal,Compliance,2024-12-10,,In Progress,,62,1287,No,Yes,No,UX Research
+TRN00372,EMP01045,Security Awareness,Internal,Technical,2024-12-31,2024-11-06,Passed,68,27,523,Yes,No,No,Go
+TRN00373,EMP01256,Machine Learning Basics,Pluralsight,Technical,2024-04-11,2024-03-16,Completed,77,70,1470,No,Yes,No,AWS
+TRN00374,EMP01441,Agile & Scrum,Coursera,Domain,2024-09-01,,Enrolled,,45,1880,No,No,Yes,TypeScript
+TRN00375,EMP01816,Mental Health at Work,Skillsoft,Technical,2024-05-17,2023-01-13,Completed,74,32,1533,No,Yes,No,Agile
+TRN00376,EMP02119,Legal Compliance 2024,Coursera,Compliance,2023-07-17,2023-09-12,Completed,62,70,1599,No,No,Yes,Recruitment
+TRN00377,EMP01780,Conflict Resolution,Coursera,Leadership,2024-08-05,2024-02-17,Completed,71,41,1265,No,No,No,Legal Research
+TRN00378,EMP01128,Excel Advanced,Coursera,Domain,2024-08-25,2024-03-27,Completed,82,69,788,No,Yes,Yes,Account Management
+TRN00379,EMP02119,Machine Learning Basics,Coursera,Compliance,2023-10-02,2023-04-11,Completed,84,11,811,No,No,Yes,Account Management
+TRN00380,EMP01988,Python for Data Science,Internal,Soft Skills,2023-12-02,2023-10-18,Completed,93,46,396,No,No,Yes,Customer Success
+TRN00381,EMP02193,Python for Data Science,LinkedIn Learning,Domain,2023-01-21,,Enrolled,,67,1150,No,Yes,No,Account Management
+TRN00382,EMP01685,Public Speaking,Pluralsight,Leadership,2024-01-04,2024-06-26,Passed,76,8,346,Yes,No,Yes,Product Management
+TRN00383,EMP01725,Excel Advanced,Pluralsight,Domain,2024-09-04,,In Progress,,20,938,No,Yes,No,Adobe XD
+TRN00384,EMP02105,Machine Learning Basics,Skillsoft,Compliance,2023-12-11,2024-07-08,Passed,99,4,700,Yes,No,Yes,Account Management
+TRN00385,EMP01094,Public Speaking,Skillsoft,Domain,2023-11-27,,Failed,68,52,153,No,No,Yes,Communication
+TRN00386,EMP02165,Mental Health at Work,Udemy,Compliance,2024-01-12,,Enrolled,,53,869,No,Yes,No,NLP
+TRN00387,EMP01074,Communication Skills,Pluralsight,Technical,2024-02-26,2023-07-20,Completed,88,76,891,No,Yes,Yes,Rust
+TRN00388,EMP01359,Excel Advanced,Harvard Online,Domain,2023-12-27,2024-02-10,Completed,95,33,807,No,No,No,React
+TRN00389,EMP02068,Leadership Fundamentals,Harvard Online,Technical,2023-12-04,,Enrolled,,6,1723,No,Yes,No,NLP
+TRN00390,EMP01176,React Development,Udemy,Domain,2023-07-01,,Failed,72,43,829,No,Yes,Yes,Product Management
+TRN00391,EMP01388,SQL Mastery,LinkedIn Learning,Leadership,2023-04-01,,Dropped,,24,33,No,No,No,Marketing Analytics
+TRN00392,EMP01900,Agile & Scrum,Udemy,Domain,2024-03-11,2023-01-03,Completed,84,66,382,No,No,Yes,Tableau
+TRN00393,EMP01646,Machine Learning Basics,LinkedIn Learning,Leadership,2023-11-14,2024-12-05,Completed,80,31,1824,No,Yes,Yes,Node.js
+TRN00394,EMP01676,Public Speaking,Skillsoft,Technical,2024-05-04,2023-01-31,Completed,60,75,789,No,Yes,Yes,Legal Research
+TRN00395,EMP01629,Machine Learning Basics,Udemy,Compliance,2024-08-23,,In Progress,,30,568,No,No,Yes,Data Visualization
+TRN00396,EMP01105,AWS Certification,Harvard Online,Compliance,2024-10-27,2024-10-20,Completed,87,28,503,No,No,Yes,Scrum
+TRN00397,EMP01995,Python for Data Science,Harvard Online,Technical,2023-09-06,,Failed,70,29,142,No,Yes,Yes,JavaScript
+TRN00398,EMP01337,Legal Compliance 2024,Udemy,Leadership,2024-05-30,2023-10-17,Passed,88,31,80,Yes,Yes,No,Recruitment
+TRN00399,EMP01067,Python for Data Science,Udemy,Compliance,2023-05-12,2023-02-14,Completed,85,20,1039,No,No,Yes,Power BI
+TRN00400,EMP02087,Communication Skills,LinkedIn Learning,Domain,2023-12-05,2023-04-13,Completed,100,11,1350,No,No,Yes,Financial Modeling
+TRN00401,EMP02073,Security Awareness,Coursera,Technical,2023-11-16,2023-09-10,Completed,100,50,1014,No,No,Yes,Go
+TRN00402,EMP01344,Machine Learning Basics,Internal,Leadership,2024-05-09,2024-03-14,Completed,85,69,263,No,Yes,Yes,JavaScript
+TRN00403,EMP02080,Legal Compliance 2024,Coursera,Soft Skills,2024-06-01,,In Progress,,59,1628,No,No,No,Java
+TRN00404,EMP01399,Financial Analysis,Coursera,Domain,2024-06-14,2023-06-21,Completed,83,59,62,No,No,No,HubSpot
+TRN00405,EMP02141,Security Awareness,Pluralsight,Soft Skills,2024-01-12,2024-10-10,Completed,92,71,1946,No,No,Yes,UX Research
+TRN00406,EMP01254,Public Speaking,LinkedIn Learning,Soft Skills,2024-07-10,2023-02-15,Completed,82,38,1405,No,No,Yes,Account Management
+TRN00407,EMP02064,Mental Health at Work,Pluralsight,Domain,2023-08-26,2023-01-07,Completed,67,68,1557,No,No,Yes,Excel
+TRN00408,EMP01046,Docker & Kubernetes,LinkedIn Learning,Soft Skills,2024-08-10,,Enrolled,,31,1350,No,No,No,Go
+TRN00409,EMP02114,React Development,Harvard Online,Technical,2023-01-30,,Enrolled,,34,371,No,No,Yes,HR Analytics
+TRN00410,EMP01748,React Development,Harvard Online,Compliance,2023-10-26,2024-06-22,Completed,100,76,1823,No,No,Yes,Deep Learning
+TRN00411,EMP01998,Mental Health at Work,Skillsoft,Technical,2024-01-11,,Enrolled,,29,1904,No,No,Yes,UX Research
+TRN00412,EMP01641,Agile & Scrum,Skillsoft,Leadership,2024-05-22,,Enrolled,,66,83,No,No,No,Account Management
+TRN00413,EMP01975,Diversity & Inclusion,Coursera,Compliance,2024-10-07,,Dropped,,41,512,No,No,Yes,HR Analytics
+TRN00414,EMP01253,Security Awareness,LinkedIn Learning,Domain,2023-04-21,2023-10-21,Completed,94,2,1143,No,No,No,Salesforce
+TRN00415,EMP01829,Mental Health at Work,Pluralsight,Soft Skills,2023-04-11,2024-12-30,Completed,62,46,1067,No,No,No,Power BI
+TRN00416,EMP01575,Machine Learning Basics,Harvard Online,Leadership,2023-03-09,,Dropped,,72,1911,No,No,Yes,Project Management
+TRN00417,EMP01472,Agile & Scrum,LinkedIn Learning,Technical,2024-11-08,,Enrolled,,65,1843,No,No,No,Azure
+TRN00418,EMP01048,React Development,Udemy,Soft Skills,2024-02-26,2023-07-02,Completed,77,56,446,No,Yes,Yes,HubSpot
+TRN00419,EMP02102,Legal Compliance 2024,Pluralsight,Leadership,2023-12-12,,Enrolled,,31,686,No,No,Yes,Project Management
+TRN00420,EMP01609,Excel Advanced,Internal,Technical,2023-08-13,2023-05-29,Completed,66,16,1307,No,Yes,No,Salesforce
+TRN00421,EMP01816,UX Design Thinking,LinkedIn Learning,Leadership,2024-09-17,2024-08-14,Completed,92,40,1841,No,No,Yes,AWS
+TRN00422,EMP01791,Agile & Scrum,Pluralsight,Domain,2024-02-25,,Enrolled,,67,416,No,Yes,No,Scrum
+TRN00423,EMP01206,Diversity & Inclusion,Pluralsight,Technical,2024-06-07,,Enrolled,,20,1875,No,Yes,No,Azure
+TRN00424,EMP01045,React Development,Coursera,Soft Skills,2023-07-22,2023-08-20,Completed,98,67,41,No,No,No,Product Management
+TRN00425,EMP01224,Security Awareness,Udemy,Compliance,2023-07-14,2024-12-16,Passed,91,42,1966,Yes,Yes,Yes,Java
+TRN00426,EMP01196,Conflict Resolution,Skillsoft,Domain,2024-04-01,2023-03-08,Completed,92,49,144,No,Yes,No,Go
+TRN00427,EMP01639,AWS Certification,Internal,Soft Skills,2023-04-30,,In Progress,,42,1260,No,Yes,Yes,Node.js
+TRN00428,EMP01866,Communication Skills,Skillsoft,Leadership,2024-06-07,,Enrolled,,52,1803,No,Yes,Yes,Power BI
+TRN00429,EMP02094,Public Speaking,Udemy,Domain,2023-08-25,,In Progress,,37,1582,No,No,Yes,GCP
+TRN00430,EMP01627,Leadership Fundamentals,Skillsoft,Domain,2023-08-19,,In Progress,,44,1355,No,No,No,Customer Success
+TRN00431,EMP01935,Product Management 101,Coursera,Domain,2023-11-19,2024-07-15,Completed,78,22,1735,No,Yes,No,Performance Management
+TRN00432,EMP02112,Machine Learning Basics,Pluralsight,Soft Skills,2024-05-30,2024-05-22,Completed,84,61,1371,No,No,No,Go
+TRN00433,EMP01462,Mental Health at Work,Internal,Leadership,2024-07-27,2024-06-13,Completed,64,41,1985,No,No,Yes,NLP
+TRN00434,EMP02104,Communication Skills,Skillsoft,Compliance,2023-03-31,,In Progress,,27,1521,No,Yes,No,NLP
+TRN00435,EMP01275,Conflict Resolution,Skillsoft,Compliance,2023-02-23,,Dropped,,68,197,No,No,No,Adobe XD
+TRN00436,EMP01816,Leadership Fundamentals,Harvard Online,Soft Skills,2023-01-25,,In Progress,,68,607,No,Yes,No,Data Analysis
+TRN00437,EMP01517,AWS Certification,Pluralsight,Soft Skills,2023-04-06,,In Progress,,42,975,No,No,No,Figma
+TRN00438,EMP02040,Security Awareness,Pluralsight,Leadership,2023-03-23,,In Progress,,23,25,No,No,Yes,Tableau
+TRN00439,EMP01645,AWS Certification,Pluralsight,Technical,2024-01-21,2023-06-11,Completed,78,56,1541,No,No,Yes,TypeScript
+TRN00440,EMP01918,Communication Skills,Harvard Online,Soft Skills,2023-12-28,,Enrolled,,53,314,No,No,No,Data Analysis
+TRN00441,EMP01667,Communication Skills,Harvard Online,Domain,2023-06-09,2023-02-08,Completed,87,55,1891,No,No,No,Leadership
+TRN00442,EMP01600,React Development,Harvard Online,Leadership,2023-02-25,2023-07-14,Passed,88,8,900,Yes,Yes,Yes,Node.js
+TRN00443,EMP01823,UX Design Thinking,Skillsoft,Compliance,2024-05-10,2023-12-28,Passed,74,66,1803,Yes,Yes,No,Go
+TRN00444,EMP01808,Excel Advanced,Internal,Technical,2023-04-16,2024-05-01,Completed,64,73,717,No,No,Yes,AWS
+TRN00445,EMP02006,Legal Compliance 2024,Harvard Online,Domain,2023-03-24,2024-05-28,Completed,95,64,1641,No,No,Yes,SQL
+TRN00446,EMP01521,AWS Certification,Pluralsight,Leadership,2023-05-23,,In Progress,,32,1232,No,Yes,No,Power BI
+TRN00447,EMP01397,Docker & Kubernetes,Coursera,Domain,2024-01-08,2024-05-03,Completed,65,46,1757,No,No,Yes,AWS
+TRN00448,EMP01013,Python for Data Science,LinkedIn Learning,Leadership,2024-12-24,,Failed,64,75,1546,No,No,Yes,Java
+TRN00449,EMP01957,React Development,Pluralsight,Compliance,2024-08-28,2023-02-09,Completed,63,26,1845,No,No,Yes,Excel
+TRN00450,EMP01603,Agile & Scrum,LinkedIn Learning,Leadership,2023-07-30,,Failed,97,12,110,No,Yes,No,Customer Success
+TRN00451,EMP01433,Legal Compliance 2024,Harvard Online,Domain,2023-07-18,2024-04-01,Completed,87,19,1845,No,Yes,Yes,Figma
+TRN00452,EMP01678,Agile & Scrum,Udemy,Leadership,2024-12-02,2023-01-19,Completed,83,54,1851,No,Yes,Yes,GCP
+TRN00453,EMP01579,Security Awareness,Udemy,Leadership,2023-05-18,2023-02-23,Completed,66,31,592,No,Yes,Yes,UX Research
+TRN00454,EMP02045,Legal Compliance 2024,Internal,Soft Skills,2023-02-01,,In Progress,,20,1443,No,No,Yes,Tableau
+TRN00455,EMP01159,Python for Data Science,Udemy,Technical,2024-08-25,2024-02-05,Completed,93,71,675,No,Yes,No,HR Analytics
+TRN00456,EMP01103,UX Design Thinking,Pluralsight,Soft Skills,2024-11-20,2024-03-14,Completed,75,65,1860,No,No,No,Power BI
+TRN00457,EMP01760,Mental Health at Work,Udemy,Compliance,2023-12-06,2024-12-02,Passed,99,17,1244,Yes,No,Yes,Azure
+TRN00458,EMP02059,Public Speaking,Coursera,Leadership,2023-06-02,2023-07-22,Completed,68,72,1062,No,Yes,Yes,Data Analysis
+TRN00459,EMP01904,Docker & Kubernetes,LinkedIn Learning,Compliance,2023-04-05,2023-07-28,Completed,93,62,101,No,No,No,Adobe XD
+TRN00460,EMP02188,Financial Analysis,Skillsoft,Compliance,2024-05-12,2023-11-27,Completed,82,26,374,No,No,Yes,Deep Learning
+TRN00461,EMP01611,Data Privacy (GDPR),Coursera,Leadership,2023-02-05,,Failed,70,40,1195,No,Yes,No,AWS
+TRN00462,EMP01024,AWS Certification,Internal,Domain,2024-04-15,,Enrolled,,67,1157,No,No,No,Communication
+TRN00463,EMP02080,Conflict Resolution,Coursera,Technical,2023-10-10,2023-11-17,Completed,79,45,1020,No,No,Yes,Data Visualization
+TRN00464,EMP01534,Excel Advanced,Internal,Soft Skills,2023-06-20,2024-02-11,Completed,96,46,411,No,No,Yes,UX Research
+TRN00465,EMP01454,Legal Compliance 2024,Skillsoft,Technical,2023-06-17,2023-06-12,Completed,84,77,644,No,Yes,No,Account Management
+TRN00466,EMP01930,React Development,Pluralsight,Soft Skills,2023-02-17,2023-03-03,Passed,97,14,1590,Yes,Yes,No,Tableau
+TRN00467,EMP01539,Product Management 101,Skillsoft,Technical,2023-05-18,2024-09-07,Completed,91,4,1040,No,No,Yes,Tableau
+TRN00468,EMP02146,Legal Compliance 2024,Coursera,Leadership,2024-11-10,,Enrolled,,35,71,No,Yes,Yes,Data Visualization
+TRN00469,EMP01399,Conflict Resolution,Harvard Online,Leadership,2024-07-24,,In Progress,,18,877,No,Yes,No,Project Management
+TRN00470,EMP01886,Conflict Resolution,Coursera,Technical,2023-12-05,2024-08-08,Completed,100,78,1323,No,Yes,Yes,Excel
+TRN00471,EMP01038,Product Management 101,Harvard Online,Leadership,2024-09-15,2023-10-19,Completed,61,43,77,No,No,Yes,HubSpot
+TRN00472,EMP01852,Python for Data Science,Internal,Technical,2023-09-06,2023-12-05,Completed,86,22,944,No,Yes,No,TypeScript
+TRN00473,EMP01032,Leadership Fundamentals,Coursera,Domain,2023-04-12,,Enrolled,,64,1650,No,Yes,Yes,Customer Success
+TRN00474,EMP01526,Communication Skills,Pluralsight,Technical,2024-04-17,2024-05-09,Completed,76,2,1142,No,No,No,Legal Research
+TRN00475,EMP01639,Excel Advanced,Coursera,Technical,2024-01-07,2023-10-25,Completed,80,10,862,No,No,Yes,Product Management
+TRN00476,EMP02011,Mental Health at Work,Udemy,Domain,2024-07-01,,In Progress,,32,790,No,No,Yes,React
+TRN00477,EMP01864,AWS Certification,Harvard Online,Domain,2024-07-15,,In Progress,,55,1129,No,Yes,Yes,Data Visualization
+TRN00478,EMP02066,AWS Certification,Pluralsight,Domain,2024-07-13,2024-04-15,Completed,71,26,106,No,No,No,Communication
+TRN00479,EMP01679,React Development,Harvard Online,Technical,2024-01-24,,Dropped,,42,1760,No,No,Yes,Deep Learning
+TRN00480,EMP01010,Data Privacy (GDPR),Udemy,Soft Skills,2023-06-18,2023-01-23,Completed,86,39,822,No,Yes,Yes,Scrum
+TRN00481,EMP01950,Security Awareness,Pluralsight,Domain,2023-09-04,2024-03-02,Completed,65,77,1284,No,No,Yes,SQL
+TRN00482,EMP02057,Security Awareness,Harvard Online,Domain,2024-12-19,2024-11-14,Passed,71,78,825,Yes,Yes,Yes,Tableau
+TRN00483,EMP02005,React Development,LinkedIn Learning,Domain,2024-11-01,2023-06-07,Completed,95,8,472,No,Yes,No,AWS
+TRN00484,EMP01918,Security Awareness,Skillsoft,Leadership,2023-11-19,2024-10-19,Passed,93,12,1433,Yes,No,No,Machine Learning
+TRN00485,EMP01844,Security Awareness,LinkedIn Learning,Leadership,2024-06-27,,Failed,72,56,479,No,No,Yes,AWS
+TRN00486,EMP01187,Financial Analysis,Skillsoft,Soft Skills,2023-06-02,2023-12-02,Completed,68,56,99,No,Yes,Yes,Customer Success
+TRN00487,EMP01130,AWS Certification,Udemy,Soft Skills,2023-01-17,,In Progress,,63,435,No,Yes,Yes,Customer Success
+TRN00488,EMP01208,Communication Skills,LinkedIn Learning,Soft Skills,2024-11-29,2024-03-01,Completed,82,18,1945,No,Yes,Yes,TypeScript
+TRN00489,EMP01053,Machine Learning Basics,LinkedIn Learning,Soft Skills,2023-02-18,2023-12-23,Completed,63,6,1206,No,Yes,Yes,Recruitment
+TRN00490,EMP01918,AWS Certification,LinkedIn Learning,Domain,2023-01-29,,Enrolled,,67,1645,No,No,Yes,Azure
+TRN00491,EMP01124,Agile & Scrum,Harvard Online,Compliance,2023-01-24,,Failed,79,15,339,No,Yes,Yes,HubSpot
+TRN00492,EMP01092,AWS Certification,Udemy,Domain,2024-04-11,,Dropped,,44,122,No,Yes,No,Rust
+TRN00493,EMP02182,Public Speaking,Coursera,Domain,2024-05-11,2023-09-10,Completed,95,3,898,No,Yes,No,Recruitment
+TRN00494,EMP01355,AWS Certification,Pluralsight,Technical,2023-02-02,,In Progress,,37,757,No,Yes,No,Azure
+TRN00495,EMP01376,Diversity & Inclusion,Pluralsight,Technical,2024-05-21,2023-11-22,Completed,86,10,86,No,No,Yes,Data Analysis
+TRN00496,EMP02165,Diversity & Inclusion,Skillsoft,Soft Skills,2023-12-14,,Failed,98,10,1672,No,Yes,No,HubSpot
+TRN00497,EMP01337,Security Awareness,LinkedIn Learning,Leadership,2024-09-20,,Failed,99,9,724,No,Yes,Yes,Deep Learning
+TRN00498,EMP02068,Product Management 101,Internal,Compliance,2023-01-14,,Enrolled,,75,1742,No,Yes,No,Financial Modeling
+TRN00499,EMP01283,React Development,Udemy,Leadership,2023-10-04,2023-02-05,Completed,100,49,1080,No,No,Yes,Financial Modeling
+TRN00500,EMP01108,UX Design Thinking,LinkedIn Learning,Leadership,2024-05-01,2023-03-28,Completed,90,4,906,No,No,No,C++
+TRN00501,EMP01616,React Development,Udemy,Leadership,2023-03-15,,Failed,63,51,211,No,Yes,No,Machine Learning
+TRN00502,EMP02137,SQL Mastery,Coursera,Leadership,2023-07-31,,Enrolled,,46,479,No,No,Yes,Docker
+TRN00503,EMP01721,Data Privacy (GDPR),Harvard Online,Leadership,2024-07-03,2023-01-22,Completed,60,61,1906,No,No,Yes,Java
+TRN00504,EMP01881,Mental Health at Work,LinkedIn Learning,Soft Skills,2023-09-24,2024-04-22,Completed,80,42,124,No,No,No,Power BI
+TRN00505,EMP01146,Product Management 101,Udemy,Domain,2023-09-26,2023-10-15,Completed,86,79,344,No,No,No,Machine Learning
+TRN00506,EMP01600,Data Privacy (GDPR),LinkedIn Learning,Technical,2024-08-22,,Enrolled,,68,220,No,Yes,Yes,Data Analysis
+TRN00507,EMP01276,Data Privacy (GDPR),Skillsoft,Compliance,2023-03-23,2023-11-23,Completed,81,25,1175,No,Yes,No,Rust
+TRN00508,EMP01677,Docker & Kubernetes,Coursera,Soft Skills,2024-01-14,,Failed,94,79,1974,No,No,Yes,Agile
+TRN00509,EMP01038,Excel Advanced,Coursera,Technical,2023-09-06,2024-11-20,Completed,100,65,1027,No,No,Yes,Excel
+TRN00510,EMP01677,Docker & Kubernetes,Skillsoft,Domain,2024-10-18,,Enrolled,,76,339,No,Yes,Yes,Legal Research
+TRN00511,EMP01088,Docker & Kubernetes,Internal,Soft Skills,2023-11-24,2024-07-21,Passed,79,8,1670,Yes,Yes,Yes,Account Management
+TRN00512,EMP01009,Security Awareness,Skillsoft,Compliance,2023-01-27,2024-08-22,Passed,77,54,1443,Yes,No,Yes,Agile
+TRN00513,EMP01005,Python for Data Science,Internal,Domain,2024-08-03,2023-01-27,Completed,71,48,1517,No,No,Yes,Kubernetes
+TRN00514,EMP01731,Data Privacy (GDPR),Internal,Soft Skills,2024-04-16,,In Progress,,73,539,No,Yes,No,Python
+TRN00515,EMP01389,Public Speaking,Coursera,Soft Skills,2023-10-02,2023-05-04,Passed,86,15,1015,Yes,No,Yes,Deep Learning
+TRN00516,EMP01718,Docker & Kubernetes,Harvard Online,Soft Skills,2023-02-02,,In Progress,,74,1732,No,Yes,No,Data Analysis
+TRN00517,EMP02196,Leadership Fundamentals,Coursera,Domain,2023-06-14,,Dropped,,44,254,No,No,No,Go
+TRN00518,EMP01034,UX Design Thinking,Skillsoft,Compliance,2023-02-16,2023-06-24,Completed,73,12,508,No,No,Yes,Adobe XD
+TRN00519,EMP02036,Legal Compliance 2024,Coursera,Compliance,2024-01-23,2024-01-02,Completed,63,29,1681,No,No,Yes,Salesforce
+TRN00520,EMP02075,Python for Data Science,Coursera,Leadership,2023-09-20,,Enrolled,,73,1054,No,Yes,Yes,Docker
+TRN00521,EMP01629,Leadership Fundamentals,Coursera,Soft Skills,2023-02-05,,In Progress,,20,1469,No,Yes,No,Docker
+TRN00522,EMP01581,Security Awareness,Coursera,Leadership,2024-11-06,2024-11-26,Passed,87,62,1172,Yes,No,Yes,Data Visualization
+TRN00523,EMP01455,AWS Certification,Skillsoft,Domain,2024-03-19,,Enrolled,,78,1608,No,No,Yes,Leadership
+TRN00524,EMP01028,React Development,Harvard Online,Domain,2024-04-22,,Dropped,,33,867,No,No,Yes,Go
+TRN00525,EMP02182,Public Speaking,LinkedIn Learning,Domain,2024-12-14,,Enrolled,,20,1744,No,Yes,Yes,Customer Success
+TRN00526,EMP01503,Python for Data Science,Skillsoft,Domain,2023-03-22,2024-05-20,Completed,92,27,160,No,Yes,No,Rust
+TRN00527,EMP01105,Leadership Fundamentals,Pluralsight,Soft Skills,2024-12-10,2024-02-24,Passed,87,16,991,Yes,No,No,Tableau
+TRN00528,EMP01735,Mental Health at Work,Harvard Online,Soft Skills,2024-04-21,2024-01-22,Completed,61,55,138,No,No,Yes,GCP
+TRN00529,EMP01515,Leadership Fundamentals,Internal,Compliance,2024-07-07,2023-09-29,Completed,96,27,1248,No,Yes,Yes,C++
+TRN00530,EMP01780,React Development,LinkedIn Learning,Technical,2024-07-14,2023-07-21,Completed,77,36,628,No,Yes,No,Node.js
+TRN00531,EMP01268,Mental Health at Work,LinkedIn Learning,Compliance,2024-08-30,2024-08-31,Passed,65,9,1046,Yes,No,No,AWS
+TRN00532,EMP01702,React Development,Internal,Soft Skills,2023-11-17,2024-05-16,Completed,97,2,1725,No,Yes,Yes,Tableau
+TRN00533,EMP01103,Mental Health at Work,Udemy,Soft Skills,2023-03-04,,In Progress,,3,957,No,Yes,Yes,Agile
+TRN00534,EMP01478,SQL Mastery,Internal,Technical,2023-04-19,2023-05-06,Passed,68,52,1663,Yes,Yes,Yes,Recruitment
+TRN00535,EMP01664,Communication Skills,LinkedIn Learning,Domain,2024-03-31,,In Progress,,54,184,No,Yes,No,Excel
+TRN00536,EMP01712,Conflict Resolution,Coursera,Technical,2023-08-16,,In Progress,,15,45,No,No,Yes,UX Research
+TRN00537,EMP01526,AWS Certification,LinkedIn Learning,Leadership,2023-04-19,2024-07-12,Completed,68,51,687,No,Yes,Yes,Rust
+TRN00538,EMP01172,Conflict Resolution,Pluralsight,Compliance,2024-02-24,,Enrolled,,56,1723,No,No,No,Scrum
+TRN00539,EMP01530,Leadership Fundamentals,LinkedIn Learning,Soft Skills,2024-10-13,,In Progress,,76,171,No,Yes,Yes,Go
+TRN00540,EMP01397,Docker & Kubernetes,Udemy,Leadership,2023-11-03,,In Progress,,48,849,No,No,Yes,Kubernetes
+TRN00541,EMP01117,Product Management 101,Pluralsight,Domain,2024-04-01,,Enrolled,,57,1310,No,No,Yes,Salesforce
+TRN00542,EMP01511,Communication Skills,Coursera,Soft Skills,2023-03-08,,In Progress,,12,506,No,No,Yes,Product Management
+TRN00543,EMP02182,Leadership Fundamentals,Udemy,Domain,2023-06-13,,In Progress,,75,924,No,No,No,Machine Learning
+TRN00544,EMP01260,Legal Compliance 2024,Harvard Online,Technical,2024-10-20,,Enrolled,,11,441,No,No,Yes,Account Management
+TRN00545,EMP02040,React Development,Internal,Domain,2024-08-27,2023-10-22,Completed,98,38,1238,No,Yes,No,Financial Modeling
+TRN00546,EMP01300,Legal Compliance 2024,LinkedIn Learning,Compliance,2024-05-17,2023-07-12,Completed,70,39,679,No,No,Yes,Legal Research
+TRN00547,EMP01483,UX Design Thinking,LinkedIn Learning,Domain,2024-03-21,,Failed,94,34,974,No,Yes,No,Agile
+TRN00548,EMP01067,Security Awareness,Pluralsight,Technical,2024-05-04,2024-05-26,Completed,67,64,184,No,No,Yes,HR Analytics
+TRN00549,EMP01422,Security Awareness,Skillsoft,Domain,2023-07-12,2024-08-19,Completed,84,29,1925,No,Yes,No,Data Visualization
+TRN00550,EMP01065,Product Management 101,Udemy,Domain,2024-11-28,2024-11-04,Passed,83,43,1924,Yes,No,No,Azure
+TRN00551,EMP01244,Docker & Kubernetes,Udemy,Technical,2024-01-28,2024-07-22,Completed,62,70,89,No,No,Yes,Machine Learning
+TRN00552,EMP01400,Data Privacy (GDPR),Skillsoft,Domain,2024-04-30,2024-10-15,Completed,88,52,1420,No,No,No,Deep Learning
+TRN00553,EMP01187,Public Speaking,Pluralsight,Domain,2023-08-16,2024-08-14,Passed,66,72,983,Yes,No,Yes,Legal Research
+TRN00554,EMP01078,Mental Health at Work,LinkedIn Learning,Technical,2024-08-20,2024-10-25,Completed,79,67,375,No,No,No,Adobe XD
+TRN00555,EMP01999,AWS Certification,Coursera,Domain,2024-06-18,2023-01-05,Passed,74,36,821,Yes,No,Yes,JavaScript
+TRN00556,EMP01612,React Development,Pluralsight,Soft Skills,2024-07-06,2023-09-29,Completed,91,32,1046,No,Yes,Yes,Agile
+TRN00557,EMP01363,Python for Data Science,Skillsoft,Leadership,2023-06-22,,In Progress,,11,1151,No,No,Yes,Financial Modeling
+TRN00558,EMP01187,Agile & Scrum,Internal,Soft Skills,2023-11-11,2023-02-17,Completed,81,38,798,No,No,Yes,Tableau
+TRN00559,EMP01476,Data Privacy (GDPR),Coursera,Technical,2024-05-02,,Failed,82,23,1680,No,No,Yes,Python
+TRN00560,EMP01107,UX Design Thinking,Coursera,Compliance,2024-08-29,,In Progress,,32,666,No,No,Yes,Azure
+TRN00561,EMP01425,Legal Compliance 2024,Internal,Technical,2023-03-19,2024-01-05,Completed,75,26,1964,No,No,Yes,GCP
+TRN00562,EMP01969,Public Speaking,Udemy,Domain,2023-05-08,,In Progress,,21,1686,No,Yes,Yes,Azure
+TRN00563,EMP02072,Diversity & Inclusion,Internal,Compliance,2024-10-30,2023-02-16,Passed,63,65,516,Yes,Yes,Yes,Project Management
+TRN00564,EMP01243,Machine Learning Basics,Udemy,Soft Skills,2023-08-18,,In Progress,,64,787,No,Yes,Yes,Customer Success
+TRN00565,EMP01312,Legal Compliance 2024,Udemy,Domain,2023-10-13,2023-10-08,Completed,69,38,1677,No,No,Yes,GCP
+TRN00566,EMP01232,Product Management 101,Internal,Soft Skills,2024-05-28,2023-09-11,Passed,75,30,624,Yes,Yes,Yes,Customer Success
+TRN00567,EMP01548,Excel Advanced,Udemy,Soft Skills,2023-06-03,2024-11-05,Completed,88,44,768,No,Yes,No,Account Management
+TRN00568,EMP01513,Product Management 101,Skillsoft,Compliance,2024-11-18,,In Progress,,11,1679,No,No,Yes,JavaScript
+TRN00569,EMP01910,Mental Health at Work,Harvard Online,Technical,2024-06-11,,Dropped,,12,1471,No,Yes,No,Docker
+TRN00570,EMP01412,Security Awareness,Pluralsight,Leadership,2023-08-20,2023-12-31,Completed,98,65,758,No,Yes,Yes,Tableau
+TRN00571,EMP02017,Communication Skills,Coursera,Domain,2023-08-14,,In Progress,,77,1003,No,No,Yes,Financial Modeling
+TRN00572,EMP01058,Data Privacy (GDPR),Udemy,Domain,2023-08-25,,Dropped,,54,906,No,No,Yes,Leadership
+TRN00573,EMP01123,UX Design Thinking,LinkedIn Learning,Compliance,2024-08-31,2023-11-16,Completed,78,36,1501,No,No,Yes,Recruitment
+TRN00574,EMP01941,SQL Mastery,Internal,Soft Skills,2024-03-14,,In Progress,,73,385,No,Yes,Yes,NLP
+TRN00575,EMP02181,Excel Advanced,Udemy,Leadership,2024-11-20,2023-12-28,Completed,83,59,1306,No,Yes,No,Excel
+TRN00576,EMP01495,Data Privacy (GDPR),Udemy,Technical,2023-04-20,2024-02-03,Completed,81,29,233,No,Yes,No,UX Research
+TRN00577,EMP01503,Data Privacy (GDPR),Internal,Leadership,2023-12-27,2024-03-29,Passed,62,47,978,Yes,Yes,No,SQL
+TRN00578,EMP01524,Agile & Scrum,Skillsoft,Domain,2023-08-17,,In Progress,,31,1616,No,Yes,Yes,Leadership
+TRN00579,EMP01570,UX Design Thinking,LinkedIn Learning,Technical,2023-05-06,2023-07-30,Completed,81,72,624,No,Yes,Yes,Product Management
+TRN00580,EMP02065,Agile & Scrum,Udemy,Leadership,2023-07-17,2024-11-08,Completed,68,5,1914,No,Yes,Yes,React
+TRN00581,EMP01124,Docker & Kubernetes,Udemy,Domain,2023-06-29,,Failed,68,57,1586,No,Yes,No,Excel
+TRN00582,EMP01569,Diversity & Inclusion,Skillsoft,Leadership,2024-03-07,,In Progress,,31,1,No,No,Yes,Performance Management
+TRN00583,EMP01909,Product Management 101,Pluralsight,Domain,2024-02-22,,Failed,74,78,1534,No,No,No,Java
+TRN00584,EMP01815,Public Speaking,Udemy,Domain,2024-08-05,2023-12-06,Passed,96,12,176,Yes,Yes,Yes,Performance Management
+TRN00585,EMP01763,Excel Advanced,Pluralsight,Soft Skills,2023-11-24,2023-01-15,Completed,96,33,299,No,No,No,Deep Learning
+TRN00586,EMP01188,Conflict Resolution,Pluralsight,Compliance,2024-05-27,,In Progress,,52,391,No,Yes,Yes,SQL
+TRN00587,EMP01359,Python for Data Science,Harvard Online,Leadership,2023-11-27,,Enrolled,,27,412,No,Yes,Yes,Recruitment
+TRN00588,EMP02012,Data Privacy (GDPR),Coursera,Technical,2024-11-08,,Failed,95,50,778,No,No,Yes,Azure
+TRN00589,EMP01111,Conflict Resolution,LinkedIn Learning,Compliance,2024-02-27,2023-12-08,Completed,98,20,392,No,No,No,Recruitment
+TRN00590,EMP01678,React Development,Pluralsight,Technical,2023-02-23,,In Progress,,69,30,No,Yes,No,Rust
+TRN00591,EMP01005,Security Awareness,Internal,Technical,2023-01-14,2024-06-24,Completed,92,70,626,No,Yes,Yes,SQL
+TRN00592,EMP01292,Machine Learning Basics,Pluralsight,Leadership,2023-09-09,,Enrolled,,17,1804,No,Yes,No,NLP
+TRN00593,EMP01816,Data Privacy (GDPR),Udemy,Technical,2023-06-14,,In Progress,,3,636,No,No,Yes,Tableau
+TRN00594,EMP01212,React Development,Coursera,Leadership,2023-02-04,2023-03-29,Completed,61,64,303,No,Yes,Yes,Excel
+TRN00595,EMP01253,AWS Certification,Coursera,Technical,2024-01-06,2023-04-12,Completed,60,55,1991,No,Yes,Yes,Recruitment
+TRN00596,EMP01703,Product Management 101,Pluralsight,Leadership,2024-11-23,,Dropped,,5,576,No,Yes,Yes,React
+TRN00597,EMP01844,Docker & Kubernetes,Harvard Online,Leadership,2024-03-12,2024-11-17,Completed,75,15,1990,No,Yes,Yes,Recruitment
+TRN00598,EMP01451,Agile & Scrum,Pluralsight,Compliance,2023-05-23,2023-05-18,Completed,73,51,669,No,Yes,Yes,C++
+TRN00599,EMP01118,Legal Compliance 2024,Harvard Online,Soft Skills,2024-10-21,2024-11-25,Completed,82,3,986,No,No,Yes,Deep Learning
+TRN00600,EMP01337,Docker & Kubernetes,LinkedIn Learning,Technical,2024-08-18,,Dropped,,36,1858,No,No,No,Tableau
+TRN00601,EMP01328,Product Management 101,Skillsoft,Domain,2023-08-08,2024-03-01,Completed,60,11,815,No,Yes,No,Tableau
+TRN00602,EMP01681,Conflict Resolution,Udemy,Technical,2024-05-11,2023-07-24,Passed,89,22,311,Yes,No,No,Leadership
+TRN00603,EMP01792,SQL Mastery,Internal,Soft Skills,2024-09-06,2023-05-02,Completed,88,6,209,No,Yes,Yes,Performance Management
+TRN00604,EMP01810,Python for Data Science,Udemy,Domain,2023-11-26,,In Progress,,58,1137,No,Yes,Yes,NLP
+TRN00605,EMP01342,Financial Analysis,Pluralsight,Leadership,2023-05-20,,Enrolled,,29,560,No,Yes,Yes,GCP
+TRN00606,EMP01337,Communication Skills,Udemy,Leadership,2023-11-06,,Dropped,,11,34,No,Yes,No,Customer Success
+TRN00607,EMP01407,Communication Skills,Udemy,Technical,2024-01-07,,Failed,84,51,1605,No,No,No,Go
+TRN00608,EMP01611,Conflict Resolution,Coursera,Soft Skills,2024-01-01,2023-05-08,Completed,91,35,487,No,No,Yes,Azure
+TRN00609,EMP01045,SQL Mastery,Pluralsight,Domain,2024-06-08,,In Progress,,74,1809,No,Yes,Yes,Legal Research
+TRN00610,EMP01044,AWS Certification,Internal,Domain,2024-02-26,2023-09-25,Completed,84,57,1939,No,Yes,Yes,Agile
+TRN00611,EMP01974,Diversity & Inclusion,Internal,Compliance,2024-07-26,2023-12-20,Passed,67,15,912,Yes,No,Yes,Java
+TRN00612,EMP01167,Legal Compliance 2024,Harvard Online,Leadership,2024-10-19,2024-07-18,Completed,80,76,934,No,No,No,Marketing Analytics
+TRN00613,EMP02146,Security Awareness,Internal,Compliance,2024-09-04,2024-11-24,Completed,100,7,374,No,Yes,No,Rust
+TRN00614,EMP02021,Data Privacy (GDPR),Harvard Online,Compliance,2024-07-11,2023-07-07,Completed,81,39,1645,No,No,No,Project Management
+TRN00615,EMP01360,Docker & Kubernetes,Skillsoft,Domain,2023-06-25,2023-02-11,Completed,63,15,392,No,No,Yes,Project Management
+TRN00616,EMP01740,Security Awareness,Skillsoft,Domain,2023-03-21,2023-08-29,Completed,91,18,1383,No,No,Yes,React
+TRN00617,EMP01423,UX Design Thinking,Udemy,Compliance,2023-06-12,2023-03-10,Completed,91,9,691,No,No,Yes,Project Management
+TRN00618,EMP02168,Public Speaking,Pluralsight,Soft Skills,2023-02-14,,In Progress,,8,297,No,Yes,Yes,React
+TRN00619,EMP01398,Leadership Fundamentals,Harvard Online,Leadership,2024-04-19,2024-08-01,Completed,61,5,1304,No,Yes,Yes,SQL
+TRN00620,EMP01523,Security Awareness,Udemy,Domain,2024-07-10,2023-11-13,Passed,63,74,1253,Yes,No,No,HubSpot
+TRN00621,EMP01016,React Development,Harvard Online,Soft Skills,2024-05-12,2023-05-06,Passed,95,17,104,Yes,No,Yes,TypeScript
+TRN00622,EMP01868,Product Management 101,LinkedIn Learning,Domain,2023-02-25,,In Progress,,57,796,No,No,Yes,Project Management
+TRN00623,EMP01401,React Development,Udemy,Domain,2024-12-01,,Enrolled,,6,1362,No,No,No,TypeScript
+TRN00624,EMP01574,Communication Skills,Internal,Compliance,2023-09-14,2024-05-02,Completed,72,63,76,No,No,Yes,Account Management
+TRN00625,EMP01099,AWS Certification,LinkedIn Learning,Soft Skills,2023-08-30,,Enrolled,,73,921,No,No,Yes,Data Visualization
+TRN00626,EMP02173,Python for Data Science,Coursera,Domain,2024-06-26,2023-12-16,Completed,77,46,114,No,No,Yes,Recruitment
+TRN00627,EMP01300,Legal Compliance 2024,Internal,Soft Skills,2024-11-15,,Dropped,,28,1054,No,Yes,Yes,Deep Learning
+TRN00628,EMP01473,Excel Advanced,Skillsoft,Soft Skills,2024-03-16,,Dropped,,7,1973,No,No,Yes,Python
+TRN00629,EMP01301,React Development,Coursera,Soft Skills,2024-10-15,,In Progress,,6,1290,No,No,Yes,Go
+TRN00630,EMP01365,Conflict Resolution,Internal,Domain,2023-02-14,,In Progress,,32,185,No,No,Yes,Account Management
+TRN00631,EMP01639,Docker & Kubernetes,Skillsoft,Domain,2023-01-15,2023-10-03,Completed,84,57,44,No,Yes,No,HubSpot
+TRN00632,EMP01860,Agile & Scrum,Pluralsight,Domain,2023-10-13,,Enrolled,,75,385,No,No,No,Performance Management
+TRN00633,EMP02036,Conflict Resolution,Coursera,Compliance,2024-09-24,,In Progress,,7,382,No,No,Yes,Financial Modeling
+TRN00634,EMP01224,Security Awareness,Udemy,Compliance,2023-12-11,2023-12-08,Completed,88,40,1804,No,Yes,Yes,UX Research
+TRN00635,EMP02053,Leadership Fundamentals,Pluralsight,Domain,2023-02-09,2024-03-20,Completed,84,5,475,No,No,Yes,Figma
+TRN00636,EMP01025,Agile & Scrum,Skillsoft,Leadership,2023-03-22,,In Progress,,55,1158,No,Yes,Yes,Product Management
+TRN00637,EMP01288,Excel Advanced,LinkedIn Learning,Compliance,2023-06-26,2024-06-30,Completed,61,36,1363,No,Yes,Yes,Machine Learning
+TRN00638,EMP02081,Machine Learning Basics,LinkedIn Learning,Compliance,2024-01-19,,Enrolled,,67,195,No,No,No,HR Analytics
+TRN00639,EMP01404,AWS Certification,Harvard Online,Compliance,2023-06-11,2024-10-12,Completed,92,54,1129,No,Yes,No,Performance Management
+TRN00640,EMP01157,Docker & Kubernetes,LinkedIn Learning,Technical,2024-10-07,2024-05-13,Completed,97,34,1169,No,Yes,No,Account Management
+TRN00641,EMP02015,Python for Data Science,Internal,Technical,2024-11-16,2024-07-09,Passed,66,19,704,Yes,No,Yes,Agile
+TRN00642,EMP01050,Data Privacy (GDPR),Pluralsight,Soft Skills,2023-06-01,2023-09-29,Completed,95,76,1827,No,No,Yes,Marketing Analytics
+TRN00643,EMP01683,React Development,Internal,Compliance,2024-09-15,2024-02-06,Completed,81,6,1602,No,Yes,Yes,JavaScript
+TRN00644,EMP01267,Public Speaking,Skillsoft,Leadership,2024-09-27,,Dropped,,59,1880,No,No,No,Account Management
+TRN00645,EMP01642,Product Management 101,Skillsoft,Domain,2024-02-24,2024-11-09,Completed,61,12,826,No,No,No,TypeScript
+TRN00646,EMP01208,React Development,Udemy,Compliance,2024-02-27,2024-08-18,Completed,82,10,288,No,No,Yes,Java
+TRN00647,EMP02160,Communication Skills,Pluralsight,Technical,2023-06-29,,Dropped,,50,1857,No,Yes,No,Machine Learning
+TRN00648,EMP01224,Product Management 101,Internal,Compliance,2024-01-29,,Dropped,,77,996,No,No,Yes,NLP
+TRN00649,EMP01612,Agile & Scrum,Pluralsight,Compliance,2024-07-06,,Failed,61,37,545,No,No,Yes,HubSpot
+TRN00650,EMP02003,Leadership Fundamentals,Harvard Online,Technical,2024-10-15,,In Progress,,19,1909,No,No,Yes,Performance Management
+TRN00651,EMP01136,Machine Learning Basics,Coursera,Technical,2023-05-18,2023-04-22,Completed,71,80,83,No,No,Yes,Tableau
+TRN00652,EMP02065,Agile & Scrum,Pluralsight,Soft Skills,2024-02-05,,In Progress,,23,768,No,Yes,Yes,Data Analysis
+TRN00653,EMP02006,Machine Learning Basics,Internal,Technical,2024-04-22,2024-06-08,Completed,64,67,327,No,No,Yes,AWS
+TRN00654,EMP01858,Diversity & Inclusion,LinkedIn Learning,Soft Skills,2023-05-18,,Enrolled,,23,1892,No,Yes,Yes,TypeScript
+TRN00655,EMP01452,SQL Mastery,Coursera,Technical,2024-01-07,2023-11-15,Passed,90,76,1416,Yes,No,Yes,Python
+TRN00656,EMP01382,Public Speaking,Harvard Online,Domain,2024-11-09,2024-06-06,Passed,74,12,1618,Yes,Yes,Yes,Project Management
+TRN00657,EMP01965,SQL Mastery,Pluralsight,Compliance,2023-11-14,2023-09-08,Completed,70,67,567,No,No,Yes,TypeScript
+TRN00658,EMP01192,Public Speaking,Udemy,Domain,2024-04-14,,Dropped,,68,1885,No,No,Yes,TypeScript
+TRN00659,EMP01005,Public Speaking,Coursera,Compliance,2024-06-24,2024-04-06,Completed,86,37,365,No,No,Yes,Python
+TRN00660,EMP01010,Leadership Fundamentals,Harvard Online,Technical,2024-06-29,,In Progress,,73,1797,No,No,Yes,Scrum
+TRN00661,EMP01930,Diversity & Inclusion,Udemy,Soft Skills,2024-08-07,,Dropped,,20,1666,No,No,Yes,SQL
+TRN00662,EMP01167,Mental Health at Work,Coursera,Technical,2024-03-01,2024-07-07,Completed,62,61,495,No,Yes,Yes,AWS
+TRN00663,EMP01835,UX Design Thinking,Skillsoft,Technical,2024-04-10,,In Progress,,64,307,No,Yes,Yes,Financial Modeling
+TRN00664,EMP01907,React Development,Internal,Compliance,2024-10-20,,Failed,63,44,871,No,No,No,Data Analysis
+TRN00665,EMP01412,Python for Data Science,Coursera,Soft Skills,2024-03-21,,Failed,91,12,843,No,Yes,No,GCP
+TRN00666,EMP02181,Financial Analysis,Udemy,Domain,2024-08-02,,In Progress,,44,530,No,Yes,Yes,SQL
+TRN00667,EMP02021,React Development,Coursera,Technical,2024-07-06,,In Progress,,54,1209,No,Yes,No,Machine Learning
+TRN00668,EMP01951,Mental Health at Work,LinkedIn Learning,Domain,2023-07-04,2024-08-03,Passed,75,8,1914,Yes,Yes,No,Figma
+TRN00669,EMP01882,Public Speaking,LinkedIn Learning,Leadership,2024-07-18,2024-10-01,Completed,89,53,1288,No,Yes,No,Scrum
+TRN00670,EMP02135,Diversity & Inclusion,LinkedIn Learning,Leadership,2023-02-07,2023-02-20,Completed,65,4,1734,No,Yes,Yes,C++
+TRN00671,EMP01341,React Development,Internal,Compliance,2024-01-03,2024-11-15,Completed,90,16,1246,No,No,No,C++
+TRN00672,EMP01244,Excel Advanced,LinkedIn Learning,Technical,2024-10-30,,In Progress,,31,1119,No,No,No,TypeScript
+TRN00673,EMP01670,Legal Compliance 2024,Skillsoft,Soft Skills,2024-10-26,2024-05-03,Completed,69,64,348,No,No,Yes,JavaScript
+TRN00674,EMP01573,UX Design Thinking,Pluralsight,Soft Skills,2023-05-04,2023-06-10,Passed,67,48,152,Yes,Yes,Yes,Recruitment
+TRN00675,EMP01871,AWS Certification,Udemy,Domain,2024-08-26,,Failed,93,25,1489,No,No,Yes,Java
+TRN00676,EMP01138,Agile & Scrum,Coursera,Technical,2023-07-14,2023-12-01,Completed,93,5,931,No,No,Yes,SQL
+TRN00677,EMP01088,Agile & Scrum,Udemy,Technical,2024-12-03,2023-09-17,Passed,81,76,470,Yes,No,Yes,Leadership
+TRN00678,EMP01886,Conflict Resolution,Udemy,Domain,2024-11-04,2023-11-06,Passed,80,33,667,Yes,No,No,Excel
+TRN00679,EMP01166,Conflict Resolution,Udemy,Soft Skills,2024-11-26,,In Progress,,8,18,No,Yes,No,Data Analysis
+TRN00680,EMP01566,UX Design Thinking,Internal,Technical,2024-06-14,2023-03-13,Completed,81,10,1423,No,Yes,Yes,Rust
+TRN00681,EMP01712,Diversity & Inclusion,Udemy,Soft Skills,2024-03-13,2024-06-23,Passed,71,54,130,Yes,No,Yes,Marketing Analytics
+TRN00682,EMP01572,UX Design Thinking,LinkedIn Learning,Leadership,2023-12-25,2023-08-16,Completed,64,9,1823,No,Yes,Yes,Scrum
+TRN00683,EMP01620,Data Privacy (GDPR),Skillsoft,Leadership,2023-11-14,,Failed,71,62,653,No,No,Yes,Figma
+TRN00684,EMP01760,Agile & Scrum,Udemy,Compliance,2023-12-25,,In Progress,,18,1269,No,Yes,Yes,Agile
+TRN00685,EMP01502,Data Privacy (GDPR),Harvard Online,Leadership,2024-08-04,2023-09-14,Completed,77,59,515,No,Yes,Yes,HubSpot
+TRN00686,EMP01803,React Development,Pluralsight,Compliance,2024-08-14,,In Progress,,23,910,No,Yes,No,UX Research
+TRN00687,EMP01483,Security Awareness,Harvard Online,Domain,2023-07-13,,Dropped,,21,561,No,Yes,Yes,Deep Learning
+TRN00688,EMP01054,Public Speaking,Skillsoft,Technical,2023-05-20,,Failed,70,76,577,No,Yes,Yes,Go
+TRN00689,EMP01153,Financial Analysis,Coursera,Technical,2023-02-18,,Failed,69,33,1170,No,No,Yes,Marketing Analytics
+TRN00690,EMP01971,Public Speaking,Coursera,Technical,2024-08-05,2023-11-06,Completed,62,17,904,No,No,Yes,UX Research
+TRN00691,EMP01910,AWS Certification,Pluralsight,Soft Skills,2024-06-05,,In Progress,,27,287,No,No,Yes,Leadership
+TRN00692,EMP01141,Public Speaking,Skillsoft,Leadership,2024-12-17,2024-12-28,Completed,88,5,1398,No,Yes,No,Performance Management
+TRN00693,EMP01098,React Development,Pluralsight,Domain,2023-08-17,2023-11-02,Completed,89,73,1571,No,No,No,Scrum
+TRN00694,EMP01209,Legal Compliance 2024,LinkedIn Learning,Leadership,2024-03-27,,In Progress,,79,427,No,Yes,Yes,Rust
+TRN00695,EMP01215,Legal Compliance 2024,Harvard Online,Domain,2023-06-29,2023-03-17,Completed,97,19,990,No,Yes,Yes,Node.js
+TRN00696,EMP01581,Machine Learning Basics,Harvard Online,Leadership,2023-10-25,,Enrolled,,24,1091,No,No,Yes,Marketing Analytics
+TRN00697,EMP01530,Conflict Resolution,Udemy,Compliance,2024-06-09,,Enrolled,,60,395,No,Yes,Yes,SQL
+TRN00698,EMP01315,Data Privacy (GDPR),Udemy,Compliance,2024-07-29,2024-01-27,Completed,90,37,654,No,No,No,Marketing Analytics
+TRN00699,EMP01333,Security Awareness,Pluralsight,Technical,2024-01-18,2024-01-31,Completed,64,27,860,No,Yes,Yes,Product Management
+TRN00700,EMP01969,Data Privacy (GDPR),Skillsoft,Technical,2024-12-26,,Enrolled,,39,881,No,Yes,Yes,Adobe XD
+TRN00701,EMP01558,Docker & Kubernetes,LinkedIn Learning,Technical,2024-04-26,,Enrolled,,19,589,No,Yes,Yes,AWS
+TRN00702,EMP01747,Data Privacy (GDPR),Pluralsight,Leadership,2023-04-15,,In Progress,,64,1901,No,Yes,Yes,UX Research
+TRN00703,EMP01810,Security Awareness,Internal,Leadership,2024-12-14,2023-04-19,Completed,64,47,1505,No,Yes,No,Salesforce
+TRN00704,EMP02025,Excel Advanced,Harvard Online,Leadership,2023-03-26,2023-09-02,Completed,71,6,622,No,Yes,No,Product Management
+TRN00705,EMP02133,Security Awareness,Udemy,Leadership,2023-06-26,2024-10-20,Completed,92,14,1315,No,No,Yes,Performance Management
+TRN00706,EMP01118,Agile & Scrum,Udemy,Technical,2024-05-01,,Enrolled,,31,861,No,No,Yes,Recruitment
+TRN00707,EMP02029,AWS Certification,Pluralsight,Leadership,2024-08-26,2024-03-17,Completed,98,58,1073,No,Yes,No,Machine Learning
+TRN00708,EMP01576,AWS Certification,Harvard Online,Compliance,2023-03-07,2024-03-19,Completed,94,24,833,No,No,Yes,Data Visualization
+TRN00709,EMP01066,Excel Advanced,Udemy,Technical,2023-05-22,2024-04-07,Completed,64,19,174,No,No,Yes,Performance Management
+TRN00710,EMP02178,Python for Data Science,Pluralsight,Leadership,2023-06-07,2024-04-14,Completed,74,15,1629,No,No,No,NLP
+TRN00711,EMP01372,Data Privacy (GDPR),Udemy,Domain,2023-09-23,,Failed,69,57,999,No,No,Yes,SQL
+TRN00712,EMP01645,Machine Learning Basics,Coursera,Compliance,2023-11-04,,In Progress,,71,713,No,Yes,Yes,JavaScript
+TRN00713,EMP01585,Conflict Resolution,Pluralsight,Leadership,2023-09-12,2024-04-26,Completed,60,15,553,No,No,Yes,Tableau
+TRN00714,EMP01660,UX Design Thinking,Pluralsight,Domain,2023-05-09,,In Progress,,65,1136,No,Yes,Yes,Docker
+TRN00715,EMP02005,Mental Health at Work,Udemy,Soft Skills,2024-07-30,2024-12-02,Completed,96,11,1210,No,No,Yes,HR Analytics
+TRN00716,EMP01314,React Development,Harvard Online,Compliance,2023-06-12,2023-05-01,Completed,80,10,165,No,Yes,Yes,Agile
+TRN00717,EMP01101,Public Speaking,Skillsoft,Technical,2023-05-19,,Failed,93,21,981,No,No,No,Project Management
+TRN00718,EMP01961,Excel Advanced,Pluralsight,Domain,2024-07-27,2024-12-20,Passed,73,64,876,Yes,No,Yes,Kubernetes
+TRN00719,EMP01611,Product Management 101,Udemy,Leadership,2024-11-07,,Enrolled,,55,1579,No,No,No,NLP
+TRN00720,EMP01045,Communication Skills,Harvard Online,Soft Skills,2023-12-15,2024-11-05,Completed,68,64,1382,No,No,Yes,Adobe XD
+TRN00721,EMP01061,Docker & Kubernetes,Coursera,Leadership,2023-05-26,,Failed,91,53,892,No,No,No,Power BI
+TRN00722,EMP02043,Product Management 101,Pluralsight,Leadership,2023-01-29,2024-10-18,Passed,80,51,513,Yes,Yes,Yes,SQL
+TRN00723,EMP02035,Conflict Resolution,Internal,Technical,2023-06-07,2024-09-19,Completed,91,20,1260,No,No,No,Azure
+TRN00724,EMP01295,UX Design Thinking,Harvard Online,Leadership,2023-01-07,,Failed,98,77,106,No,Yes,Yes,UX Research
+TRN00725,EMP02168,Conflict Resolution,Pluralsight,Technical,2023-03-01,,In Progress,,56,1283,No,No,Yes,Leadership
+TRN00726,EMP02005,Excel Advanced,Skillsoft,Leadership,2023-08-11,2024-11-29,Completed,69,57,351,No,Yes,No,Salesforce
+TRN00727,EMP01037,Product Management 101,Udemy,Soft Skills,2023-07-09,2024-03-05,Completed,60,22,986,No,No,No,Machine Learning
+TRN00728,EMP01416,Conflict Resolution,Skillsoft,Domain,2023-07-29,2024-04-07,Passed,81,78,1534,Yes,No,Yes,Communication
+TRN00729,EMP01762,Leadership Fundamentals,Harvard Online,Soft Skills,2023-08-07,,In Progress,,4,964,No,Yes,Yes,HubSpot
+TRN00730,EMP01545,Python for Data Science,Internal,Leadership,2023-11-09,2023-04-19,Completed,83,69,788,No,No,Yes,Salesforce
+TRN00731,EMP01985,Python for Data Science,Skillsoft,Domain,2024-05-22,2024-12-19,Completed,77,14,647,No,No,Yes,Rust
+TRN00732,EMP01484,React Development,LinkedIn Learning,Compliance,2024-08-14,,In Progress,,50,1282,No,Yes,Yes,Machine Learning
+TRN00733,EMP01140,AWS Certification,Pluralsight,Leadership,2023-11-15,2023-06-20,Completed,77,9,1756,No,No,Yes,Agile
+TRN00734,EMP01530,Financial Analysis,Coursera,Domain,2023-03-18,2024-12-30,Completed,87,8,103,No,Yes,Yes,GCP
+TRN00735,EMP01224,Financial Analysis,Skillsoft,Leadership,2024-05-19,2024-09-02,Completed,99,22,860,No,No,Yes,Marketing Analytics
+TRN00736,EMP01339,AWS Certification,Internal,Domain,2024-11-04,2023-03-08,Passed,79,68,1387,Yes,Yes,Yes,Performance Management
+TRN00737,EMP02029,UX Design Thinking,Skillsoft,Domain,2024-01-27,2023-04-16,Passed,79,54,1255,Yes,Yes,Yes,Azure
+TRN00738,EMP02013,Public Speaking,Udemy,Leadership,2024-07-05,2024-04-20,Completed,83,63,563,No,Yes,Yes,Machine Learning
+TRN00739,EMP02044,React Development,Internal,Technical,2024-11-25,,In Progress,,34,546,No,No,No,TypeScript
+TRN00740,EMP01784,Product Management 101,Skillsoft,Technical,2023-08-21,2024-09-09,Completed,63,34,75,No,Yes,Yes,Scrum
+TRN00741,EMP01205,Mental Health at Work,Harvard Online,Soft Skills,2023-11-22,,Enrolled,,43,1299,No,No,Yes,Adobe XD
+TRN00742,EMP01270,Public Speaking,Udemy,Technical,2024-09-01,,In Progress,,12,1488,No,Yes,Yes,TypeScript
+TRN00743,EMP01222,Public Speaking,Harvard Online,Compliance,2023-08-23,2023-12-10,Completed,73,19,1473,No,No,Yes,Kubernetes
+TRN00744,EMP01614,Security Awareness,Skillsoft,Technical,2024-03-11,2024-07-29,Completed,80,52,844,No,Yes,Yes,Python
+TRN00745,EMP02035,Diversity & Inclusion,LinkedIn Learning,Compliance,2023-03-12,2023-03-13,Completed,64,17,1303,No,Yes,Yes,SQL
+TRN00746,EMP01520,Conflict Resolution,Coursera,Compliance,2024-01-14,2023-09-18,Completed,69,61,1898,No,No,Yes,SQL
+TRN00747,EMP01941,Leadership Fundamentals,LinkedIn Learning,Compliance,2023-05-20,2024-06-17,Completed,94,62,832,No,No,Yes,Java
+TRN00748,EMP01735,Python for Data Science,Harvard Online,Domain,2023-01-26,2024-12-25,Passed,76,43,319,Yes,No,Yes,HubSpot
+TRN00749,EMP02027,Mental Health at Work,LinkedIn Learning,Compliance,2024-01-29,2023-10-11,Passed,66,27,995,Yes,Yes,Yes,AWS
+TRN00750,EMP01154,Excel Advanced,Coursera,Compliance,2023-09-26,2024-07-25,Completed,94,53,1936,No,Yes,No,Java
+TRN00751,EMP01730,Data Privacy (GDPR),LinkedIn Learning,Compliance,2023-10-02,2024-07-11,Completed,81,74,1441,No,No,No,Machine Learning
+TRN00752,EMP01592,Legal Compliance 2024,Coursera,Technical,2023-12-21,2024-02-25,Completed,68,69,1432,No,No,No,Deep Learning
+TRN00753,EMP02143,Data Privacy (GDPR),Skillsoft,Technical,2024-12-28,,Enrolled,,71,180,No,Yes,No,React
+TRN00754,EMP02043,React Development,Udemy,Domain,2024-12-03,,Dropped,,33,1157,No,No,Yes,Customer Success
+TRN00755,EMP01627,Conflict Resolution,Coursera,Compliance,2023-04-15,2023-01-09,Completed,60,28,1015,No,No,Yes,Customer Success
+TRN00756,EMP01829,AWS Certification,Harvard Online,Soft Skills,2023-01-10,,Enrolled,,55,1901,No,No,Yes,Node.js
+TRN00757,EMP02015,Docker & Kubernetes,Harvard Online,Compliance,2024-04-02,,Enrolled,,13,741,No,No,No,Project Management
+TRN00758,EMP01202,Excel Advanced,Pluralsight,Compliance,2024-05-23,,Failed,86,41,1830,No,No,Yes,Performance Management
+TRN00759,EMP01095,Financial Analysis,Internal,Domain,2024-01-19,,Enrolled,,2,1186,No,No,Yes,Recruitment
+TRN00760,EMP02062,Python for Data Science,Pluralsight,Compliance,2024-09-02,,In Progress,,9,733,No,No,Yes,NLP
+TRN00761,EMP01188,Conflict Resolution,Harvard Online,Soft Skills,2024-12-12,2023-12-15,Completed,66,9,476,No,Yes,No,Product Management
+TRN00762,EMP01041,Leadership Fundamentals,Udemy,Soft Skills,2023-01-01,,In Progress,,22,565,No,No,No,C++
+TRN00763,EMP01605,React Development,Pluralsight,Domain,2024-04-01,,Enrolled,,2,870,No,No,Yes,Node.js
+TRN00764,EMP01736,Data Privacy (GDPR),Skillsoft,Technical,2023-01-08,2024-04-26,Completed,69,74,1257,No,No,No,Kubernetes
+TRN00765,EMP01258,Mental Health at Work,LinkedIn Learning,Compliance,2023-04-29,2023-12-16,Completed,100,59,73,No,Yes,No,Deep Learning
+TRN00766,EMP01415,Agile & Scrum,Internal,Technical,2024-11-10,,Enrolled,,8,108,No,Yes,Yes,Customer Success
+TRN00767,EMP01498,Leadership Fundamentals,LinkedIn Learning,Domain,2023-08-21,,Dropped,,30,1974,No,No,Yes,Figma
+TRN00768,EMP01361,Product Management 101,Internal,Compliance,2023-03-02,,In Progress,,56,426,No,No,Yes,HubSpot
+TRN00769,EMP01304,Security Awareness,Pluralsight,Leadership,2023-07-29,,In Progress,,50,1914,No,Yes,No,SQL
+TRN00770,EMP01098,Communication Skills,LinkedIn Learning,Leadership,2023-10-03,,Dropped,,14,1330,No,No,No,Node.js
+TRN00771,EMP01623,Product Management 101,Udemy,Soft Skills,2023-01-27,2023-12-20,Passed,78,9,1538,Yes,No,Yes,Java
+TRN00772,EMP01534,Mental Health at Work,Udemy,Leadership,2024-07-25,2023-06-30,Completed,89,20,694,No,No,Yes,Performance Management
+TRN00773,EMP01366,Public Speaking,Harvard Online,Soft Skills,2024-11-29,2023-06-08,Completed,77,11,187,No,No,No,Azure
+TRN00774,EMP01532,Excel Advanced,Internal,Leadership,2023-09-05,2023-04-26,Completed,90,39,1937,No,Yes,Yes,AWS
+TRN00775,EMP01498,Public Speaking,Skillsoft,Soft Skills,2024-03-19,2024-09-07,Completed,75,55,14,No,No,Yes,C++
+TRN00776,EMP01279,Data Privacy (GDPR),LinkedIn Learning,Compliance,2023-04-13,2023-08-27,Passed,65,5,1633,Yes,Yes,Yes,Legal Research
+TRN00777,EMP01784,Diversity & Inclusion,Pluralsight,Leadership,2023-07-19,2023-12-07,Completed,98,39,205,No,Yes,Yes,Python
+TRN00778,EMP01983,UX Design Thinking,Internal,Leadership,2023-11-05,,Enrolled,,42,510,No,No,Yes,Data Visualization
+TRN00779,EMP01058,Machine Learning Basics,Udemy,Soft Skills,2024-01-11,,In Progress,,54,426,No,No,Yes,Java
+TRN00780,EMP01046,AWS Certification,Udemy,Technical,2024-09-25,,Failed,65,40,542,No,Yes,Yes,Deep Learning
+TRN00781,EMP01788,Product Management 101,LinkedIn Learning,Compliance,2023-02-28,2023-09-08,Passed,68,63,1463,Yes,No,Yes,HubSpot
+TRN00782,EMP01375,Security Awareness,Udemy,Compliance,2024-01-14,2024-08-04,Completed,68,19,1022,No,Yes,Yes,Machine Learning
+TRN00783,EMP01922,Product Management 101,LinkedIn Learning,Technical,2024-11-17,2023-04-19,Completed,78,68,788,No,Yes,Yes,Data Visualization
+TRN00784,EMP01736,Communication Skills,Skillsoft,Domain,2023-10-20,,Dropped,,43,394,No,Yes,Yes,Legal Research
+TRN00785,EMP02080,React Development,Internal,Technical,2023-10-03,2024-12-14,Completed,60,5,1511,No,Yes,Yes,Java
+TRN00786,EMP01789,Leadership Fundamentals,Coursera,Leadership,2023-05-29,,Enrolled,,11,1947,No,No,Yes,SQL
+TRN00787,EMP01774,Docker & Kubernetes,Harvard Online,Compliance,2023-09-23,2023-02-12,Passed,63,9,650,Yes,No,Yes,Product Management
+TRN00788,EMP01937,Security Awareness,Udemy,Soft Skills,2024-12-30,2024-03-03,Completed,79,76,1983,No,Yes,Yes,Docker
+TRN00789,EMP01639,Product Management 101,Harvard Online,Compliance,2023-02-05,2023-08-16,Completed,92,75,1839,No,Yes,No,C++
+TRN00790,EMP01614,Data Privacy (GDPR),Pluralsight,Compliance,2023-07-07,,Enrolled,,26,309,No,No,Yes,C++
+TRN00791,EMP01682,Security Awareness,Udemy,Leadership,2024-03-28,,In Progress,,10,778,No,No,Yes,UX Research
+TRN00792,EMP01357,AWS Certification,LinkedIn Learning,Compliance,2023-10-21,,Enrolled,,53,275,No,No,Yes,Salesforce
+TRN00793,EMP01500,UX Design Thinking,LinkedIn Learning,Compliance,2024-07-08,2024-05-27,Completed,81,75,1207,No,Yes,Yes,Customer Success
+TRN00794,EMP01769,Leadership Fundamentals,Udemy,Compliance,2024-04-28,,In Progress,,60,1400,No,No,No,Performance Management
+TRN00795,EMP01840,Diversity & Inclusion,LinkedIn Learning,Soft Skills,2024-12-22,2024-09-14,Completed,66,17,1542,No,Yes,Yes,Node.js
+TRN00796,EMP02187,Excel Advanced,Udemy,Technical,2023-07-10,,In Progress,,15,1751,No,No,Yes,Account Management
+TRN00797,EMP01653,UX Design Thinking,Coursera,Domain,2024-04-11,2023-07-31,Completed,66,5,303,No,Yes,Yes,AWS
+TRN00798,EMP01209,Communication Skills,Skillsoft,Domain,2023-04-08,2023-01-02,Completed,63,58,580,No,No,Yes,Python
+TRN00799,EMP01516,Product Management 101,Coursera,Compliance,2023-09-09,2024-07-23,Completed,63,9,1109,No,No,No,Scrum
+TRN00800,EMP01483,Agile & Scrum,LinkedIn Learning,Soft Skills,2024-09-29,,In Progress,,33,1948,No,No,Yes,Docker

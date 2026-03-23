@@ -1,0 +1,601 @@
+record_id,department,role,age,gender,years_at_company,salary,job_satisfaction,work_life_balance,manager_relationship,career_growth_opportunity,commute_distance_miles,overtime_frequency,remote_work_policy,last_promotion_years_ago,competing_offer,left_company,attrition_risk_score,exit_reason,months_before_leaving
+ATT00001,Research,Research Scientist,61,Female,12,104126,7,10,6,5,36,Sometimes,Hybrid,5,No,No,0.905,,
+ATT00002,Design,UX Designer,41,Non-binary,1,96295,4,3,6,8,38,Never,Hybrid,2,No,No,0.682,,
+ATT00003,Security,CISO,32,Prefer not to say,19,268506,3,4,3,1,38,Always,On-site,6,No,No,0.146,,
+ATT00004,Research,Research Scientist,24,Prefer not to say,0,96170,1,1,9,5,2,Often,Hybrid,8,No,No,0.161,,
+ATT00005,Design,Lead Designer,65,Non-binary,16,91417,10,4,2,8,32,Sometimes,On-site,7,No,No,0.822,,
+ATT00006,Research,Senior Researcher,39,Male,11,153697,7,8,7,8,29,Never,On-site,3,No,No,0.889,,
+ATT00007,Security,Security Engineer,58,Prefer not to say,15,136536,9,1,4,7,28,Never,On-site,9,No,No,0.577,,
+ATT00008,Data Science,ML Engineer,24,Male,5,114700,6,8,9,3,11,Rarely,On-site,9,No,No,0.974,,
+ATT00009,Customer Success,VP CS,56,Female,9,109248,3,7,3,10,23,Rarely,Hybrid,4,No,Yes,0.073,Management,31
+ATT00010,QA,QA Manager,62,Non-binary,10,94457,10,5,2,9,34,Rarely,Hybrid,8,Yes,No,0.542,,
+ATT00011,Security,Security Analyst,32,Male,14,127133,5,5,9,2,30,Sometimes,Hybrid,2,No,No,0.835,,
+ATT00012,Marketing,Director of Marketing,62,Female,11,147268,6,1,1,4,3,Always,On-site,7,No,Yes,0.968,Work-life balance,27
+ATT00013,Engineering,Senior Software Engineer,55,Prefer not to say,1,213088,4,3,2,6,55,Always,Fully Remote,10,No,No,0.208,,
+ATT00014,Marketing,CMO,54,Non-binary,16,235264,7,8,5,4,40,Often,Fully Remote,4,No,No,0.685,,
+ATT00015,Operations,Operations Manager,47,Female,17,87208,2,8,6,1,27,Never,On-site,9,No,No,0.714,,
+ATT00016,Legal,Legal Counsel,65,Prefer not to say,19,118203,6,2,4,2,37,Never,Hybrid,2,No,Yes,0.406,Relocation,1
+ATT00017,Legal,Senior Counsel,57,Prefer not to say,6,171353,7,5,7,2,3,Often,On-site,1,No,No,0.451,,
+ATT00018,Security,Security Architect,52,Prefer not to say,10,137761,6,9,10,9,32,Rarely,Fully Remote,9,Yes,Yes,0.409,Relocation,31
+ATT00019,Engineering,Principal Engineer,40,Male,16,141246,6,7,3,4,15,Rarely,On-site,10,No,Yes,0.11,Work-life balance,12
+ATT00020,Customer Success,CS Specialist,37,Prefer not to say,4,82063,5,8,1,10,42,Sometimes,Fully Remote,9,No,Yes,0.974,Relocation,4
+ATT00021,Legal,Senior Counsel,45,Female,19,142246,1,4,6,10,55,Rarely,On-site,0,No,No,0.909,,
+ATT00022,Data Science,Data Analyst,59,Female,4,124432,1,4,1,8,32,Rarely,On-site,7,Yes,No,0.841,,
+ATT00023,Finance,Finance Manager,60,Non-binary,12,84108,6,8,10,9,42,Never,On-site,2,No,No,0.19,,
+ATT00024,Security,Security Analyst,23,Female,1,124652,10,10,3,6,25,Rarely,On-site,1,Yes,No,0.292,,
+ATT00025,Engineering,Senior Software Engineer,44,Female,1,215579,1,5,1,3,29,Often,Fully Remote,7,No,Yes,0.546,Better opportunity,11
+ATT00026,Security,Security Engineer,30,Female,8,141369,5,3,3,4,42,Never,On-site,7,No,No,0.517,,
+ATT00027,Research,Senior Researcher,29,Non-binary,5,167688,6,7,6,8,53,Never,Hybrid,6,No,No,0.068,,
+ATT00028,Sales,Sales Development Rep,35,Non-binary,1,97868,2,5,3,2,58,Never,Hybrid,10,Yes,No,0.122,,
+ATT00029,Sales,Sales Development Rep,46,Non-binary,10,87128,9,3,1,1,43,Always,Hybrid,1,No,Yes,0.787,Compensation,23
+ATT00030,Product,Group PM,60,Non-binary,13,111138,8,1,10,3,13,Always,On-site,7,No,Yes,0.81,Personal,16
+ATT00031,QA,Senior QA,32,Female,12,160808,8,1,10,9,36,Sometimes,Fully Remote,4,No,No,0.354,,
+ATT00032,QA,QA Engineer,25,Male,6,102019,6,9,9,2,43,Rarely,Fully Remote,5,No,No,0.922,,
+ATT00033,Research,Senior Researcher,38,Female,0,190788,9,8,2,4,0,Never,Hybrid,1,No,No,0.523,,
+ATT00034,Engineering,Principal Engineer,28,Female,2,129744,7,2,1,10,42,Never,Hybrid,1,Yes,Yes,0.707,Relocation,25
+ATT00035,Legal,Senior Counsel,60,Prefer not to say,14,169774,4,5,10,4,6,Often,Fully Remote,9,No,No,0.695,,
+ATT00036,Sales,Director of Sales,45,Non-binary,14,155390,1,9,6,8,19,Often,Fully Remote,7,No,No,0.107,,
+ATT00037,HR,HR Manager,55,Prefer not to say,8,69936,3,5,7,10,24,Rarely,Fully Remote,8,Yes,No,0.325,,
+ATT00038,Operations,COO,59,Female,20,214190,7,4,5,4,3,Always,Fully Remote,6,No,Yes,0.019,Compensation,33
+ATT00039,Design,Senior Designer,29,Non-binary,4,124630,4,9,2,1,4,Always,On-site,7,No,Yes,0.742,Career change,12
+ATT00040,Sales,CRO,28,Non-binary,5,218151,10,10,10,7,49,Often,Fully Remote,9,Yes,No,0.19,,
+ATT00041,QA,QA Manager,33,Male,17,100884,9,6,9,5,2,Often,Fully Remote,4,No,No,0.083,,
+ATT00042,Engineering,Engineering Manager,35,Non-binary,12,127984,9,7,8,6,43,Always,On-site,7,Yes,No,0.093,,
+ATT00043,HR,CHRO,31,Female,20,191735,10,6,6,8,29,Rarely,Fully Remote,0,No,No,0.695,,
+ATT00044,Finance,CFO,57,Prefer not to say,8,220220,4,9,3,1,6,Always,Hybrid,7,No,Yes,0.452,Better opportunity,11
+ATT00045,Security,Security Architect,26,Male,11,111270,1,10,2,3,44,Often,On-site,0,No,No,0.193,,
+ATT00046,Finance,Controller,25,Prefer not to say,20,107467,3,8,3,5,56,Sometimes,Hybrid,0,No,No,0.581,,
+ATT00047,QA,QA Manager,38,Non-binary,0,90785,7,3,4,10,9,Sometimes,Fully Remote,6,No,No,0.674,,
+ATT00048,HR,HR Business Partner,43,Prefer not to say,13,87121,9,2,2,3,53,Never,Fully Remote,5,No,No,0.84,,
+ATT00049,Data Science,Senior Data Scientist,37,Male,8,160714,5,4,10,4,33,Often,Fully Remote,10,No,No,0.858,,
+ATT00050,Legal,General Counsel,60,Female,7,107051,3,5,3,4,35,Sometimes,Hybrid,8,No,No,0.247,,
+ATT00051,Design,Design Manager,28,Prefer not to say,2,81969,4,8,9,2,44,Never,On-site,6,No,Yes,0.81,Personal,16
+ATT00052,Operations,Operations Manager,38,Female,8,85568,8,2,3,9,18,Never,Fully Remote,8,No,No,0.754,,
+ATT00053,Security,Security Architect,22,Non-binary,19,132884,2,10,4,2,35,Often,Fully Remote,2,No,No,0.74,,
+ATT00054,HR,HR Coordinator,25,Prefer not to say,4,68711,4,5,5,1,43,Sometimes,On-site,9,No,No,0.944,,
+ATT00055,Operations,Operations Manager,34,Female,14,87026,8,4,4,6,47,Always,Fully Remote,5,No,No,0.162,,
+ATT00056,Data Science,Head of Data,58,Male,9,147993,9,1,6,10,21,Never,Hybrid,5,No,No,0.488,,
+ATT00057,Finance,Finance Manager,33,Prefer not to say,6,82489,7,4,7,5,29,Never,Hybrid,8,No,No,0.06,,
+ATT00058,Security,Security Engineer,39,Male,19,107917,5,5,8,7,13,Rarely,On-site,10,No,Yes,0.489,Management,16
+ATT00059,Operations,Operations Analyst,50,Male,3,74824,1,4,8,7,55,Never,Hybrid,9,Yes,No,0.586,,
+ATT00060,Product,VP Product,60,Prefer not to say,0,232889,8,10,8,4,6,Never,On-site,0,No,No,0.488,,
+ATT00061,Product,Product Manager,32,Female,10,112541,9,5,2,10,0,Rarely,Fully Remote,2,No,No,0.074,,
+ATT00062,Marketing,CMO,61,Male,17,210733,1,8,1,10,50,Sometimes,Fully Remote,9,No,No,0.984,,
+ATT00063,Legal,Legal Counsel,27,Prefer not to say,17,106612,9,5,6,4,46,Often,On-site,8,Yes,No,0.626,,
+ATT00064,HR,HR Specialist,22,Non-binary,7,71464,5,10,3,4,2,Always,Fully Remote,0,No,No,0.725,,
+ATT00065,Customer Success,CS Manager,44,Prefer not to say,11,61252,4,10,1,8,42,Rarely,Hybrid,7,No,No,0.853,,
+ATT00066,Security,Security Architect,36,Prefer not to say,4,115311,10,10,10,2,28,Always,Fully Remote,10,No,No,0.481,,
+ATT00067,HR,HR Specialist,50,Female,15,86204,3,3,7,4,57,Always,Hybrid,1,No,No,0.11,,
+ATT00068,Operations,Operations Analyst,57,Female,10,82714,8,9,2,1,49,Sometimes,Fully Remote,4,No,No,0.012,,
+ATT00069,HR,HR Manager,45,Non-binary,5,65626,2,4,6,8,39,Often,Fully Remote,4,No,No,0.297,,
+ATT00070,Engineering,Engineering Manager,59,Prefer not to say,19,125041,4,2,6,3,10,Often,On-site,9,Yes,No,0.11,,
+ATT00071,Data Science,ML Engineer,49,Non-binary,10,147265,7,6,4,1,11,Never,Fully Remote,6,No,No,0.749,,
+ATT00072,QA,QA Lead,34,Female,1,86052,1,5,3,3,56,Sometimes,Hybrid,0,No,No,0.157,,
+ATT00073,Sales,Director of Sales,25,Male,6,160577,3,5,6,1,35,Always,Fully Remote,2,Yes,No,0.846,,
+ATT00074,Operations,Director of Operations,42,Female,2,166779,4,3,7,10,19,Sometimes,On-site,6,No,No,0.22,,
+ATT00075,Engineering,Senior Software Engineer,30,Male,18,183830,6,9,4,6,31,Never,On-site,7,No,Yes,0.763,Relocation,1
+ATT00076,Operations,Operations Manager,59,Prefer not to say,19,73374,9,4,3,10,16,Always,Fully Remote,7,No,No,0.141,,
+ATT00077,Operations,Operations Analyst,50,Non-binary,1,70668,8,6,5,8,54,Sometimes,Fully Remote,3,Yes,Yes,0.996,Career change,33
+ATT00078,Product,Senior PM,34,Prefer not to say,13,165404,1,10,7,9,0,Never,Fully Remote,0,Yes,No,0.21,,
+ATT00079,Engineering,Software Engineer II,25,Non-binary,14,119048,10,6,5,5,57,Never,On-site,8,No,No,0.501,,
+ATT00080,Research,Research Scientist,53,Female,2,128795,10,4,1,5,55,Never,On-site,0,No,No,0.653,,
+ATT00081,Operations,Operations Manager,23,Non-binary,13,72389,9,8,4,9,19,Rarely,Fully Remote,2,Yes,No,0.366,,
+ATT00082,Finance,Senior Analyst,34,Prefer not to say,13,163515,3,6,3,4,32,Never,Hybrid,4,No,No,0.307,,
+ATT00083,Marketing,CMO,63,Non-binary,10,240689,6,6,4,9,14,Sometimes,Fully Remote,6,No,No,0.695,,
+ATT00084,Sales,Sales Development Rep,58,Male,15,96659,5,5,4,3,36,Often,On-site,2,Yes,No,0.186,,
+ATT00085,QA,Senior QA,29,Female,7,146798,8,1,4,3,40,Rarely,On-site,8,No,No,0.608,,
+ATT00086,Legal,Legal Counsel,65,Prefer not to say,0,95728,6,3,1,7,54,Never,Fully Remote,8,No,No,0.109,,
+ATT00087,Engineering,VP Engineering,52,Prefer not to say,10,197822,3,4,9,7,12,Often,Hybrid,3,No,No,0.731,,
+ATT00088,Design,UX Designer,56,Non-binary,15,86084,3,9,1,5,45,Rarely,Hybrid,9,Yes,No,0.439,,
+ATT00089,DevOps,Platform Engineer,35,Male,20,119291,10,2,10,2,33,Never,On-site,8,Yes,No,0.909,,
+ATT00090,Sales,Senior AE,30,Prefer not to say,10,144899,8,1,1,5,59,Never,Fully Remote,2,No,No,0.219,,
+ATT00091,Finance,Senior Analyst,40,Male,2,140681,10,3,8,8,41,Never,Fully Remote,8,No,No,0.233,,
+ATT00092,DevOps,DevOps Engineer,64,Prefer not to say,20,108141,1,4,7,6,28,Never,Hybrid,8,No,No,0.597,,
+ATT00093,Design,Design Manager,26,Male,2,82046,2,9,6,6,17,Never,Hybrid,7,No,No,0.286,,
+ATT00094,Legal,Legal Counsel,57,Male,15,97253,5,8,5,10,56,Never,Hybrid,9,No,No,0.244,,
+ATT00095,Operations,Director of Operations,37,Prefer not to say,7,142388,4,1,6,8,25,Rarely,On-site,0,No,No,0.167,,
+ATT00096,Research,Senior Researcher,29,Non-binary,16,184942,3,2,9,7,9,Sometimes,Fully Remote,9,No,No,0.928,,
+ATT00097,Marketing,Director of Marketing,65,Prefer not to say,9,140003,5,4,5,10,3,Always,Fully Remote,4,No,No,0.386,,
+ATT00098,QA,Senior QA,36,Non-binary,8,128901,4,1,5,2,58,Never,Hybrid,4,No,No,0.656,,
+ATT00099,Research,Research Director,22,Male,19,183923,8,8,3,9,24,Often,Hybrid,10,No,No,0.404,,
+ATT00100,Operations,Operations Analyst,34,Non-binary,10,87508,8,2,1,8,6,Often,On-site,0,No,No,0.996,,
+ATT00101,HR,HR Coordinator,49,Non-binary,15,67271,4,2,5,7,43,Sometimes,Fully Remote,0,No,No,0.013,,
+ATT00102,Legal,Senior Counsel,53,Prefer not to say,12,183904,6,9,2,4,19,Rarely,Hybrid,4,No,No,0.938,,
+ATT00103,Legal,General Counsel,32,Female,12,120685,10,7,7,4,28,Always,Hybrid,1,No,No,0.965,,
+ATT00104,Engineering,Principal Engineer,61,Prefer not to say,15,134494,8,5,1,5,39,Sometimes,Fully Remote,6,No,No,0.167,,
+ATT00105,Security,Security Analyst,27,Non-binary,11,120010,3,10,3,8,42,Always,Fully Remote,10,No,Yes,0.405,Compensation,36
+ATT00106,Engineering,Principal Engineer,52,Prefer not to say,19,111188,4,9,4,10,21,Never,Fully Remote,10,No,No,0.56,,
+ATT00107,Data Science,Data Scientist,34,Male,8,146227,4,6,1,4,44,Always,Hybrid,8,No,No,0.081,,
+ATT00108,Security,Security Analyst,23,Male,2,134160,1,7,8,8,14,Often,On-site,5,No,No,0.677,,
+ATT00109,Legal,General Counsel,51,Prefer not to say,3,97950,6,9,5,10,42,Often,Fully Remote,8,No,No,0.01,,
+ATT00110,Operations,Operations Analyst,25,Non-binary,4,70550,5,1,8,7,46,Often,Hybrid,8,No,Yes,0.701,Better opportunity,35
+ATT00111,Finance,Controller,44,Female,7,97936,8,4,4,2,2,Often,On-site,4,No,No,0.4,,
+ATT00112,Marketing,Marketing Coordinator,52,Prefer not to say,14,77921,6,4,4,10,26,Sometimes,Fully Remote,4,No,Yes,0.09,Work-life balance,24
+ATT00113,Legal,General Counsel,33,Prefer not to say,4,95698,10,4,6,3,57,Sometimes,Fully Remote,2,Yes,Yes,0.954,Management,30
+ATT00114,Security,Security Architect,41,Prefer not to say,15,138547,1,1,5,8,22,Always,Hybrid,0,Yes,No,0.994,,
+ATT00115,QA,QA Engineer,24,Female,8,79642,2,7,4,9,26,Never,Fully Remote,1,Yes,No,0.53,,
+ATT00116,Engineering,Software Engineer II,34,Non-binary,20,107796,8,9,1,1,51,Sometimes,Hybrid,0,No,No,0.533,,
+ATT00117,Marketing,Director of Marketing,27,Prefer not to say,4,176582,5,2,10,5,16,Often,Hybrid,6,No,No,0.029,,
+ATT00118,HR,HR Manager,37,Female,2,83981,4,10,6,8,26,Always,Hybrid,3,No,No,0.606,,
+ATT00119,Marketing,Senior Marketer,30,Non-binary,3,135519,2,8,9,7,15,Never,On-site,10,No,No,0.923,,
+ATT00120,Legal,General Counsel,61,Non-binary,13,113233,10,7,8,4,29,Always,On-site,9,No,No,0.383,,
+ATT00121,Operations,Operations Analyst,60,Prefer not to say,13,77768,2,7,4,5,33,Often,On-site,6,No,No,0.999,,
+ATT00122,Research,Research Director,29,Male,10,232583,2,9,5,3,42,Often,Hybrid,1,Yes,Yes,0.157,Personal,4
+ATT00123,HR,Director of HR,42,Non-binary,20,137265,9,9,1,9,14,Sometimes,Fully Remote,6,No,No,0.726,,
+ATT00124,Legal,Legal Counsel,50,Prefer not to say,0,110298,8,1,7,3,23,Never,On-site,1,No,No,0.73,,
+ATT00125,Customer Success,CS Manager,28,Male,19,82831,9,1,10,6,58,Often,On-site,0,No,No,0.648,,
+ATT00126,Customer Success,CS Manager,37,Female,6,70065,4,7,6,5,46,Never,Fully Remote,9,No,No,0.214,,
+ATT00127,Product,Associate PM,23,Female,14,104558,2,7,4,2,31,Sometimes,On-site,10,Yes,No,0.618,,
+ATT00128,Security,Security Engineer,64,Prefer not to say,7,111405,5,1,10,6,34,Often,Fully Remote,5,No,No,0.437,,
+ATT00129,Design,UI Designer,46,Prefer not to say,4,89321,10,10,7,7,52,Rarely,On-site,0,No,No,0.277,,
+ATT00130,Data Science,ML Engineer,35,Female,16,146792,10,2,3,3,33,Never,Fully Remote,2,No,No,0.642,,
+ATT00131,Engineering,VP Engineering,61,Female,2,205208,8,4,4,7,7,Rarely,Fully Remote,9,No,Yes,0.202,Better opportunity,36
+ATT00132,Customer Success,Director of CS,62,Non-binary,20,146749,8,6,2,6,10,Rarely,On-site,10,No,No,0.561,,
+ATT00133,Legal,Legal Counsel,23,Prefer not to say,14,120891,4,3,3,4,28,Never,On-site,0,No,No,0.105,,
+ATT00134,Sales,Sales Manager,40,Female,19,76814,2,6,4,4,36,Sometimes,On-site,3,No,No,0.692,,
+ATT00135,Security,CISO,24,Male,3,273315,9,2,9,5,41,Always,On-site,3,No,No,0.3,,
+ATT00136,Customer Success,CS Specialist,65,Male,1,68992,10,10,2,4,18,Often,On-site,0,No,No,0.628,,
+ATT00137,Engineering,VP Engineering,47,Male,4,192083,8,5,8,3,26,Often,Fully Remote,3,No,No,0.849,,
+ATT00138,Finance,CFO,53,Female,15,266285,6,4,9,7,24,Always,On-site,7,Yes,No,0.986,,
+ATT00139,Marketing,CMO,63,Female,3,220594,1,9,10,4,6,Often,On-site,8,No,No,0.884,,
+ATT00140,Security,Security Engineer,58,Non-binary,7,142694,5,3,1,6,26,Often,On-site,0,No,No,0.224,,
+ATT00141,HR,HR Specialist,50,Non-binary,12,73004,3,10,9,1,23,Rarely,On-site,0,No,No,0.397,,
+ATT00142,Engineering,Software Engineer I,62,Prefer not to say,20,141134,6,2,1,1,6,Always,On-site,9,No,No,0.003,,
+ATT00143,Customer Success,VP CS,47,Non-binary,13,113423,2,7,8,6,51,Rarely,Fully Remote,5,No,No,0.245,,
+ATT00144,QA,QA Lead,27,Non-binary,15,99531,4,10,8,5,11,Sometimes,Hybrid,4,No,No,0.65,,
+ATT00145,Operations,Operations Analyst,61,Prefer not to say,9,80000,6,2,10,9,18,Often,On-site,5,No,No,0.211,,
+ATT00146,DevOps,DevOps Engineer,23,Female,5,123628,9,9,10,5,42,Always,On-site,7,No,No,0.828,,
+ATT00147,Customer Success,Director of CS,53,Female,13,140841,6,3,9,9,8,Always,Fully Remote,10,No,Yes,0.161,Relocation,7
+ATT00148,Sales,Account Executive,64,Female,11,81193,1,3,10,9,39,Never,Hybrid,2,No,Yes,0.574,Management,3
+ATT00149,Operations,COO,42,Female,8,196400,1,10,10,8,56,Always,On-site,5,Yes,No,0.754,,
+ATT00150,Product,Group PM,37,Male,20,103842,2,8,9,9,42,Always,On-site,8,Yes,Yes,0.435,Relocation,26
+ATT00151,Finance,Controller,39,Female,5,109993,4,9,5,5,19,Often,Fully Remote,1,No,No,0.568,,
+ATT00152,QA,QA Lead,60,Non-binary,14,102223,2,8,1,5,39,Sometimes,On-site,4,Yes,No,0.363,,
+ATT00153,Marketing,Marketing Manager,38,Non-binary,2,92700,9,4,2,4,9,Never,On-site,8,Yes,Yes,0.7,Personal,31
+ATT00154,QA,QA Engineer,59,Male,11,88885,2,1,1,8,8,Often,Fully Remote,7,No,No,0.512,,
+ATT00155,Research,Senior Researcher,48,Non-binary,1,177256,7,5,1,1,21,Always,On-site,4,No,Yes,0.347,Career change,9
+ATT00156,Operations,Operations Manager,30,Non-binary,5,93020,10,9,2,2,54,Often,Hybrid,4,No,No,0.476,,
+ATT00157,Data Science,Senior Data Scientist,31,Non-binary,19,180482,5,9,6,10,6,Rarely,Fully Remote,7,No,No,0.581,,
+ATT00158,QA,Senior QA,38,Non-binary,17,123587,4,9,9,2,32,Often,Fully Remote,6,No,No,0.253,,
+ATT00159,DevOps,DevOps Manager,49,Female,19,123038,3,5,8,7,33,Never,Hybrid,2,No,No,0.469,,
+ATT00160,Customer Success,VP CS,62,Male,6,111200,5,7,4,7,31,Often,Fully Remote,1,No,No,0.686,,
+ATT00161,Security,Security Analyst,31,Non-binary,18,113575,5,8,3,8,8,Sometimes,Hybrid,5,No,No,0.39,,
+ATT00162,Customer Success,VP CS,26,Male,19,119677,10,4,4,4,25,Rarely,On-site,9,No,No,0.997,,
+ATT00163,Product,Senior PM,53,Male,11,204176,10,10,8,8,42,Never,On-site,4,No,No,0.328,,
+ATT00164,HR,CHRO,27,Non-binary,1,216912,8,8,5,2,58,Always,Hybrid,1,No,No,0.919,,
+ATT00165,Sales,CRO,42,Female,11,201898,10,4,3,3,29,Often,On-site,7,No,Yes,0.696,Better opportunity,21
+ATT00166,QA,QA Manager,29,Prefer not to say,8,87125,4,3,7,2,52,Often,On-site,1,No,No,0.981,,
+ATT00167,Sales,Director of Sales,62,Non-binary,11,174136,3,8,10,2,33,Never,Hybrid,5,No,No,0.858,,
+ATT00168,Engineering,Software Engineer I,57,Prefer not to say,7,135709,1,3,10,7,41,Rarely,Fully Remote,5,No,No,0.647,,
+ATT00169,Marketing,Marketing Manager,25,Prefer not to say,13,76612,9,3,8,2,59,Rarely,On-site,8,No,No,0.176,,
+ATT00170,QA,QA Manager,29,Male,18,89286,9,8,3,6,19,Never,Hybrid,7,No,No,0.539,,
+ATT00171,Security,Security Analyst,54,Female,0,113713,3,9,2,3,29,Often,Fully Remote,1,No,No,0.756,,
+ATT00172,Sales,VP Sales,65,Prefer not to say,17,171973,5,4,8,9,43,Always,Hybrid,2,No,No,0.139,,
+ATT00173,HR,Director of HR,39,Male,12,130232,1,6,9,1,52,Always,On-site,5,No,Yes,0.107,Compensation,29
+ATT00174,Engineering,Engineering Manager,57,Prefer not to say,10,110019,5,1,8,4,11,Always,On-site,4,No,No,0.376,,
+ATT00175,Operations,Operations Manager,30,Male,20,93443,2,1,9,3,9,Always,Fully Remote,9,No,No,0.056,,
+ATT00176,Marketing,Senior Marketer,51,Non-binary,20,136577,4,4,7,8,49,Always,Fully Remote,5,No,No,0.551,,
+ATT00177,Sales,Senior AE,59,Male,17,134129,9,2,4,9,43,Rarely,Fully Remote,1,Yes,No,0.612,,
+ATT00178,QA,QA Manager,64,Non-binary,14,86435,9,4,4,6,24,Often,Fully Remote,8,No,No,0.671,,
+ATT00179,Research,Research Scientist,33,Prefer not to say,0,131768,10,8,8,8,31,Rarely,Fully Remote,8,No,No,0.978,,
+ATT00180,Customer Success,Director of CS,50,Prefer not to say,1,135163,4,7,9,2,43,Never,On-site,10,No,Yes,0.87,Personal,15
+ATT00181,Finance,Senior Analyst,23,Male,11,161709,7,2,3,2,16,Always,Fully Remote,2,No,No,0.537,,
+ATT00182,Data Science,ML Engineer,34,Male,18,117631,2,10,5,10,9,Often,On-site,10,No,No,0.679,,
+ATT00183,Product,Director of Product,54,Male,5,176405,4,2,6,3,6,Always,Fully Remote,9,No,No,0.07,,
+ATT00184,Sales,Director of Sales,25,Male,17,178544,5,4,6,10,30,Rarely,Fully Remote,9,No,No,0.054,,
+ATT00185,HR,HR Manager,52,Female,16,65003,7,6,9,5,54,Sometimes,Hybrid,3,No,No,0.683,,
+ATT00186,Security,Security Architect,22,Non-binary,7,120149,7,6,7,9,6,Sometimes,Hybrid,10,Yes,No,0.83,,
+ATT00187,Operations,Director of Operations,28,Prefer not to say,15,131568,10,7,3,3,37,Rarely,Fully Remote,10,No,No,0.747,,
+ATT00188,Finance,Controller,56,Non-binary,8,94612,8,4,3,8,19,Rarely,Fully Remote,10,No,Yes,0.394,Career change,25
+ATT00189,Legal,General Counsel,62,Male,0,97331,9,5,8,7,58,Often,On-site,9,No,No,0.191,,
+ATT00190,Customer Success,VP CS,50,Male,4,119169,1,9,5,8,24,Sometimes,On-site,2,Yes,Yes,0.767,Compensation,25
+ATT00191,Design,UI Designer,51,Male,17,82719,9,9,2,5,40,Rarely,Hybrid,1,Yes,No,0.902,,
+ATT00192,DevOps,Platform Engineer,46,Male,18,113934,1,1,8,6,3,Often,On-site,9,No,No,0.336,,
+ATT00193,Security,Security Engineer,26,Prefer not to say,16,102374,7,8,8,5,54,Always,Fully Remote,8,No,No,0.98,,
+ATT00194,Engineering,Software Engineer II,34,Prefer not to say,16,142094,5,3,7,4,59,Rarely,Hybrid,1,No,No,0.856,,
+ATT00195,Product,Product Manager,43,Prefer not to say,11,116155,8,3,9,8,53,Always,Fully Remote,10,No,No,0.789,,
+ATT00196,Sales,VP Sales,41,Prefer not to say,12,148183,4,9,1,3,25,Often,Fully Remote,9,No,Yes,0.407,Management,28
+ATT00197,Legal,General Counsel,27,Prefer not to say,8,96296,2,5,7,1,16,Always,On-site,1,No,No,0.586,,
+ATT00198,Research,Research Scientist,34,Female,4,113469,3,10,8,10,51,Always,Fully Remote,1,No,No,0.762,,
+ATT00199,Legal,Legal Counsel,58,Prefer not to say,15,128468,9,7,7,8,22,Never,On-site,6,No,Yes,0.21,Personal,25
+ATT00200,Legal,Legal Counsel,61,Female,15,105115,10,2,5,4,60,Always,Fully Remote,9,No,No,0.674,,
+ATT00201,Security,Security Analyst,36,Male,17,140814,4,4,7,1,57,Never,Hybrid,6,No,No,0.918,,
+ATT00202,HR,HR Coordinator,62,Female,15,65126,3,3,5,9,39,Never,Fully Remote,6,Yes,Yes,0.306,Relocation,29
+ATT00203,Sales,Senior AE,50,Prefer not to say,13,151453,4,10,5,1,34,Never,On-site,2,No,No,0.332,,
+ATT00204,Operations,Director of Operations,53,Prefer not to say,11,152280,8,10,3,3,29,Never,Fully Remote,9,No,No,0.255,,
+ATT00205,Finance,Controller,61,Non-binary,15,108511,7,4,4,8,7,Never,On-site,3,No,No,0.118,,
+ATT00206,Legal,Legal Counsel,29,Prefer not to say,10,95535,2,8,1,4,51,Often,Hybrid,1,No,No,0.327,,
+ATT00207,Sales,Account Executive,49,Non-binary,10,84070,9,5,6,6,19,Rarely,On-site,10,No,Yes,0.134,Compensation,29
+ATT00208,HR,HR Specialist,62,Female,1,66107,9,3,10,3,12,Often,On-site,2,No,No,0.677,,
+ATT00209,DevOps,DevOps Manager,64,Non-binary,0,113025,1,2,2,7,22,Sometimes,On-site,6,No,No,0.095,,
+ATT00210,HR,HR Coordinator,42,Non-binary,11,78253,9,1,1,7,25,Never,Hybrid,6,No,No,0.48,,
+ATT00211,QA,Senior QA,34,Prefer not to say,0,116647,5,4,9,1,58,Never,On-site,6,No,Yes,0.721,Management,15
+ATT00212,Legal,General Counsel,37,Prefer not to say,18,120520,2,1,10,10,46,Often,On-site,8,No,No,0.169,,
+ATT00213,Research,Research Scientist,46,Female,0,119992,10,2,7,6,5,Often,On-site,0,Yes,Yes,0.27,Work-life balance,12
+ATT00214,Product,Senior PM,43,Prefer not to say,1,147856,4,6,9,8,56,Never,Hybrid,0,No,No,0.01,,
+ATT00215,Data Science,Senior Data Scientist,64,Non-binary,0,202204,2,9,8,9,37,Never,Fully Remote,10,No,No,0.93,,
+ATT00216,Customer Success,Director of CS,36,Female,11,122366,5,4,4,5,38,Rarely,On-site,3,No,No,0.645,,
+ATT00217,Product,Product Manager,34,Male,4,111074,4,4,1,4,25,Never,Fully Remote,2,No,No,0.982,,
+ATT00218,Research,Senior Researcher,38,Prefer not to say,20,155475,8,4,1,10,40,Always,Fully Remote,1,Yes,Yes,0.84,Work-life balance,36
+ATT00219,Engineering,CTO,46,Prefer not to say,16,287018,4,4,5,4,46,Rarely,Hybrid,10,No,No,0.512,,
+ATT00220,Marketing,Marketing Manager,26,Male,16,94855,1,4,4,7,55,Never,Fully Remote,6,No,Yes,0.481,Compensation,2
+ATT00221,Finance,Financial Analyst,25,Female,7,112575,6,2,2,7,15,Often,On-site,4,No,No,0.68,,
+ATT00222,Legal,General Counsel,48,Female,11,127677,4,1,4,5,42,Rarely,Hybrid,0,No,No,0.44,,
+ATT00223,Marketing,Marketing Specialist,47,Female,14,76265,9,8,1,3,11,Always,Hybrid,0,Yes,No,0.587,,
+ATT00224,Legal,Senior Counsel,26,Male,5,173084,10,5,1,10,49,Always,Hybrid,5,No,Yes,0.468,Personal,36
+ATT00225,Customer Success,Director of CS,39,Non-binary,19,149983,9,2,8,2,13,Never,Fully Remote,2,No,No,0.145,,
+ATT00226,Operations,Director of Operations,33,Female,3,133085,5,4,4,3,5,Rarely,Fully Remote,0,Yes,No,0.647,,
+ATT00227,Sales,VP Sales,61,Non-binary,12,137782,1,3,10,4,43,Never,On-site,5,No,No,0.49,,
+ATT00228,Design,UX Designer,23,Prefer not to say,11,85843,1,3,6,6,25,Always,Fully Remote,1,No,No,0.988,,
+ATT00229,Engineering,VP Engineering,36,Male,8,201879,8,5,5,4,31,Rarely,Fully Remote,5,No,No,0.975,,
+ATT00230,Customer Success,VP CS,53,Prefer not to say,7,107731,10,8,7,4,59,Rarely,Hybrid,2,No,No,0.657,,
+ATT00231,Customer Success,VP CS,53,Non-binary,17,131281,4,10,2,5,9,Never,Fully Remote,7,No,No,0.776,,
+ATT00232,Customer Success,Director of CS,41,Female,2,143968,1,2,4,10,33,Always,Hybrid,8,No,Yes,0.162,Management,24
+ATT00233,Marketing,CMO,51,Male,16,249598,5,3,9,5,0,Always,On-site,10,No,No,0.763,,
+ATT00234,Security,Security Architect,65,Female,16,102340,9,6,3,2,9,Never,Fully Remote,4,Yes,No,0.404,,
+ATT00235,Research,Research Director,27,Non-binary,11,207622,7,5,9,8,52,Never,Fully Remote,2,Yes,No,0.518,,
+ATT00236,Engineering,Staff Engineer,24,Non-binary,5,135169,6,10,5,1,8,Never,Hybrid,9,No,No,0.694,,
+ATT00237,Research,Senior Researcher,36,Non-binary,20,162747,7,3,3,5,43,Sometimes,Hybrid,2,No,Yes,0.334,Work-life balance,8
+ATT00238,HR,CHRO,64,Prefer not to say,4,213207,4,6,6,2,30,Rarely,Hybrid,4,No,No,0.297,,
+ATT00239,Research,Research Director,51,Male,11,208429,5,5,7,2,28,Rarely,Hybrid,3,No,No,0.056,,
+ATT00240,DevOps,Platform Engineer,53,Male,13,126868,8,5,1,10,47,Never,On-site,2,No,No,0.03,,
+ATT00241,Data Science,Head of Data,62,Male,0,138002,8,2,2,1,27,Sometimes,On-site,0,No,No,0.777,,
+ATT00242,Design,Senior Designer,58,Male,1,159704,9,2,5,9,19,Always,On-site,9,No,No,0.387,,
+ATT00243,Security,Security Architect,26,Male,5,113646,3,3,10,7,3,Often,On-site,1,No,No,0.787,,
+ATT00244,Design,VP Design,52,Female,19,164074,3,2,9,7,27,Often,On-site,2,No,Yes,0.798,Career change,27
+ATT00245,Legal,Senior Counsel,51,Prefer not to say,11,174021,9,7,4,8,35,Often,On-site,10,No,No,0.35,,
+ATT00246,Customer Success,VP CS,27,Prefer not to say,4,119546,9,2,9,8,1,Often,Fully Remote,3,No,Yes,0.63,Personal,30
+ATT00247,Sales,Sales Manager,48,Prefer not to say,6,81668,7,9,2,4,26,Never,Hybrid,10,No,No,0.222,,
+ATT00248,Sales,Sales Development Rep,47,Female,1,98516,3,9,3,1,30,Sometimes,On-site,9,No,No,0.71,,
+ATT00249,Finance,Senior Analyst,27,Female,4,135075,10,2,3,4,43,Never,Hybrid,10,Yes,No,0.27,,
+ATT00250,Product,CPO,55,Female,10,329921,5,6,2,5,14,Sometimes,Fully Remote,8,No,No,0.345,,
+ATT00251,Engineering,VP Engineering,24,Non-binary,2,188132,5,2,6,10,19,Always,On-site,2,No,No,0.188,,
+ATT00252,Customer Success,Director of CS,55,Female,11,143775,3,8,1,7,0,Often,Hybrid,10,Yes,No,0.275,,
+ATT00253,Security,CISO,40,Female,7,296544,10,2,8,1,15,Rarely,Hybrid,2,No,No,0.227,,
+ATT00254,Product,Group PM,59,Female,2,136328,2,8,1,1,23,Rarely,Hybrid,5,No,No,0.393,,
+ATT00255,Customer Success,CS Specialist,32,Prefer not to say,3,71294,1,10,9,5,58,Never,Fully Remote,7,Yes,Yes,0.643,Management,18
+ATT00256,Marketing,Marketing Coordinator,32,Male,2,94782,10,10,8,2,30,Always,Hybrid,2,No,No,0.894,,
+ATT00257,Finance,Financial Analyst,48,Female,13,99216,7,5,7,6,41,Never,Hybrid,5,No,No,0.575,,
+ATT00258,Engineering,VP Engineering,55,Non-binary,7,212794,8,5,10,3,35,Never,On-site,7,Yes,No,0.81,,
+ATT00259,Product,CPO,48,Female,11,321883,4,2,4,4,60,Never,Fully Remote,2,No,No,0.745,,
+ATT00260,Finance,Finance Manager,41,Prefer not to say,16,106993,4,10,10,1,17,Always,Hybrid,9,Yes,No,0.018,,
+ATT00261,Engineering,Staff Engineer,52,Male,12,104981,9,6,1,3,39,Often,Hybrid,7,Yes,No,0.78,,
+ATT00262,Sales,Senior AE,60,Female,0,147917,6,8,8,7,53,Never,Hybrid,0,No,Yes,0.586,Relocation,26
+ATT00263,Engineering,Software Engineer I,40,Female,17,119396,6,8,5,1,52,Always,On-site,10,No,No,0.107,,
+ATT00264,Sales,Senior AE,40,Male,7,161271,9,9,3,6,34,Rarely,On-site,3,No,No,0.343,,
+ATT00265,Finance,Senior Analyst,35,Female,17,159318,7,2,8,8,39,Always,On-site,9,Yes,No,0.282,,
+ATT00266,QA,Senior QA,25,Male,12,124943,1,6,10,6,1,Often,Hybrid,1,No,Yes,0.005,Compensation,33
+ATT00267,Finance,CFO,29,Prefer not to say,19,206811,4,4,9,3,51,Never,Fully Remote,9,No,No,0.053,,
+ATT00268,Customer Success,CS Specialist,39,Female,3,76313,9,6,1,10,57,Always,On-site,4,No,Yes,0.622,Management,34
+ATT00269,Security,Security Engineer,38,Prefer not to say,19,102469,7,2,1,10,27,Never,Fully Remote,3,No,No,0.727,,
+ATT00270,Research,Research Scientist,57,Female,5,102728,4,8,6,6,43,Often,Fully Remote,7,Yes,No,0.333,,
+ATT00271,Design,VP Design,23,Male,17,196426,9,8,3,1,26,Always,Hybrid,5,No,No,0.496,,
+ATT00272,Legal,General Counsel,56,Prefer not to say,3,100803,1,9,5,9,13,Always,Hybrid,2,Yes,No,0.916,,
+ATT00273,Finance,Controller,30,Non-binary,13,97645,9,7,6,8,19,Always,On-site,3,No,No,0.465,,
+ATT00274,Security,Security Analyst,26,Prefer not to say,11,102345,4,9,2,5,41,Never,Hybrid,3,No,No,0.541,,
+ATT00275,Product,Senior PM,26,Non-binary,0,147253,6,9,4,6,42,Rarely,Hybrid,8,No,No,0.653,,
+ATT00276,Operations,Director of Operations,43,Non-binary,12,125866,2,8,9,5,13,Often,Hybrid,0,Yes,No,0.774,,
+ATT00277,DevOps,Senior DevOps,44,Prefer not to say,18,177506,2,7,10,6,44,Rarely,On-site,5,No,No,0.261,,
+ATT00278,DevOps,DevOps Manager,65,Prefer not to say,1,108225,3,6,10,10,1,Sometimes,On-site,10,Yes,No,0.069,,
+ATT00279,Research,Research Scientist,57,Male,16,121518,4,3,5,5,56,Sometimes,Hybrid,4,No,No,0.312,,
+ATT00280,Design,Senior Designer,62,Male,5,168044,9,7,10,6,9,Always,On-site,3,No,No,0.16,,
+ATT00281,Engineering,VP Engineering,56,Prefer not to say,17,243499,3,2,1,1,45,Often,Fully Remote,5,No,No,0.032,,
+ATT00282,Marketing,Marketing Specialist,51,Male,20,94971,5,2,5,9,9,Rarely,Hybrid,3,Yes,No,0.183,,
+ATT00283,HR,Director of HR,54,Non-binary,10,157321,4,10,4,10,31,Sometimes,Fully Remote,10,No,No,0.007,,
+ATT00284,HR,HR Business Partner,30,Prefer not to say,5,83723,6,10,10,2,17,Rarely,Hybrid,3,No,Yes,0.818,Management,21
+ATT00285,Finance,CFO,51,Female,0,241047,4,7,8,10,35,Always,On-site,3,No,Yes,0.194,Relocation,4
+ATT00286,Product,Senior PM,52,Prefer not to say,6,174888,9,2,2,9,19,Sometimes,On-site,7,No,No,0.58,,
+ATT00287,Engineering,Engineering Manager,58,Male,17,137671,5,1,10,1,3,Rarely,Hybrid,5,No,No,0.457,,
+ATT00288,Design,Senior Designer,34,Male,6,122233,3,1,4,8,48,Rarely,On-site,5,No,No,0.042,,
+ATT00289,QA,QA Lead,34,Non-binary,0,101774,2,7,5,8,34,Sometimes,On-site,0,No,No,0.935,,
+ATT00290,Customer Success,CS Manager,53,Male,19,72635,6,9,6,2,1,Rarely,On-site,1,No,No,0.401,,
+ATT00291,Sales,Director of Sales,58,Female,5,192510,3,1,7,2,22,Rarely,On-site,5,Yes,Yes,0.08,Personal,6
+ATT00292,Legal,Senior Counsel,58,Non-binary,0,189155,5,8,1,1,55,Often,Fully Remote,2,No,No,0.814,,
+ATT00293,Research,Research Scientist,50,Prefer not to say,10,117034,8,5,9,10,2,Always,Fully Remote,3,No,Yes,0.786,Relocation,27
+ATT00294,Research,Research Scientist,63,Non-binary,15,94190,1,7,7,1,46,Sometimes,Hybrid,9,No,No,0.896,,
+ATT00295,Design,Lead Designer,58,Female,2,105052,3,6,10,9,55,Rarely,Fully Remote,1,No,No,0.706,,
+ATT00296,Operations,COO,29,Prefer not to say,4,217842,5,5,6,2,25,Always,Hybrid,1,No,Yes,0.488,Relocation,17
+ATT00297,Engineering,Principal Engineer,55,Non-binary,7,107117,1,3,8,5,15,Always,Fully Remote,9,Yes,No,0.857,,
+ATT00298,Product,VP Product,44,Non-binary,10,218815,9,1,7,3,3,Always,On-site,5,No,No,0.737,,
+ATT00299,Legal,General Counsel,54,Prefer not to say,1,110794,6,1,10,4,12,Rarely,Fully Remote,2,Yes,No,0.811,,
+ATT00300,QA,Senior QA,22,Non-binary,6,151874,9,5,6,3,35,Never,Fully Remote,4,No,No,0.468,,
+ATT00301,HR,HR Manager,31,Female,4,73651,2,1,4,9,9,Never,Fully Remote,8,No,No,0.173,,
+ATT00302,QA,QA Lead,65,Female,11,101482,6,2,4,1,56,Always,On-site,9,No,Yes,0.392,Relocation,20
+ATT00303,Design,VP Design,40,Prefer not to say,15,146340,1,4,5,6,24,Rarely,Fully Remote,5,No,No,0.331,,
+ATT00304,Legal,Senior Counsel,29,Prefer not to say,18,193589,10,6,8,6,52,Always,Hybrid,1,No,No,0.73,,
+ATT00305,Sales,Senior AE,58,Male,13,129973,8,9,3,10,9,Sometimes,Fully Remote,10,No,No,0.502,,
+ATT00306,Finance,Controller,26,Male,16,109626,8,1,1,8,17,Always,On-site,9,Yes,No,0.013,,
+ATT00307,Product,Director of Product,31,Male,6,184272,6,7,8,8,55,Sometimes,Fully Remote,1,No,Yes,0.195,Management,11
+ATT00308,Data Science,Senior Data Scientist,41,Non-binary,0,188944,6,5,8,9,57,Always,On-site,1,No,No,0.793,,
+ATT00309,Customer Success,CS Manager,53,Non-binary,3,80629,3,6,9,1,31,Sometimes,Fully Remote,2,Yes,No,0.161,,
+ATT00310,QA,Senior QA,35,Prefer not to say,0,115272,5,6,3,4,11,Rarely,Fully Remote,9,Yes,No,0.759,,
+ATT00311,Design,VP Design,38,Male,15,180559,10,6,4,9,18,Rarely,Fully Remote,7,Yes,Yes,0.69,Compensation,27
+ATT00312,Finance,Financial Analyst,37,Non-binary,3,102334,10,1,4,4,59,Rarely,Fully Remote,3,No,Yes,0.195,Work-life balance,3
+ATT00313,Research,Senior Researcher,31,Male,14,151885,2,6,7,8,55,Often,On-site,2,No,No,0.503,,
+ATT00314,Finance,Finance Manager,47,Female,0,106950,7,2,9,1,12,Never,On-site,3,No,No,0.438,,
+ATT00315,Customer Success,Director of CS,47,Female,9,107437,6,5,8,6,23,Never,Hybrid,10,No,No,0.622,,
+ATT00316,Marketing,Marketing Specialist,60,Male,17,98806,3,9,1,10,4,Always,Fully Remote,7,No,No,0.698,,
+ATT00317,Product,Director of Product,53,Prefer not to say,20,245600,2,8,10,6,25,Often,On-site,5,No,No,0.438,,
+ATT00318,Finance,Controller,31,Male,14,97017,5,5,5,2,22,Often,Hybrid,7,No,Yes,0.214,Personal,31
+ATT00319,Research,Senior Researcher,40,Male,6,148650,9,2,9,1,50,Never,Fully Remote,9,No,No,0.352,,
+ATT00320,Sales,VP Sales,42,Prefer not to say,6,156112,7,5,1,8,6,Sometimes,On-site,9,Yes,No,0.198,,
+ATT00321,Engineering,Principal Engineer,45,Female,15,115065,5,6,7,5,20,Sometimes,Fully Remote,1,No,No,0.575,,
+ATT00322,Marketing,Director of Marketing,49,Non-binary,3,138248,10,5,8,3,36,Always,Fully Remote,6,No,No,0.195,,
+ATT00323,Engineering,Software Engineer I,29,Male,6,136723,10,2,3,3,9,Often,On-site,6,Yes,No,0.351,,
+ATT00324,Sales,CRO,44,Male,2,262907,9,8,5,3,10,Rarely,Fully Remote,8,No,No,0.507,,
+ATT00325,Product,VP Product,32,Prefer not to say,11,211516,4,5,1,10,28,Never,On-site,8,Yes,No,0.268,,
+ATT00326,Operations,Director of Operations,36,Prefer not to say,4,154579,8,5,9,2,35,Often,Fully Remote,1,No,No,0.725,,
+ATT00327,Security,Security Architect,59,Prefer not to say,13,114207,9,5,7,9,20,Never,On-site,2,No,No,0.066,,
+ATT00328,DevOps,Platform Engineer,60,Female,14,125998,5,3,10,1,53,Never,Fully Remote,9,Yes,No,0.392,,
+ATT00329,Engineering,Senior Software Engineer,28,Male,3,183864,5,1,5,8,34,Often,Fully Remote,7,No,Yes,0.51,Compensation,9
+ATT00330,Product,VP Product,22,Female,1,212144,4,10,8,1,40,Never,Hybrid,10,No,No,0.966,,
+ATT00331,Finance,Senior Analyst,54,Male,1,162551,8,8,2,10,25,Often,Hybrid,7,No,No,0.066,,
+ATT00332,Finance,Controller,47,Non-binary,17,91997,9,9,9,5,50,Sometimes,Hybrid,10,No,Yes,0.287,Better opportunity,18
+ATT00333,DevOps,DevOps Manager,44,Female,16,114770,5,6,2,3,26,Sometimes,Fully Remote,7,No,No,0.422,,
+ATT00334,Legal,Legal Counsel,43,Non-binary,5,105666,5,2,8,9,13,Rarely,Fully Remote,1,No,Yes,0.38,Management,7
+ATT00335,Operations,COO,23,Prefer not to say,6,190875,9,6,7,10,31,Often,Fully Remote,0,No,No,0.367,,
+ATT00336,Finance,CFO,49,Female,9,216553,5,3,4,6,39,Rarely,On-site,8,No,No,0.012,,
+ATT00337,Engineering,Engineering Manager,44,Male,6,118562,8,3,6,9,60,Often,Fully Remote,8,No,No,0.099,,
+ATT00338,Data Science,Senior Data Scientist,57,Non-binary,16,190037,3,7,2,6,40,Sometimes,Hybrid,1,No,Yes,0.069,Career change,25
+ATT00339,Design,Lead Designer,51,Female,7,110752,3,1,1,7,6,Never,On-site,10,No,No,0.789,,
+ATT00340,Finance,CFO,31,Prefer not to say,9,283410,9,1,3,4,14,Sometimes,Fully Remote,3,No,No,0.864,,
+ATT00341,Data Science,Senior Data Scientist,60,Prefer not to say,7,211990,4,9,5,7,3,Often,Hybrid,9,Yes,No,0.393,,
+ATT00342,Customer Success,CS Specialist,42,Non-binary,13,61997,10,7,1,5,30,Sometimes,Fully Remote,10,Yes,No,0.29,,
+ATT00343,Sales,CRO,42,Non-binary,12,220724,10,10,4,4,15,Sometimes,Hybrid,1,No,No,0.926,,
+ATT00344,Operations,Director of Operations,54,Non-binary,18,153432,5,1,9,5,47,Often,Hybrid,2,No,No,0.615,,
+ATT00345,Legal,Legal Counsel,61,Female,15,131094,2,5,1,1,60,Sometimes,Hybrid,4,Yes,Yes,0.528,Management,35
+ATT00346,Product,Group PM,49,Male,16,137081,9,6,8,6,9,Sometimes,Hybrid,2,Yes,No,0.391,,
+ATT00347,Research,Research Scientist,27,Male,16,95440,3,10,6,5,40,Always,On-site,5,No,Yes,0.084,Better opportunity,9
+ATT00348,Product,CPO,58,Non-binary,13,269137,4,9,2,8,36,Always,Hybrid,2,No,No,0.977,,
+ATT00349,Research,Research Director,28,Prefer not to say,14,170101,7,10,1,6,59,Rarely,Fully Remote,7,Yes,Yes,0.685,Management,16
+ATT00350,Finance,Senior Analyst,43,Male,8,153067,4,7,5,7,11,Always,Hybrid,9,Yes,No,0.345,,
+ATT00351,DevOps,Platform Engineer,26,Male,18,104445,8,2,3,6,34,Sometimes,Fully Remote,4,No,No,0.415,,
+ATT00352,Engineering,Staff Engineer,50,Female,10,139920,7,1,1,8,37,Often,On-site,4,Yes,Yes,0.634,Work-life balance,28
+ATT00353,Operations,Director of Operations,39,Non-binary,19,157220,6,6,10,4,15,Sometimes,On-site,8,No,No,0.568,,
+ATT00354,Sales,Sales Manager,22,Female,5,106462,10,8,7,5,24,Sometimes,Fully Remote,1,No,Yes,0.899,Compensation,22
+ATT00355,Customer Success,VP CS,65,Prefer not to say,8,112730,4,4,5,2,57,Rarely,On-site,3,No,No,0.821,,
+ATT00356,Marketing,CMO,23,Female,14,205959,7,10,7,9,23,Often,Hybrid,3,No,No,0.065,,
+ATT00357,Data Science,Head of Data,34,Non-binary,12,130349,10,4,4,3,30,Often,Hybrid,1,No,Yes,0.959,Management,33
+ATT00358,Sales,Director of Sales,29,Prefer not to say,4,181509,3,6,2,3,51,Sometimes,Hybrid,4,No,Yes,0.118,Compensation,14
+ATT00359,Design,Senior Designer,62,Male,20,139926,4,10,9,2,40,Always,Fully Remote,8,No,No,0.351,,
+ATT00360,Design,UX Designer,22,Female,19,107336,7,1,1,8,35,Always,On-site,4,No,No,0.768,,
+ATT00361,Marketing,Senior Marketer,47,Male,15,128596,4,9,3,1,29,Sometimes,Fully Remote,1,No,Yes,0.3,Personal,28
+ATT00362,HR,HR Manager,57,Male,0,70144,1,3,3,5,0,Never,Hybrid,3,No,No,0.559,,
+ATT00363,HR,Director of HR,41,Female,2,121490,7,8,5,1,44,Never,On-site,4,Yes,No,0.984,,
+ATT00364,Marketing,Marketing Manager,40,Male,3,89619,9,8,4,7,57,Never,Hybrid,3,No,Yes,0.04,Personal,6
+ATT00365,Research,Research Scientist,24,Non-binary,14,100666,10,6,4,3,28,Always,Fully Remote,8,No,Yes,0.227,Personal,8
+ATT00366,Finance,Controller,48,Female,19,109972,7,9,2,8,49,Sometimes,Hybrid,8,Yes,Yes,0.287,Personal,9
+ATT00367,Data Science,Data Scientist,44,Female,3,120038,1,3,4,3,19,Often,Hybrid,6,No,No,0.944,,
+ATT00368,Legal,General Counsel,53,Male,17,106979,2,4,8,1,13,Sometimes,On-site,9,No,No,0.888,,
+ATT00369,Customer Success,VP CS,57,Prefer not to say,16,135063,5,2,8,9,26,Often,On-site,10,No,Yes,0.616,Relocation,28
+ATT00370,Customer Success,CS Manager,60,Non-binary,15,64036,3,1,4,6,10,Never,Fully Remote,4,No,No,0.962,,
+ATT00371,Product,Associate PM,48,Male,7,133322,10,4,4,2,13,Always,Hybrid,3,No,No,0.575,,
+ATT00372,Marketing,Senior Marketer,39,Female,15,141745,2,1,5,2,29,Often,Fully Remote,8,No,No,0.838,,
+ATT00373,Research,Research Scientist,37,Male,2,109353,1,5,1,4,39,Often,On-site,6,No,Yes,0.115,Management,36
+ATT00374,Engineering,VP Engineering,39,Female,16,228057,2,5,9,3,4,Always,On-site,1,No,Yes,0.0,Relocation,17
+ATT00375,Research,Senior Researcher,55,Non-binary,0,144244,7,7,5,2,21,Never,On-site,9,No,Yes,0.943,Career change,22
+ATT00376,Finance,CFO,26,Female,8,220338,6,4,3,10,14,Never,Hybrid,9,No,Yes,0.605,Career change,34
+ATT00377,Data Science,Data Scientist,35,Non-binary,19,143432,4,5,8,3,49,Often,Fully Remote,4,No,No,0.104,,
+ATT00378,Customer Success,CS Manager,48,Non-binary,5,70373,8,4,1,9,30,Rarely,On-site,4,Yes,Yes,0.234,Compensation,34
+ATT00379,QA,QA Engineer,32,Non-binary,9,76789,5,7,8,7,23,Never,Hybrid,2,No,Yes,0.743,Career change,21
+ATT00380,QA,Senior QA,58,Male,4,124350,7,6,6,7,18,Sometimes,Fully Remote,4,No,No,0.196,,
+ATT00381,Engineering,Software Engineer II,61,Male,6,140972,3,5,1,4,3,Always,Fully Remote,2,No,No,0.224,,
+ATT00382,Sales,Account Executive,39,Non-binary,11,88586,4,1,10,1,24,Often,On-site,5,No,No,0.053,,
+ATT00383,DevOps,Platform Engineer,23,Prefer not to say,13,131492,5,5,7,6,4,Sometimes,Hybrid,1,No,No,0.663,,
+ATT00384,Design,VP Design,25,Male,4,176815,4,5,10,3,58,Always,Hybrid,4,No,No,0.328,,
+ATT00385,Research,Research Scientist,41,Female,19,119608,3,9,1,4,45,Often,On-site,10,No,No,0.268,,
+ATT00386,Engineering,Software Engineer I,22,Non-binary,13,124278,10,8,8,10,3,Rarely,On-site,6,No,Yes,0.904,Management,25
+ATT00387,Sales,Senior AE,64,Female,3,153656,10,7,9,10,50,Rarely,On-site,8,No,No,0.564,,
+ATT00388,Customer Success,VP CS,40,Non-binary,19,126171,4,6,8,3,8,Rarely,On-site,1,No,No,0.127,,
+ATT00389,Data Science,ML Engineer,45,Prefer not to say,18,118750,2,6,8,6,33,Never,Fully Remote,0,Yes,Yes,0.747,Compensation,20
+ATT00390,Legal,Senior Counsel,33,Non-binary,11,168561,8,10,9,5,32,Never,On-site,0,No,Yes,0.803,Personal,15
+ATT00391,Design,Design Manager,63,Male,14,112246,10,7,2,8,33,Rarely,Fully Remote,10,No,No,0.373,,
+ATT00392,Engineering,Software Engineer II,45,Prefer not to say,7,108668,3,3,4,3,25,Never,Fully Remote,7,No,No,0.286,,
+ATT00393,Finance,CFO,32,Male,19,249631,2,3,5,3,13,Sometimes,On-site,3,No,No,0.648,,
+ATT00394,Security,Security Analyst,27,Non-binary,10,119031,8,3,8,9,22,Often,Fully Remote,0,No,No,0.707,,
+ATT00395,DevOps,Senior DevOps,57,Non-binary,15,188724,2,5,7,8,14,Rarely,On-site,9,Yes,No,0.623,,
+ATT00396,Product,Product Manager,24,Male,16,106298,3,8,5,1,58,Rarely,Fully Remote,6,No,No,0.289,,
+ATT00397,Security,CISO,37,Non-binary,2,311509,2,6,8,7,53,Sometimes,Fully Remote,5,Yes,No,0.142,,
+ATT00398,Operations,COO,43,Female,2,210259,2,6,2,8,26,Rarely,On-site,6,Yes,No,0.552,,
+ATT00399,Customer Success,CS Specialist,41,Male,20,78990,1,4,3,6,14,Sometimes,Hybrid,5,No,No,0.604,,
+ATT00400,HR,HR Specialist,33,Male,10,85173,1,1,7,5,54,Rarely,Fully Remote,9,No,No,0.852,,
+ATT00401,Security,Security Architect,37,Prefer not to say,14,135695,8,2,1,7,45,Never,Fully Remote,1,No,No,0.631,,
+ATT00402,Engineering,Staff Engineer,32,Female,5,112489,5,4,4,8,46,Sometimes,Hybrid,3,No,No,0.702,,
+ATT00403,HR,HR Manager,30,Prefer not to say,15,82250,2,3,2,7,14,Always,Fully Remote,4,No,Yes,0.584,Work-life balance,12
+ATT00404,Design,UI Designer,31,Non-binary,17,107906,4,10,7,1,38,Always,Hybrid,0,No,No,0.582,,
+ATT00405,Customer Success,CS Specialist,44,Male,11,74934,8,2,1,9,52,Never,Hybrid,5,No,Yes,0.691,Compensation,35
+ATT00406,HR,CHRO,45,Female,20,215333,1,10,3,9,14,Sometimes,Fully Remote,4,No,Yes,0.651,Career change,22
+ATT00407,Engineering,Software Engineer II,32,Male,1,132544,7,5,9,7,7,Sometimes,Hybrid,10,No,No,0.794,,
+ATT00408,Customer Success,CS Manager,39,Prefer not to say,19,75478,5,10,3,9,58,Always,Hybrid,3,No,No,0.618,,
+ATT00409,Customer Success,VP CS,28,Female,13,123734,10,4,1,1,20,Sometimes,Hybrid,6,No,Yes,0.968,Personal,11
+ATT00410,DevOps,Platform Engineer,41,Female,17,104927,9,2,9,4,9,Sometimes,Hybrid,1,No,No,0.375,,
+ATT00411,QA,QA Engineer,63,Female,14,81452,8,3,2,4,27,Always,On-site,0,No,No,0.394,,
+ATT00412,Engineering,Senior Software Engineer,59,Prefer not to say,7,157668,6,1,2,3,17,Never,Hybrid,10,Yes,No,0.75,,
+ATT00413,Marketing,Senior Marketer,52,Prefer not to say,0,138043,10,8,2,4,58,Often,Hybrid,7,No,Yes,0.217,Work-life balance,20
+ATT00414,Engineering,Principal Engineer,23,Non-binary,4,103819,9,7,7,5,31,Always,Hybrid,3,No,No,0.699,,
+ATT00415,Data Science,Senior Data Scientist,22,Male,4,167870,10,5,2,6,15,Sometimes,Hybrid,3,Yes,No,0.504,,
+ATT00416,QA,QA Engineer,24,Female,4,78556,7,3,6,10,55,Rarely,Fully Remote,2,No,No,0.009,,
+ATT00417,QA,QA Lead,63,Prefer not to say,9,94587,9,4,5,2,26,Rarely,Fully Remote,2,No,Yes,0.647,Relocation,33
+ATT00418,Legal,Senior Counsel,23,Female,18,146736,4,4,3,3,30,Often,Fully Remote,3,No,No,0.957,,
+ATT00419,QA,QA Engineer,48,Non-binary,16,100238,7,5,4,9,23,Sometimes,On-site,1,No,Yes,0.613,Management,28
+ATT00420,Finance,Senior Analyst,55,Male,10,146486,4,1,10,8,25,Always,Fully Remote,10,No,Yes,0.938,Relocation,21
+ATT00421,Engineering,CTO,36,Male,17,341403,6,10,4,8,29,Sometimes,Fully Remote,3,No,No,0.595,,
+ATT00422,DevOps,Platform Engineer,58,Non-binary,20,134134,4,4,3,5,43,Rarely,Fully Remote,5,Yes,Yes,0.393,Personal,34
+ATT00423,QA,QA Lead,37,Female,16,96004,3,6,5,8,47,Never,On-site,2,No,No,0.975,,
+ATT00424,Engineering,VP Engineering,38,Non-binary,17,211189,7,8,9,7,32,Always,Fully Remote,6,No,No,0.357,,
+ATT00425,HR,HR Coordinator,52,Male,3,66457,4,7,1,7,60,Rarely,On-site,7,Yes,No,0.786,,
+ATT00426,Data Science,Senior Data Scientist,41,Non-binary,13,206018,2,6,5,2,53,Sometimes,Fully Remote,3,No,No,0.418,,
+ATT00427,Sales,Senior AE,60,Non-binary,3,125369,9,3,3,6,49,Always,Fully Remote,4,Yes,Yes,0.085,Better opportunity,7
+ATT00428,Data Science,Data Analyst,44,Male,9,138066,3,9,2,7,19,Sometimes,On-site,0,No,Yes,0.109,Career change,26
+ATT00429,DevOps,Senior DevOps,44,Male,18,176256,3,7,4,5,45,Sometimes,Hybrid,5,No,No,0.372,,
+ATT00430,Operations,Operations Manager,53,Prefer not to say,17,71810,6,9,5,6,37,Often,Fully Remote,2,Yes,No,0.371,,
+ATT00431,Product,VP Product,46,Male,0,248213,7,9,5,10,27,Often,Hybrid,7,No,Yes,0.741,Management,12
+ATT00432,Engineering,Senior Software Engineer,47,Female,14,181123,6,6,8,10,54,Sometimes,On-site,3,Yes,No,0.68,,
+ATT00433,Customer Success,CS Manager,46,Prefer not to say,2,61744,3,6,4,6,11,Rarely,On-site,3,No,No,0.398,,
+ATT00434,Security,Security Analyst,62,Female,20,130754,8,6,10,4,40,Often,On-site,2,No,No,0.354,,
+ATT00435,Product,Product Manager,42,Prefer not to say,4,132480,8,2,4,9,36,Sometimes,Hybrid,10,No,Yes,0.974,Management,22
+ATT00436,Sales,VP Sales,50,Non-binary,11,151654,4,5,2,2,11,Rarely,Hybrid,4,No,Yes,0.693,Career change,35
+ATT00437,HR,HR Coordinator,58,Prefer not to say,14,81839,1,7,5,8,19,Never,On-site,5,No,No,0.708,,
+ATT00438,Marketing,Marketing Manager,22,Male,13,72252,6,8,1,5,54,Often,On-site,7,Yes,No,0.915,,
+ATT00439,Design,UI Designer,33,Prefer not to say,7,92774,7,9,6,7,16,Rarely,On-site,6,No,No,0.212,,
+ATT00440,QA,QA Engineer,40,Prefer not to say,2,92145,8,5,2,7,33,Often,Hybrid,4,No,No,0.525,,
+ATT00441,Customer Success,VP CS,43,Male,20,126162,1,9,1,5,18,Rarely,Hybrid,8,No,Yes,0.863,Career change,7
+ATT00442,Engineering,Software Engineer I,64,Prefer not to say,1,135193,8,7,1,4,57,Sometimes,Hybrid,3,Yes,No,0.032,,
+ATT00443,QA,QA Manager,39,Male,11,81382,5,3,2,3,34,Never,Fully Remote,3,Yes,No,0.609,,
+ATT00444,Sales,Account Executive,29,Male,17,107406,6,4,8,5,6,Rarely,On-site,6,Yes,Yes,0.025,Relocation,28
+ATT00445,Data Science,ML Engineer,43,Prefer not to say,2,142271,10,5,3,1,24,Rarely,Hybrid,8,No,No,0.457,,
+ATT00446,Design,VP Design,32,Female,11,203744,7,6,6,3,9,Never,Hybrid,3,No,Yes,0.287,Management,4
+ATT00447,Marketing,Marketing Coordinator,44,Male,11,86115,2,7,2,10,21,Sometimes,Hybrid,7,No,No,0.19,,
+ATT00448,Engineering,Principal Engineer,28,Non-binary,1,120657,2,4,9,4,53,Sometimes,Fully Remote,4,No,No,0.247,,
+ATT00449,Sales,Sales Manager,45,Non-binary,17,98373,9,6,5,8,26,Rarely,Fully Remote,6,No,No,0.826,,
+ATT00450,DevOps,Platform Engineer,53,Female,14,98433,3,2,10,8,25,Never,Hybrid,4,No,No,0.138,,
+ATT00451,Finance,Finance Manager,52,Female,5,92721,2,5,6,9,51,Always,Hybrid,0,Yes,Yes,0.543,Management,1
+ATT00452,Customer Success,CS Specialist,28,Male,5,68772,10,1,1,2,38,Always,Fully Remote,7,No,Yes,0.567,Compensation,36
+ATT00453,QA,Senior QA,22,Female,19,116470,1,8,8,2,57,Always,Hybrid,2,No,No,0.486,,
+ATT00454,Marketing,Senior Marketer,25,Non-binary,17,150587,9,3,1,3,16,Sometimes,Hybrid,10,No,No,0.284,,
+ATT00455,Security,Security Engineer,40,Female,4,115623,8,10,9,4,0,Sometimes,On-site,2,Yes,No,0.274,,
+ATT00456,Marketing,Director of Marketing,34,Female,5,134900,1,2,10,4,35,Often,On-site,8,No,No,0.137,,
+ATT00457,Legal,Legal Counsel,43,Prefer not to say,3,95959,5,4,7,2,18,Often,Hybrid,6,No,No,0.586,,
+ATT00458,Operations,Operations Manager,44,Non-binary,6,94953,9,5,5,5,45,Often,On-site,0,No,No,0.515,,
+ATT00459,Marketing,Senior Marketer,34,Non-binary,15,112781,7,9,9,1,6,Often,Hybrid,1,Yes,No,0.962,,
+ATT00460,DevOps,DevOps Manager,45,Non-binary,1,113672,1,1,3,4,23,Often,On-site,4,Yes,No,0.299,,
+ATT00461,Engineering,CTO,29,Non-binary,4,263542,1,6,5,4,21,Never,Fully Remote,7,Yes,No,0.507,,
+ATT00462,DevOps,Platform Engineer,59,Female,4,122350,1,9,1,8,28,Always,Hybrid,10,No,No,0.948,,
+ATT00463,HR,Director of HR,65,Female,16,142584,3,2,8,7,53,Always,Hybrid,0,No,Yes,0.97,Personal,16
+ATT00464,Sales,Sales Manager,31,Prefer not to say,8,89793,2,7,2,6,41,Never,Fully Remote,8,No,No,0.022,,
+ATT00465,Engineering,Staff Engineer,24,Male,20,122950,7,2,2,5,1,Often,Hybrid,7,Yes,No,0.231,,
+ATT00466,Data Science,ML Engineer,24,Female,12,149507,8,5,7,5,24,Rarely,Fully Remote,10,No,Yes,0.043,Work-life balance,17
+ATT00467,Legal,Senior Counsel,27,Female,17,183048,6,10,4,1,4,Often,On-site,4,No,No,0.443,,
+ATT00468,Legal,Legal Counsel,45,Prefer not to say,10,98102,8,2,5,5,54,Never,Fully Remote,4,No,No,0.537,,
+ATT00469,Legal,Senior Counsel,50,Female,3,182434,1,2,8,7,24,Never,Fully Remote,7,No,No,0.092,,
+ATT00470,Design,Lead Designer,44,Non-binary,1,112244,9,6,7,10,55,Never,Fully Remote,3,No,Yes,0.881,Compensation,36
+ATT00471,Product,Associate PM,37,Female,9,123482,4,10,4,2,40,Often,Hybrid,2,No,Yes,0.093,Compensation,33
+ATT00472,Product,Associate PM,52,Male,6,113327,8,9,10,6,15,Often,On-site,2,No,No,0.059,,
+ATT00473,Research,Research Scientist,64,Female,8,113597,8,3,10,8,6,Rarely,Fully Remote,1,No,No,0.743,,
+ATT00474,Security,Security Engineer,25,Non-binary,6,113703,3,2,2,3,6,Always,On-site,2,No,No,0.525,,
+ATT00475,QA,Senior QA,38,Non-binary,9,156346,8,1,6,5,58,Rarely,Fully Remote,2,Yes,Yes,0.154,Management,23
+ATT00476,Data Science,Senior Data Scientist,31,Non-binary,9,205850,10,3,3,1,29,Always,On-site,10,Yes,No,0.817,,
+ATT00477,HR,CHRO,57,Non-binary,1,208213,2,7,8,3,15,Rarely,Hybrid,9,No,Yes,0.372,Career change,3
+ATT00478,Legal,Legal Counsel,26,Non-binary,6,104613,4,6,7,8,56,Always,Hybrid,1,No,No,0.288,,
+ATT00479,Data Science,Data Analyst,48,Male,14,118363,6,7,4,8,35,Never,Fully Remote,8,No,No,0.97,,
+ATT00480,DevOps,Platform Engineer,36,Male,0,113690,5,1,10,7,51,Never,Fully Remote,10,No,Yes,0.947,Relocation,25
+ATT00481,QA,Senior QA,46,Male,17,151062,6,8,10,8,28,Often,Hybrid,2,No,No,0.467,,
+ATT00482,DevOps,Platform Engineer,50,Male,20,123258,5,8,6,6,10,Rarely,Fully Remote,3,No,Yes,0.692,Compensation,2
+ATT00483,Product,Product Manager,32,Male,1,129450,2,3,5,10,15,Sometimes,Fully Remote,10,No,No,0.686,,
+ATT00484,Research,Research Scientist,27,Female,2,122494,6,2,2,1,35,Always,Fully Remote,9,No,No,0.565,,
+ATT00485,Research,Research Scientist,48,Non-binary,19,123829,4,6,7,2,45,Sometimes,Fully Remote,0,No,No,0.724,,
+ATT00486,Sales,VP Sales,30,Prefer not to say,0,160519,10,3,2,8,47,Sometimes,Hybrid,7,Yes,No,0.926,,
+ATT00487,Sales,Director of Sales,33,Female,9,172140,10,5,10,9,37,Often,Hybrid,3,No,No,0.121,,
+ATT00488,Engineering,Software Engineer I,47,Non-binary,2,131105,6,9,8,1,47,Never,Hybrid,2,No,No,0.348,,
+ATT00489,QA,QA Manager,43,Non-binary,3,96493,7,8,9,6,14,Never,Hybrid,4,No,No,0.388,,
+ATT00490,QA,QA Lead,57,Prefer not to say,7,102993,5,4,4,6,0,Always,On-site,5,Yes,Yes,0.87,Relocation,30
+ATT00491,Sales,Director of Sales,46,Female,13,179949,10,9,6,3,58,Never,Hybrid,6,No,Yes,0.007,Career change,13
+ATT00492,Design,VP Design,58,Prefer not to say,8,169373,7,4,9,3,23,Often,On-site,0,No,Yes,0.773,Work-life balance,26
+ATT00493,Product,CPO,48,Male,7,295334,2,1,3,1,34,Often,On-site,4,Yes,No,0.175,,
+ATT00494,Operations,Operations Manager,43,Male,1,88622,4,2,10,1,34,Sometimes,Hybrid,8,No,No,0.159,,
+ATT00495,Operations,Director of Operations,33,Male,16,168913,7,6,3,1,29,Often,Hybrid,8,No,No,0.048,,
+ATT00496,HR,HR Manager,52,Male,2,85572,7,10,1,10,28,Rarely,Hybrid,3,No,No,0.656,,
+ATT00497,HR,HR Business Partner,51,Prefer not to say,8,78343,5,1,9,6,10,Rarely,On-site,6,Yes,No,0.97,,
+ATT00498,Operations,Operations Manager,31,Prefer not to say,0,78568,8,7,9,3,49,Always,On-site,6,No,No,0.147,,
+ATT00499,Design,Senior Designer,61,Prefer not to say,16,157474,7,9,1,5,10,Always,On-site,7,No,Yes,0.682,Relocation,21
+ATT00500,QA,QA Manager,31,Non-binary,3,104901,6,5,2,6,30,Never,Hybrid,6,No,No,0.404,,
+ATT00501,Finance,Controller,56,Female,11,96898,6,6,6,2,16,Often,Hybrid,9,No,No,0.506,,
+ATT00502,Product,Senior PM,25,Non-binary,7,156182,9,10,4,2,55,Sometimes,On-site,3,Yes,No,0.327,,
+ATT00503,Operations,COO,38,Female,7,216804,9,1,7,8,6,Always,Fully Remote,7,No,No,0.173,,
+ATT00504,Product,Director of Product,61,Prefer not to say,10,224240,7,8,2,8,41,Sometimes,On-site,2,No,No,0.856,,
+ATT00505,Data Science,Data Analyst,44,Prefer not to say,3,148120,4,10,4,5,59,Often,Hybrid,10,No,No,0.364,,
+ATT00506,Research,Research Scientist,41,Non-binary,2,114272,6,1,1,7,2,Rarely,Fully Remote,7,No,Yes,0.519,Relocation,25
+ATT00507,Marketing,Senior Marketer,27,Non-binary,13,122650,9,8,10,4,18,Never,On-site,4,No,No,0.394,,
+ATT00508,Research,Research Director,56,Non-binary,2,182147,8,1,8,9,30,Never,Fully Remote,10,No,No,0.821,,
+ATT00509,QA,QA Engineer,26,Male,16,81220,7,1,7,1,49,Often,On-site,2,Yes,No,0.474,,
+ATT00510,Legal,Senior Counsel,63,Prefer not to say,15,141418,6,8,5,3,0,Sometimes,Fully Remote,10,Yes,No,0.533,,
+ATT00511,Research,Research Scientist,26,Female,13,129678,7,3,1,2,7,Always,On-site,0,No,Yes,0.833,Management,31
+ATT00512,Research,Research Scientist,59,Male,9,99784,3,7,7,4,45,Sometimes,Hybrid,6,No,Yes,0.339,Career change,17
+ATT00513,QA,QA Engineer,59,Non-binary,4,96793,10,3,3,1,10,Never,Fully Remote,9,No,No,0.783,,
+ATT00514,Engineering,CTO,38,Female,10,314624,3,6,7,2,59,Always,Fully Remote,7,Yes,No,0.124,,
+ATT00515,HR,HR Manager,41,Non-binary,2,80521,7,3,2,5,44,Sometimes,On-site,9,No,No,0.306,,
+ATT00516,Data Science,Head of Data,52,Male,13,134273,10,4,7,2,31,Sometimes,Hybrid,8,No,No,0.672,,
+ATT00517,Data Science,ML Engineer,38,Male,11,120617,1,2,5,6,55,Often,Fully Remote,0,No,Yes,0.675,Personal,7
+ATT00518,Legal,Legal Counsel,51,Non-binary,18,129928,2,3,9,7,44,Never,Fully Remote,1,No,No,0.516,,
+ATT00519,Customer Success,Director of CS,50,Male,2,125620,2,7,2,10,39,Sometimes,On-site,4,No,No,0.348,,
+ATT00520,Marketing,Senior Marketer,45,Female,14,108987,5,3,1,7,22,Always,On-site,9,No,No,0.651,,
+ATT00521,Sales,Senior AE,57,Male,18,142247,9,10,3,9,8,Never,On-site,5,No,Yes,0.857,Management,28
+ATT00522,Marketing,Marketing Coordinator,60,Prefer not to say,15,76317,6,2,9,9,14,Rarely,On-site,10,No,No,0.336,,
+ATT00523,Sales,CRO,24,Female,12,208952,9,7,5,10,14,Sometimes,Hybrid,4,No,Yes,0.619,Work-life balance,1
+ATT00524,Legal,Senior Counsel,40,Non-binary,6,171051,3,3,4,5,1,Always,Fully Remote,7,Yes,No,0.775,,
+ATT00525,DevOps,Platform Engineer,41,Female,16,103554,8,9,3,9,10,Often,Hybrid,9,No,No,0.93,,
+ATT00526,Finance,CFO,51,Male,1,271491,2,4,2,5,27,Always,Fully Remote,9,No,Yes,0.219,Career change,33
+ATT00527,Finance,Senior Analyst,44,Prefer not to say,5,132304,4,7,3,9,21,Always,Hybrid,10,No,No,0.545,,
+ATT00528,Product,CPO,45,Prefer not to say,11,297515,8,4,9,7,60,Always,On-site,0,No,No,0.048,,
+ATT00529,Legal,Senior Counsel,28,Male,10,150530,8,2,9,8,47,Never,Fully Remote,10,Yes,No,0.024,,
+ATT00530,Marketing,Marketing Coordinator,37,Non-binary,4,97761,8,6,2,8,40,Rarely,On-site,6,No,Yes,0.129,Management,20
+ATT00531,QA,QA Manager,49,Male,1,104729,10,9,5,6,41,Sometimes,On-site,8,No,No,0.806,,
+ATT00532,Product,Senior PM,62,Male,14,199390,3,8,1,2,35,Always,Fully Remote,3,No,No,0.558,,
+ATT00533,QA,Senior QA,53,Female,17,126341,1,7,10,7,27,Always,On-site,4,No,Yes,0.546,Management,19
+ATT00534,Customer Success,CS Manager,50,Female,6,82264,3,1,7,3,17,Always,Fully Remote,7,No,Yes,0.876,Compensation,14
+ATT00535,HR,Director of HR,46,Female,4,138501,8,5,4,5,8,Never,Hybrid,0,No,No,0.286,,
+ATT00536,Security,Security Analyst,24,Female,9,116611,4,8,4,6,0,Always,Fully Remote,10,No,No,0.911,,
+ATT00537,Customer Success,CS Manager,65,Female,13,61164,6,2,6,5,5,Always,On-site,10,No,No,0.885,,
+ATT00538,Design,VP Design,24,Male,4,149408,4,7,2,4,38,Always,On-site,2,No,No,0.155,,
+ATT00539,Marketing,Director of Marketing,39,Non-binary,10,135129,3,3,8,7,41,Never,Hybrid,8,No,No,0.429,,
+ATT00540,Legal,General Counsel,40,Non-binary,20,119272,1,8,1,8,31,Never,Fully Remote,10,No,No,0.675,,
+ATT00541,Customer Success,CS Manager,37,Male,5,72905,10,9,6,2,5,Always,On-site,6,Yes,No,0.347,,
+ATT00542,Design,UI Designer,28,Female,12,111100,6,8,5,9,38,Sometimes,Hybrid,6,No,Yes,0.305,Career change,21
+ATT00543,HR,HR Coordinator,50,Non-binary,2,78681,4,5,3,6,17,Always,Fully Remote,10,No,No,0.665,,
+ATT00544,Operations,Director of Operations,27,Non-binary,9,162388,5,8,6,1,43,Sometimes,Hybrid,5,No,Yes,0.256,Relocation,22
+ATT00545,Sales,VP Sales,31,Male,20,150639,3,7,1,3,36,Often,On-site,4,No,No,0.024,,
+ATT00546,HR,HR Manager,62,Prefer not to say,6,88118,6,3,1,2,33,Always,On-site,7,No,No,0.864,,
+ATT00547,Product,Associate PM,49,Female,1,104332,9,7,7,6,15,Sometimes,On-site,10,No,No,0.077,,
+ATT00548,Security,Security Architect,61,Male,14,108645,5,9,7,9,34,Rarely,On-site,3,No,No,0.708,,
+ATT00549,HR,HR Business Partner,64,Non-binary,3,64515,10,4,5,7,27,Often,Fully Remote,0,No,Yes,0.813,Better opportunity,17
+ATT00550,Operations,Operations Analyst,33,Prefer not to say,4,91753,5,7,1,1,5,Never,Fully Remote,5,No,Yes,0.923,Personal,27
+ATT00551,Marketing,CMO,26,Male,16,200523,6,6,8,10,41,Rarely,On-site,10,No,Yes,0.833,Management,7
+ATT00552,Research,Research Scientist,23,Male,9,112407,7,10,7,5,35,Sometimes,Hybrid,1,No,No,0.615,,
+ATT00553,Engineering,Software Engineer II,42,Female,18,141028,2,8,4,1,17,Rarely,On-site,1,Yes,No,0.19,,
+ATT00554,Security,CISO,22,Female,2,321848,7,2,8,4,21,Sometimes,On-site,9,No,No,0.489,,
+ATT00555,Research,Senior Researcher,50,Female,3,165012,5,1,2,7,11,Sometimes,On-site,5,No,No,0.959,,
+ATT00556,HR,HR Business Partner,61,Prefer not to say,4,77770,1,9,10,4,31,Rarely,Hybrid,9,No,No,0.98,,
+ATT00557,Finance,Financial Analyst,56,Female,15,103023,1,2,5,9,59,Never,On-site,0,No,No,0.497,,
+ATT00558,QA,Senior QA,39,Prefer not to say,11,161416,8,7,2,1,23,Rarely,Hybrid,2,No,No,0.683,,
+ATT00559,Legal,Senior Counsel,34,Non-binary,9,167520,9,1,2,6,11,Often,On-site,0,No,No,0.297,,
+ATT00560,Finance,CFO,43,Female,18,242175,9,5,8,10,7,Often,Hybrid,5,No,No,0.642,,
+ATT00561,Sales,Senior AE,44,Male,7,123199,4,2,3,5,40,Always,On-site,9,Yes,No,0.763,,
+ATT00562,Security,Security Engineer,38,Female,10,123226,2,6,10,7,20,Sometimes,Hybrid,10,No,No,0.151,,
+ATT00563,Legal,Legal Counsel,33,Male,8,97904,9,10,4,10,44,Sometimes,Fully Remote,4,Yes,No,0.524,,
+ATT00564,HR,HR Coordinator,55,Male,0,73923,7,8,1,9,45,Often,Hybrid,2,No,No,0.031,,
+ATT00565,Design,Design Manager,35,Male,0,103152,3,8,4,4,33,Sometimes,Fully Remote,8,No,No,0.84,,
+ATT00566,Security,Security Architect,23,Female,12,130460,3,2,9,3,22,Often,Fully Remote,5,No,No,0.491,,
+ATT00567,DevOps,DevOps Engineer,43,Female,12,106880,8,9,7,10,2,Rarely,Hybrid,1,No,No,0.874,,
+ATT00568,Marketing,Director of Marketing,56,Female,5,173090,9,4,4,7,37,Never,On-site,5,No,No,0.108,,
+ATT00569,Operations,Operations Manager,25,Female,0,85612,7,5,5,2,20,Always,On-site,6,No,Yes,0.58,Career change,32
+ATT00570,Security,Security Architect,64,Prefer not to say,10,140017,9,4,4,2,34,Rarely,On-site,9,Yes,No,0.746,,
+ATT00571,Design,UX Designer,53,Female,20,111486,1,9,4,7,58,Never,On-site,6,No,No,0.142,,
+ATT00572,Legal,General Counsel,52,Female,2,130939,1,10,9,3,3,Sometimes,On-site,1,No,No,0.095,,
+ATT00573,Marketing,Marketing Specialist,33,Non-binary,15,95640,1,2,6,9,47,Always,Hybrid,7,Yes,No,0.569,,
+ATT00574,HR,HR Specialist,63,Female,0,68096,7,7,10,9,2,Rarely,Fully Remote,10,No,No,0.72,,
+ATT00575,Research,Research Scientist,49,Prefer not to say,5,115664,10,2,4,8,59,Sometimes,Fully Remote,2,No,No,0.794,,
+ATT00576,DevOps,DevOps Engineer,44,Prefer not to say,15,106339,6,1,9,3,8,Never,On-site,4,No,No,0.658,,
+ATT00577,DevOps,Senior DevOps,28,Female,8,181383,1,8,5,9,33,Rarely,Hybrid,1,No,Yes,0.979,Career change,14
+ATT00578,HR,HR Manager,31,Male,15,81581,2,10,1,2,17,Often,Fully Remote,4,No,No,0.468,,
+ATT00579,Research,Research Scientist,55,Non-binary,17,119922,10,1,2,6,50,Never,Hybrid,4,No,Yes,0.958,Management,33
+ATT00580,Finance,Senior Analyst,23,Prefer not to say,17,168302,8,4,7,5,15,Always,On-site,4,Yes,No,0.769,,
+ATT00581,Design,UI Designer,59,Female,20,113004,1,3,10,1,4,Often,On-site,6,No,No,0.887,,
+ATT00582,HR,HR Coordinator,38,Prefer not to say,14,89133,3,4,5,4,43,Often,Hybrid,10,No,No,0.282,,
+ATT00583,Customer Success,Director of CS,43,Male,6,117699,1,5,7,9,49,Never,On-site,1,No,No,0.691,,
+ATT00584,Legal,Senior Counsel,24,Prefer not to say,1,154480,8,6,9,6,26,Always,On-site,3,No,No,0.641,,
+ATT00585,Research,Research Scientist,33,Male,19,103497,6,8,7,4,41,Sometimes,Fully Remote,3,No,No,0.582,,
+ATT00586,Legal,Legal Counsel,37,Prefer not to say,7,131774,7,2,10,4,59,Often,On-site,10,No,No,0.645,,
+ATT00587,Engineering,VP Engineering,61,Prefer not to say,17,238612,2,9,8,2,26,Often,On-site,9,No,Yes,0.962,Compensation,6
+ATT00588,Engineering,Engineering Manager,46,Prefer not to say,5,113086,8,5,3,1,59,Often,On-site,4,No,No,0.634,,
+ATT00589,Product,CPO,64,Male,6,288563,6,7,5,9,26,Often,On-site,1,No,No,0.827,,
+ATT00590,Finance,Finance Manager,46,Male,14,91216,10,1,9,9,40,Often,On-site,0,Yes,No,0.865,,
+ATT00591,HR,HR Coordinator,57,Male,12,64938,6,4,4,5,18,Never,Fully Remote,0,No,No,0.175,,
+ATT00592,Product,Product Manager,26,Prefer not to say,0,123195,10,3,3,9,55,Always,Fully Remote,7,Yes,No,0.741,,
+ATT00593,Customer Success,VP CS,48,Female,7,113649,4,4,1,1,9,Rarely,Fully Remote,8,No,No,0.163,,
+ATT00594,Design,Senior Designer,24,Prefer not to say,4,127632,2,8,5,9,25,Never,Fully Remote,6,No,Yes,0.8,Management,33
+ATT00595,Operations,Operations Manager,51,Prefer not to say,19,68705,3,10,1,3,29,Often,On-site,9,No,No,0.022,,
+ATT00596,QA,QA Lead,24,Female,0,102870,3,7,10,3,29,Always,Fully Remote,10,No,No,0.491,,
+ATT00597,Security,Security Architect,58,Female,15,114162,4,8,5,1,4,Rarely,Hybrid,8,No,No,0.753,,
+ATT00598,Engineering,Engineering Manager,40,Female,4,129226,7,6,10,4,7,Rarely,Hybrid,8,No,No,0.761,,
+ATT00599,Operations,Operations Manager,60,Male,12,85651,6,5,6,8,15,Sometimes,On-site,8,No,No,0.272,,
+ATT00600,Marketing,Marketing Specialist,49,Prefer not to say,2,84651,6,3,4,1,60,Always,Fully Remote,9,No,No,0.217,,

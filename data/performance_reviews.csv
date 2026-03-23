@@ -1,0 +1,1001 @@
+review_id,employee_id,review_period,reviewer_id,overall_rating,goals_achieved_pct,communication_score,technical_score,leadership_score,collaboration_score,innovation_score,strengths,areas_for_improvement,promotion_recommended,salary_increase_recommended_pct,ai_sentiment_score,review_date
+REV00001,EMP01210,Annual 2024,EMP01058,4,101,1,5,3,3,6,Team player,Communication clarity,No,6,7.88,2023-03-29
+REV00002,EMP02192,Q3 2024,EMP01002,3,54,7,2,7,7,10,Customer focused,Technical depth,Yes,13,6.24,2023-02-10
+REV00003,EMP01701,Q1 2024,EMP01076,2,107,10,6,2,2,2,Reliable and consistent,Stakeholder management,No,14,2.16,2024-08-19
+REV00004,EMP01092,Q2 2024,EMP01001,4,81,6,9,7,1,3,Leadership potential,Technical depth,No,6,4.63,2023-07-02
+REV00005,EMP02059,Annual 2024,EMP01071,3,105,9,5,7,10,4,Customer focused,Time management,Yes,14,6.82,2024-05-23
+REV00006,EMP01503,Annual 2024,EMP01078,1,42,6,8,2,2,8,Innovative thinker,Documentation,Yes,8,1.44,2023-06-09
+REV00007,EMP02069,Q4 2023,EMP01021,5,105,10,5,3,5,5,Team player,Stakeholder management,No,6,4.65,2024-03-14
+REV00008,EMP01079,Q3 2024,EMP01022,3,90,8,2,2,9,9,Great communicator,Stakeholder management,Yes,16,2.52,2024-05-16
+REV00009,EMP02050,Q4 2023,EMP01063,4,77,8,8,5,10,7,Customer focused,Strategic thinking,Yes,11,7.3,2024-04-18
+REV00010,EMP01345,Annual 2023,EMP01027,5,53,9,9,2,6,7,Customer focused,Technical depth,Yes,3,8.38,2023-12-10
+REV00011,EMP01409,Annual 2023,EMP01026,4,85,6,8,10,8,1,Customer focused,Strategic thinking,Yes,15,9.04,2024-10-19
+REV00012,EMP01085,Annual 2024,EMP01095,3,87,6,4,1,1,2,Customer focused,Communication clarity,Yes,8,1.94,2024-04-27
+REV00013,EMP01254,Q3 2024,EMP01016,4,53,3,10,9,6,7,Customer focused,Documentation,No,8,1.47,2024-01-10
+REV00014,EMP01498,Annual 2024,EMP01004,4,120,3,6,2,8,8,Innovative thinker,Documentation,No,11,4.88,2023-06-09
+REV00015,EMP01948,Q4 2023,EMP01040,3,59,5,4,8,5,3,Problem solver,Communication clarity,Yes,5,2.14,2023-10-09
+REV00016,EMP01108,Q1 2024,EMP01100,3,113,7,1,8,3,7,Reliable and consistent,Communication clarity,Yes,3,7.52,2024-06-09
+REV00017,EMP01667,Q4 2023,EMP01034,1,92,8,4,8,3,6,Strong technical skills,Time management,No,7,9.92,2023-05-01
+REV00018,EMP02073,Q4 2024,EMP01054,3,119,4,3,1,6,1,Leadership potential,Documentation,Yes,1,4.57,2024-08-04
+REV00019,EMP01562,Annual 2023,EMP01022,2,82,9,9,5,5,6,Problem solver,Communication clarity,No,8,6.22,2023-09-28
+REV00020,EMP01107,Q1 2024,EMP01003,5,43,1,3,1,9,10,Leadership potential,Stakeholder management,No,1,3.68,2024-02-26
+REV00021,EMP01210,Q2 2024,EMP01058,5,52,6,2,8,6,2,Leadership potential,Stakeholder management,No,5,9.02,2024-02-22
+REV00022,EMP01045,Q3 2024,EMP01100,4,85,4,2,5,4,5,Problem solver,Communication clarity,Yes,15,8.44,2023-10-21
+REV00023,EMP01321,Q1 2024,EMP01088,1,98,8,3,3,3,9,Customer focused,Technical depth,No,19,8.83,2024-06-02
+REV00024,EMP01824,Q2 2024,EMP01006,4,102,5,3,9,7,1,Great communicator,Stakeholder management,No,20,5.24,2024-06-26
+REV00025,EMP01650,Q2 2024,EMP01056,5,106,1,2,2,2,4,Strong technical skills,Documentation,Yes,5,7.18,2024-08-17
+REV00026,EMP01222,Q2 2024,EMP01060,4,86,3,3,4,8,8,Reliable and consistent,Time management,Yes,9,8.16,2023-01-31
+REV00027,EMP01573,Annual 2023,EMP01031,4,73,5,9,10,7,9,Innovative thinker,Stakeholder management,Yes,8,8.6,2024-12-31
+REV00028,EMP01251,Q4 2023,EMP01049,2,86,6,5,3,8,10,Team player,Communication clarity,No,18,5.22,2023-05-16
+REV00029,EMP01179,Q3 2024,EMP01096,4,49,7,10,1,5,8,Leadership potential,Time management,Yes,4,9.69,2024-03-13
+REV00030,EMP01969,Annual 2024,EMP01084,4,86,5,5,2,10,1,Innovative thinker,Communication clarity,No,14,8.8,2023-06-20
+REV00031,EMP01902,Annual 2023,EMP01010,3,44,6,1,4,6,7,Problem solver,Communication clarity,No,5,9.82,2023-10-08
+REV00032,EMP01572,Annual 2023,EMP01099,3,81,7,1,5,9,6,Great communicator,Time management,No,18,1.28,2024-02-19
+REV00033,EMP01466,Annual 2024,EMP01075,3,70,3,3,7,8,10,Great communicator,Time management,Yes,15,5.58,2023-04-27
+REV00034,EMP01265,Q3 2024,EMP01078,4,98,3,10,2,7,10,Innovative thinker,Communication clarity,No,4,8.92,2024-09-13
+REV00035,EMP01208,Q3 2024,EMP01079,3,72,2,9,8,6,8,Leadership potential,Time management,No,12,4.37,2024-05-11
+REV00036,EMP01238,Q2 2024,EMP01019,4,86,9,9,4,7,7,Strong technical skills,Stakeholder management,No,17,2.95,2024-11-09
+REV00037,EMP01415,Q1 2024,EMP01010,4,64,8,9,4,7,2,Reliable and consistent,Documentation,No,5,8.67,2024-02-29
+REV00038,EMP01758,Q4 2023,EMP01064,3,106,1,9,1,8,10,Reliable and consistent,Stakeholder management,Yes,7,1.46,2023-02-20
+REV00039,EMP01272,Annual 2024,EMP01074,2,86,1,10,4,7,1,Innovative thinker,Stakeholder management,Yes,19,2.4,2023-02-06
+REV00040,EMP01345,Q2 2024,EMP01027,4,51,5,3,2,4,8,Innovative thinker,Stakeholder management,No,15,8.45,2023-08-22
+REV00041,EMP01841,Q2 2024,EMP01047,4,92,9,10,5,10,6,Innovative thinker,Communication clarity,No,13,7.67,2023-05-09
+REV00042,EMP01889,Q2 2024,EMP01085,4,71,7,10,9,4,3,Innovative thinker,Time management,No,5,8.18,2024-06-11
+REV00043,EMP01127,Annual 2024,EMP01012,5,84,10,9,2,7,2,Strong technical skills,Strategic thinking,No,0,6.4,2024-07-28
+REV00044,EMP02059,Q1 2024,EMP01071,3,119,4,4,7,3,8,Problem solver,Technical depth,Yes,10,8.46,2023-07-10
+REV00045,EMP01697,Q3 2024,EMP01054,4,57,7,8,4,3,8,Problem solver,Communication clarity,No,3,8.2,2023-12-23
+REV00046,EMP01350,Q2 2024,EMP01020,3,52,7,10,10,4,3,Customer focused,Technical depth,Yes,3,1.77,2024-11-12
+REV00047,EMP01570,Q3 2024,EMP01014,5,48,7,1,9,7,3,Innovative thinker,Strategic thinking,Yes,3,3.02,2024-08-18
+REV00048,EMP01615,Q4 2023,EMP01005,5,40,6,8,6,3,10,Leadership potential,Stakeholder management,Yes,15,1.59,2024-11-27
+REV00049,EMP01136,Q4 2024,EMP01073,2,57,1,8,3,4,10,Great communicator,Strategic thinking,Yes,17,3.37,2024-02-14
+REV00050,EMP01481,Q3 2024,EMP01027,5,92,4,7,10,9,6,Great communicator,Stakeholder management,No,13,6.84,2024-01-05
+REV00051,EMP01515,Q4 2024,EMP01056,4,114,2,10,7,7,10,Customer focused,Stakeholder management,Yes,5,2.24,2024-01-23
+REV00052,EMP01407,Q3 2024,EMP01028,4,113,6,2,5,4,8,Strong technical skills,Documentation,Yes,6,8.99,2023-09-15
+REV00053,EMP01227,Q3 2024,EMP01078,2,93,3,7,4,2,8,Customer focused,Stakeholder management,Yes,8,2.33,2023-05-29
+REV00054,EMP01146,Annual 2024,EMP01034,3,78,3,2,10,8,4,Great communicator,Documentation,No,0,9.25,2023-09-21
+REV00055,EMP01641,Q2 2024,EMP01019,2,81,2,1,3,10,6,Team player,Documentation,No,10,1.13,2023-07-30
+REV00056,EMP01345,Q2 2024,EMP01027,4,43,5,6,4,6,2,Team player,Technical depth,No,6,9.86,2024-12-26
+REV00057,EMP01434,Q2 2024,EMP01042,2,96,2,10,2,7,4,Team player,Technical depth,Yes,14,6.65,2024-12-19
+REV00058,EMP01520,Annual 2024,EMP01042,3,67,4,9,3,6,5,Great communicator,Stakeholder management,No,17,6.14,2023-05-25
+REV00059,EMP02009,Annual 2023,EMP01029,2,90,9,3,10,10,5,Reliable and consistent,Strategic thinking,Yes,5,9.36,2023-11-07
+REV00060,EMP01503,Q4 2023,EMP01078,2,111,7,10,2,10,9,Great communicator,Stakeholder management,No,11,9.47,2024-09-03
+REV00061,EMP01881,Q2 2024,EMP01026,2,78,6,4,7,6,2,Team player,Communication clarity,No,13,2.0,2023-08-17
+REV00062,EMP01600,Q4 2023,EMP01038,4,89,2,7,2,7,1,Reliable and consistent,Technical depth,No,7,5.07,2023-01-21
+REV00063,EMP01697,Annual 2024,EMP01054,4,70,7,8,2,3,8,Innovative thinker,Stakeholder management,Yes,13,6.45,2024-01-19
+REV00064,EMP01353,Annual 2024,EMP01036,2,53,8,9,10,5,1,Leadership potential,Strategic thinking,No,4,9.89,2024-03-12
+REV00065,EMP01644,Q2 2024,EMP01038,5,74,2,9,7,3,10,Team player,Time management,No,3,6.8,2024-03-30
+REV00066,EMP01805,Annual 2023,EMP01081,4,111,7,5,8,5,1,Great communicator,Strategic thinking,No,20,4.27,2023-09-10
+REV00067,EMP01179,Q4 2023,EMP01096,5,81,1,5,7,2,7,Great communicator,Technical depth,No,17,8.61,2023-10-06
+REV00068,EMP01076,Q2 2024,EMP01063,4,99,3,7,8,6,5,Reliable and consistent,Stakeholder management,No,18,6.69,2024-08-18
+REV00069,EMP01434,Q1 2024,EMP01042,3,85,1,10,6,7,4,Leadership potential,Documentation,Yes,6,5.59,2024-10-23
+REV00070,EMP01471,Q2 2024,EMP01016,4,106,3,4,2,4,3,Leadership potential,Stakeholder management,No,6,9.05,2023-11-13
+REV00071,EMP01295,Q3 2024,EMP01055,4,86,10,10,2,10,8,Customer focused,Stakeholder management,No,16,4.26,2024-02-06
+REV00072,EMP02027,Annual 2024,EMP01085,4,58,3,6,5,4,8,Leadership potential,Communication clarity,No,12,2.59,2024-05-24
+REV00073,EMP01141,Q1 2024,EMP01092,4,54,7,6,4,6,10,Reliable and consistent,Technical depth,No,19,3.42,2024-01-14
+REV00074,EMP02191,Q1 2024,EMP01026,3,112,9,10,6,9,3,Innovative thinker,Strategic thinking,No,7,8.04,2023-03-04
+REV00075,EMP01883,Q4 2024,EMP01096,4,59,9,6,6,5,2,Customer focused,Strategic thinking,No,19,3.69,2023-08-13
+REV00076,EMP01127,Q3 2024,EMP01012,5,55,5,3,2,6,5,Innovative thinker,Documentation,Yes,18,4.61,2024-02-03
+REV00077,EMP01215,Q3 2024,EMP01019,4,86,8,5,1,5,1,Reliable and consistent,Communication clarity,No,20,7.22,2023-01-21
+REV00078,EMP01291,Q3 2024,EMP01091,3,99,7,7,4,1,8,Customer focused,Strategic thinking,No,15,3.88,2024-11-14
+REV00079,EMP01940,Q1 2024,EMP01075,1,85,2,10,5,1,8,Problem solver,Communication clarity,Yes,13,1.92,2023-02-12
+REV00080,EMP01402,Q1 2024,EMP01006,4,48,8,1,9,3,10,Problem solver,Communication clarity,Yes,18,2.29,2023-11-22
+REV00081,EMP01130,Annual 2024,EMP01082,4,119,1,1,3,10,6,Strong technical skills,Time management,Yes,9,4.97,2024-11-21
+REV00082,EMP01643,Q2 2024,EMP01079,4,84,6,6,3,4,8,Team player,Documentation,No,0,3.27,2024-05-21
+REV00083,EMP01502,Q4 2023,EMP01076,4,77,6,7,9,5,5,Problem solver,Stakeholder management,No,6,2.9,2023-09-09
+REV00084,EMP02136,Annual 2024,EMP01002,4,109,5,7,6,2,10,Strong technical skills,Communication clarity,Yes,17,2.8,2023-02-24
+REV00085,EMP01812,Q2 2024,EMP01035,3,66,1,2,7,1,7,Innovative thinker,Documentation,Yes,18,1.37,2024-01-10
+REV00086,EMP01934,Annual 2023,EMP01069,4,77,2,8,8,4,4,Innovative thinker,Documentation,No,20,1.38,2024-12-21
+REV00087,EMP01654,Q1 2024,EMP01071,4,59,2,9,3,2,7,Strong technical skills,Stakeholder management,No,18,2.48,2023-08-14
+REV00088,EMP01101,Q4 2024,EMP01039,5,99,9,2,2,1,9,Strong technical skills,Communication clarity,No,17,6.01,2024-02-13
+REV00089,EMP01840,Annual 2023,EMP01024,4,40,3,6,8,10,6,Team player,Technical depth,No,9,3.43,2023-03-07
+REV00090,EMP01104,Q4 2024,EMP01091,4,64,6,5,8,3,9,Leadership potential,Communication clarity,No,18,7.31,2023-06-16
+REV00091,EMP01447,Annual 2024,EMP01051,1,60,4,9,5,10,3,Strong technical skills,Communication clarity,Yes,15,6.7,2024-09-29
+REV00092,EMP01113,Q3 2024,EMP01049,3,117,1,10,1,4,10,Reliable and consistent,Stakeholder management,No,16,9.05,2024-09-22
+REV00093,EMP01357,Q4 2024,EMP01049,3,113,2,1,7,8,4,Team player,Communication clarity,No,5,5.0,2023-11-24
+REV00094,EMP01316,Annual 2024,EMP01026,3,46,3,5,10,7,7,Problem solver,Communication clarity,No,11,5.93,2023-12-06
+REV00095,EMP02078,Q2 2024,EMP01030,1,40,2,6,5,5,5,Innovative thinker,Stakeholder management,No,4,1.04,2023-10-05
+REV00096,EMP01088,Q3 2024,EMP01051,2,110,8,1,4,3,3,Great communicator,Documentation,No,14,3.95,2024-09-18
+REV00097,EMP01084,Q2 2024,EMP01013,3,72,10,9,4,10,2,Strong technical skills,Communication clarity,No,0,7.22,2023-04-19
+REV00098,EMP02057,Q1 2024,EMP01007,3,102,3,9,2,1,3,Customer focused,Communication clarity,No,10,8.36,2024-04-03
+REV00099,EMP01476,Q3 2024,EMP01048,5,54,3,7,4,8,1,Strong technical skills,Stakeholder management,No,13,7.93,2024-11-01
+REV00100,EMP02086,Q2 2024,EMP01007,3,42,3,3,6,2,8,Leadership potential,Stakeholder management,No,17,6.61,2023-06-28
+REV00101,EMP01173,Q2 2024,EMP01078,4,93,3,2,4,4,5,Reliable and consistent,Strategic thinking,Yes,17,2.59,2024-09-29
+REV00102,EMP01532,Q4 2023,EMP01067,5,90,3,2,10,3,10,Reliable and consistent,Strategic thinking,Yes,18,9.07,2024-08-03
+REV00103,EMP01444,Annual 2024,EMP01071,3,78,8,6,4,8,7,Team player,Stakeholder management,No,5,4.14,2024-03-03
+REV00104,EMP01432,Annual 2024,EMP01038,4,109,7,5,8,7,7,Reliable and consistent,Documentation,Yes,15,5.37,2023-01-05
+REV00105,EMP01471,Q1 2024,EMP01016,4,86,1,7,8,10,10,Leadership potential,Technical depth,Yes,2,1.89,2024-08-22
+REV00106,EMP01936,Q1 2024,EMP01083,3,57,6,7,9,8,1,Innovative thinker,Communication clarity,No,8,4.4,2024-09-17
+REV00107,EMP01720,Q4 2024,EMP01028,3,109,1,5,7,7,1,Leadership potential,Communication clarity,No,5,5.54,2023-02-02
+REV00108,EMP02047,Q3 2024,EMP01007,2,58,8,6,1,3,1,Problem solver,Communication clarity,Yes,5,1.99,2023-08-18
+REV00109,EMP01815,Q1 2024,EMP01023,4,76,5,7,3,8,7,Team player,Technical depth,Yes,9,5.6,2023-09-27
+REV00110,EMP01859,Annual 2024,EMP01053,4,51,6,2,3,10,6,Innovative thinker,Technical depth,No,19,3.16,2024-07-13
+REV00111,EMP01455,Q2 2024,EMP01042,5,69,6,9,5,10,10,Great communicator,Stakeholder management,No,11,3.01,2023-12-23
+REV00112,EMP02114,Annual 2023,EMP01094,4,83,3,3,9,8,6,Great communicator,Communication clarity,Yes,18,7.24,2023-03-09
+REV00113,EMP01797,Q1 2024,EMP01049,4,78,10,8,4,2,2,Great communicator,Technical depth,No,13,3.15,2024-03-09
+REV00114,EMP01043,Q4 2024,EMP01070,4,52,1,6,1,5,6,Leadership potential,Documentation,Yes,19,6.89,2024-10-26
+REV00115,EMP01399,Q1 2024,EMP01025,1,86,10,8,6,9,4,Innovative thinker,Documentation,Yes,11,6.4,2023-10-07
+REV00116,EMP01250,Q1 2024,EMP01003,4,60,1,9,5,2,9,Problem solver,Strategic thinking,No,10,3.44,2023-02-06
+REV00117,EMP01671,Q4 2024,EMP01020,3,81,6,1,6,5,2,Reliable and consistent,Time management,No,1,6.16,2024-04-13
+REV00118,EMP01534,Annual 2024,EMP01092,3,99,1,8,10,7,1,Leadership potential,Time management,No,18,3.48,2023-08-05
+REV00119,EMP02110,Q3 2024,EMP01021,5,61,9,5,9,4,7,Reliable and consistent,Technical depth,No,11,5.84,2023-06-13
+REV00120,EMP01698,Q4 2023,EMP01013,4,92,10,10,3,3,7,Great communicator,Technical depth,No,18,7.06,2023-09-15
+REV00121,EMP01871,Q1 2024,EMP01091,3,42,9,3,8,7,2,Strong technical skills,Time management,No,7,4.19,2023-03-20
+REV00122,EMP01959,Q2 2024,EMP01004,5,73,6,10,7,10,2,Reliable and consistent,Stakeholder management,No,8,6.41,2023-07-19
+REV00123,EMP01816,Q3 2024,EMP01033,5,94,4,4,8,6,10,Innovative thinker,Strategic thinking,Yes,7,7.59,2024-04-29
+REV00124,EMP02032,Q4 2024,EMP01092,4,40,2,9,9,2,2,Great communicator,Documentation,No,7,8.17,2024-09-16
+REV00125,EMP01475,Annual 2023,EMP01060,5,66,4,2,5,4,3,Innovative thinker,Time management,No,0,7.02,2023-04-11
+REV00126,EMP01212,Q4 2023,EMP01047,4,117,7,4,4,9,8,Strong technical skills,Strategic thinking,Yes,6,7.08,2023-06-26
+REV00127,EMP01254,Annual 2023,EMP01016,2,104,3,3,1,5,5,Innovative thinker,Documentation,No,10,2.01,2024-05-17
+REV00128,EMP01748,Annual 2024,EMP01098,5,111,2,7,5,10,6,Customer focused,Time management,Yes,9,9.75,2024-11-15
+REV00129,EMP01495,Q4 2024,EMP01016,4,41,3,9,5,3,3,Innovative thinker,Time management,No,1,7.36,2024-07-06
+REV00130,EMP02178,Annual 2024,EMP01042,4,68,2,4,8,8,5,Team player,Technical depth,Yes,7,9.88,2023-03-02
+REV00131,EMP01496,Annual 2023,EMP01070,4,113,3,6,2,8,4,Team player,Communication clarity,Yes,16,2.04,2024-02-23
+REV00132,EMP01721,Q2 2024,EMP01098,3,50,6,3,10,8,10,Leadership potential,Strategic thinking,Yes,9,4.64,2023-03-25
+REV00133,EMP01134,Q4 2023,EMP01002,5,41,1,7,3,1,9,Problem solver,Time management,No,8,1.09,2024-11-03
+REV00134,EMP01547,Q4 2023,EMP01077,3,83,4,7,3,10,3,Great communicator,Documentation,No,10,1.39,2023-04-13
+REV00135,EMP01153,Q2 2024,EMP01035,3,117,7,9,10,6,1,Problem solver,Strategic thinking,Yes,16,3.57,2024-08-22
+REV00136,EMP01864,Q3 2024,EMP01003,3,114,5,10,8,3,6,Innovative thinker,Stakeholder management,No,1,3.6,2023-09-14
+REV00137,EMP02149,Annual 2024,EMP01043,3,56,2,8,6,7,4,Innovative thinker,Strategic thinking,Yes,8,8.32,2023-11-30
+REV00138,EMP01148,Annual 2024,EMP01056,3,73,5,7,6,8,5,Great communicator,Technical depth,Yes,5,3.85,2024-12-21
+REV00139,EMP01740,Annual 2024,EMP01033,4,90,5,7,6,1,9,Team player,Time management,Yes,7,9.83,2024-05-02
+REV00140,EMP01811,Q3 2024,EMP01033,3,70,10,2,4,7,10,Customer focused,Technical depth,Yes,16,2.97,2023-08-08
+REV00141,EMP01701,Q4 2023,EMP01076,4,56,8,2,6,5,3,Problem solver,Technical depth,Yes,5,9.96,2023-01-02
+REV00142,EMP02047,Q2 2024,EMP01007,5,66,5,2,3,5,8,Problem solver,Communication clarity,No,14,9.22,2023-02-14
+REV00143,EMP01642,Q3 2024,EMP01009,5,116,8,6,4,8,1,Strong technical skills,Stakeholder management,No,5,3.11,2024-09-10
+REV00144,EMP01810,Annual 2023,EMP01089,4,102,8,4,4,6,3,Great communicator,Time management,No,10,9.24,2023-07-13
+REV00145,EMP01935,Q4 2023,EMP01069,3,109,3,7,4,3,2,Innovative thinker,Technical depth,Yes,1,6.01,2023-12-21
+REV00146,EMP02120,Q4 2024,EMP01049,4,114,9,2,9,2,2,Innovative thinker,Communication clarity,No,3,5.47,2024-12-28
+REV00147,EMP01814,Q2 2024,EMP01055,3,40,7,5,4,4,10,Reliable and consistent,Technical depth,No,9,2.76,2023-10-18
+REV00148,EMP01821,Annual 2023,EMP01016,4,52,10,8,3,1,5,Strong technical skills,Strategic thinking,No,5,3.62,2023-10-11
+REV00149,EMP02133,Q2 2024,EMP01054,5,44,1,10,2,8,4,Great communicator,Stakeholder management,No,7,2.2,2024-10-25
+REV00150,EMP01336,Q1 2024,EMP01031,4,103,3,5,5,8,9,Team player,Strategic thinking,Yes,15,2.07,2023-05-19
+REV00151,EMP01124,Q2 2024,EMP01063,3,119,9,10,7,10,2,Strong technical skills,Communication clarity,Yes,3,6.12,2024-05-30
+REV00152,EMP01961,Q2 2024,EMP01027,4,60,5,5,10,6,3,Strong technical skills,Stakeholder management,No,18,6.25,2023-03-20
+REV00153,EMP01516,Q2 2024,EMP01006,5,109,4,2,2,10,8,Customer focused,Strategic thinking,No,11,1.96,2024-02-20
+REV00154,EMP01518,Annual 2024,EMP01076,5,53,9,1,1,6,5,Innovative thinker,Time management,No,14,4.94,2023-03-02
+REV00155,EMP01172,Annual 2023,EMP01043,5,68,2,7,3,6,8,Reliable and consistent,Time management,Yes,1,1.17,2024-01-31
+REV00156,EMP01591,Annual 2024,EMP01001,4,100,5,4,10,8,4,Innovative thinker,Stakeholder management,Yes,17,3.43,2024-01-10
+REV00157,EMP01726,Q1 2024,EMP01022,5,69,1,3,2,3,10,Great communicator,Strategic thinking,No,6,4.66,2024-04-30
+REV00158,EMP01196,Q3 2024,EMP01066,5,51,3,10,9,1,4,Great communicator,Time management,No,12,2.38,2024-03-27
+REV00159,EMP01041,Q3 2024,EMP01076,1,98,5,9,3,6,3,Problem solver,Strategic thinking,No,10,3.53,2024-02-07
+REV00160,EMP01489,Annual 2024,EMP01085,4,75,8,7,4,2,7,Great communicator,Technical depth,Yes,11,9.09,2023-02-24
+REV00161,EMP01301,Q4 2023,EMP01044,3,76,3,4,8,3,5,Leadership potential,Stakeholder management,No,12,7.71,2023-05-09
+REV00162,EMP01249,Q4 2023,EMP01072,5,101,7,2,8,5,8,Strong technical skills,Technical depth,Yes,10,9.46,2023-05-27
+REV00163,EMP01434,Annual 2023,EMP01042,4,45,6,10,7,5,3,Reliable and consistent,Technical depth,No,14,5.79,2024-01-20
+REV00164,EMP01402,Q2 2024,EMP01006,4,119,7,1,4,5,9,Customer focused,Communication clarity,Yes,3,4.85,2023-05-06
+REV00165,EMP01505,Q4 2023,EMP01073,5,70,10,10,6,3,2,Great communicator,Documentation,Yes,8,8.31,2023-09-19
+REV00166,EMP01008,Q1 2024,EMP01045,1,73,4,8,10,1,9,Leadership potential,Strategic thinking,Yes,16,8.24,2023-09-04
+REV00167,EMP01492,Q4 2024,EMP01004,4,87,6,9,4,7,5,Reliable and consistent,Technical depth,No,14,4.36,2024-09-19
+REV00168,EMP01646,Q4 2024,EMP01026,4,101,5,3,6,5,3,Strong technical skills,Documentation,Yes,6,4.46,2023-06-21
+REV00169,EMP02173,Q4 2023,EMP01032,3,105,5,10,8,9,6,Strong technical skills,Documentation,No,16,8.76,2024-03-17
+REV00170,EMP02182,Q4 2023,EMP01024,4,69,1,9,2,6,9,Strong technical skills,Strategic thinking,No,14,5.7,2024-09-01
+REV00171,EMP01387,Q3 2024,EMP01013,2,117,4,3,5,7,8,Great communicator,Documentation,No,19,6.34,2024-04-20
+REV00172,EMP01489,Q2 2024,EMP01085,3,53,1,1,3,10,6,Leadership potential,Communication clarity,Yes,2,8.21,2024-07-26
+REV00173,EMP01699,Q3 2024,EMP01099,4,86,4,3,1,10,4,Leadership potential,Time management,No,20,1.18,2023-10-23
+REV00174,EMP01454,Annual 2024,EMP01086,3,53,10,8,3,10,5,Great communicator,Documentation,Yes,6,4.85,2023-12-02
+REV00175,EMP01771,Q1 2024,EMP01069,3,68,3,9,10,5,1,Great communicator,Time management,No,2,8.49,2023-02-04
+REV00176,EMP02098,Q2 2024,EMP01049,5,102,1,10,8,2,9,Innovative thinker,Stakeholder management,No,18,1.51,2024-04-21
+REV00177,EMP01683,Annual 2024,EMP01037,4,100,4,2,7,10,3,Customer focused,Technical depth,No,5,5.41,2024-02-28
+REV00178,EMP01074,Q1 2024,EMP01055,1,91,10,8,8,5,1,Strong technical skills,Strategic thinking,No,1,1.57,2023-08-09
+REV00179,EMP01194,Q3 2024,EMP01054,4,90,7,2,9,1,7,Great communicator,Time management,No,10,8.08,2024-04-09
+REV00180,EMP01065,Q1 2024,EMP01099,4,42,2,1,3,3,3,Great communicator,Communication clarity,No,17,8.46,2024-09-20
+REV00181,EMP01066,Q3 2024,EMP01093,2,44,2,2,9,2,7,Team player,Technical depth,No,3,1.05,2024-01-27
+REV00182,EMP01669,Q4 2023,EMP01033,4,101,2,1,2,5,10,Innovative thinker,Time management,Yes,13,3.06,2023-07-03
+REV00183,EMP01812,Q2 2024,EMP01035,4,86,2,10,7,5,3,Reliable and consistent,Strategic thinking,No,3,4.89,2023-05-30
+REV00184,EMP01157,Q1 2024,EMP01087,5,102,1,3,6,5,5,Leadership potential,Technical depth,Yes,1,9.75,2024-12-24
+REV00185,EMP01408,Annual 2023,EMP01051,3,50,9,3,6,5,9,Strong technical skills,Technical depth,No,11,6.56,2023-12-03
+REV00186,EMP01004,Q2 2024,EMP01041,3,72,3,7,4,4,6,Problem solver,Communication clarity,Yes,14,6.66,2023-10-22
+REV00187,EMP01729,Q4 2023,EMP01038,4,55,4,3,1,3,1,Leadership potential,Time management,No,19,8.22,2023-05-14
+REV00188,EMP01026,Q2 2024,EMP01033,2,107,7,8,7,8,5,Innovative thinker,Strategic thinking,No,5,5.59,2024-05-15
+REV00189,EMP01807,Q1 2024,EMP01054,4,64,10,1,1,5,10,Leadership potential,Communication clarity,Yes,18,9.23,2024-03-03
+REV00190,EMP01566,Annual 2024,EMP01035,3,95,3,10,7,1,3,Leadership potential,Documentation,Yes,19,6.38,2024-10-14
+REV00191,EMP01066,Q3 2024,EMP01093,4,103,2,7,5,10,6,Innovative thinker,Technical depth,No,8,7.6,2024-02-21
+REV00192,EMP01501,Q4 2023,EMP01007,4,55,4,8,2,6,4,Innovative thinker,Communication clarity,No,16,7.72,2023-08-05
+REV00193,EMP01928,Annual 2024,EMP01009,3,99,4,3,3,8,7,Leadership potential,Technical depth,Yes,17,6.68,2023-05-12
+REV00194,EMP01720,Annual 2024,EMP01028,3,116,5,7,5,6,5,Strong technical skills,Communication clarity,Yes,0,2.4,2023-04-13
+REV00195,EMP01440,Q2 2024,EMP01019,3,81,10,5,6,4,9,Problem solver,Communication clarity,No,7,3.75,2023-12-07
+REV00196,EMP02057,Q2 2024,EMP01007,3,89,7,9,3,3,9,Leadership potential,Technical depth,No,11,3.73,2024-10-11
+REV00197,EMP01218,Annual 2023,EMP01011,1,68,10,9,1,2,4,Team player,Documentation,No,20,4.57,2024-09-18
+REV00198,EMP01116,Q3 2024,EMP01067,4,101,1,2,5,2,2,Great communicator,Technical depth,No,3,6.73,2023-06-07
+REV00199,EMP01308,Q1 2024,EMP01070,3,118,5,3,9,2,2,Reliable and consistent,Strategic thinking,No,12,4.04,2024-08-13
+REV00200,EMP02135,Q1 2024,EMP01036,3,116,8,6,1,6,8,Problem solver,Time management,Yes,2,1.35,2024-09-10
+REV00201,EMP01810,Annual 2024,EMP01089,2,43,10,5,5,4,1,Strong technical skills,Communication clarity,No,15,3.03,2023-01-15
+REV00202,EMP01992,Q4 2023,EMP01057,3,112,5,3,8,7,4,Strong technical skills,Documentation,No,5,4.44,2023-07-22
+REV00203,EMP01243,Annual 2024,EMP01089,3,96,7,4,2,2,5,Team player,Time management,Yes,14,4.06,2024-09-03
+REV00204,EMP01729,Annual 2024,EMP01038,5,100,2,5,2,5,3,Leadership potential,Documentation,Yes,4,6.33,2023-02-01
+REV00205,EMP02167,Q4 2023,EMP01005,4,72,7,2,5,4,9,Team player,Documentation,No,2,4.72,2023-11-04
+REV00206,EMP02035,Annual 2023,EMP01018,4,116,6,5,1,6,9,Innovative thinker,Documentation,No,8,3.22,2024-08-20
+REV00207,EMP01432,Q4 2023,EMP01038,5,57,9,10,8,3,5,Reliable and consistent,Strategic thinking,No,18,6.0,2024-08-26
+REV00208,EMP01790,Q2 2024,EMP01078,3,76,6,6,5,1,5,Problem solver,Time management,Yes,0,2.01,2024-10-13
+REV00209,EMP01860,Q4 2024,EMP01089,3,54,8,8,9,6,5,Reliable and consistent,Communication clarity,No,20,1.28,2023-12-21
+REV00210,EMP01635,Annual 2023,EMP01056,4,88,7,3,7,10,3,Team player,Communication clarity,No,10,8.21,2023-01-09
+REV00211,EMP01054,Annual 2023,EMP01011,4,56,6,6,4,10,6,Problem solver,Documentation,Yes,12,7.24,2024-04-10
+REV00212,EMP01701,Annual 2023,EMP01076,4,53,3,6,3,5,6,Customer focused,Time management,Yes,7,10.0,2023-04-30
+REV00213,EMP01095,Q4 2023,EMP01001,3,102,4,4,6,9,4,Leadership potential,Communication clarity,Yes,18,6.69,2023-05-08
+REV00214,EMP01489,Q1 2024,EMP01085,3,114,5,5,4,9,8,Customer focused,Time management,No,2,3.08,2024-12-01
+REV00215,EMP01886,Q2 2024,EMP01019,3,105,10,2,1,6,5,Problem solver,Technical depth,No,5,7.49,2024-05-10
+REV00216,EMP01312,Q4 2024,EMP01044,3,75,4,4,2,7,2,Problem solver,Time management,No,19,2.27,2024-07-16
+REV00217,EMP01610,Annual 2023,EMP01069,4,100,9,5,3,8,8,Reliable and consistent,Time management,Yes,7,4.57,2024-03-26
+REV00218,EMP02158,Q2 2024,EMP01091,1,115,8,6,1,7,7,Great communicator,Documentation,No,17,3.82,2024-02-10
+REV00219,EMP01754,Q3 2024,EMP01073,5,77,2,7,5,10,4,Team player,Time management,Yes,2,3.88,2024-10-14
+REV00220,EMP02033,Q4 2024,EMP01078,3,43,3,7,3,2,9,Strong technical skills,Stakeholder management,Yes,7,7.75,2024-02-23
+REV00221,EMP01368,Q2 2024,EMP01089,3,87,2,9,6,3,3,Great communicator,Stakeholder management,Yes,12,1.84,2024-12-12
+REV00222,EMP01094,Annual 2024,EMP01074,3,70,10,9,8,2,5,Innovative thinker,Documentation,Yes,8,3.77,2023-07-23
+REV00223,EMP01048,Q1 2024,EMP01053,4,77,6,8,8,8,5,Great communicator,Documentation,Yes,13,8.4,2023-12-21
+REV00224,EMP01147,Q4 2024,EMP01021,3,91,4,4,3,6,4,Team player,Documentation,No,6,1.36,2024-04-12
+REV00225,EMP02073,Q3 2024,EMP01054,4,104,7,7,1,8,1,Problem solver,Technical depth,Yes,14,7.47,2024-01-26
+REV00226,EMP01617,Q4 2023,EMP01009,1,89,10,6,1,9,6,Problem solver,Stakeholder management,Yes,1,4.79,2024-09-23
+REV00227,EMP01590,Q3 2024,EMP01022,3,66,3,7,5,8,5,Great communicator,Documentation,Yes,2,2.63,2023-10-06
+REV00228,EMP01026,Annual 2023,EMP01033,4,73,4,10,7,9,5,Team player,Technical depth,No,12,1.45,2023-01-06
+REV00229,EMP01101,Q4 2024,EMP01039,4,59,1,9,8,2,7,Team player,Strategic thinking,No,3,6.33,2024-12-28
+REV00230,EMP01992,Q4 2024,EMP01057,4,58,8,2,10,2,9,Team player,Strategic thinking,Yes,19,5.81,2024-09-10
+REV00231,EMP01188,Q1 2024,EMP01063,3,40,2,9,2,8,6,Customer focused,Stakeholder management,Yes,3,5.6,2024-06-16
+REV00232,EMP01623,Annual 2023,EMP01047,3,80,3,3,7,3,5,Great communicator,Technical depth,No,16,6.53,2023-06-22
+REV00233,EMP01738,Q1 2024,EMP01055,5,91,7,6,2,8,8,Team player,Time management,No,2,8.61,2024-04-16
+REV00234,EMP01428,Q4 2024,EMP01043,3,70,6,3,8,7,3,Reliable and consistent,Technical depth,No,7,9.57,2024-03-09
+REV00235,EMP01964,Q3 2024,EMP01081,2,106,3,6,7,7,6,Great communicator,Stakeholder management,No,19,1.99,2023-06-23
+REV00236,EMP01675,Q1 2024,EMP01099,3,108,4,7,3,9,2,Team player,Technical depth,Yes,7,8.06,2023-01-25
+REV00237,EMP01275,Q2 2024,EMP01044,3,41,8,5,10,7,9,Customer focused,Technical depth,No,9,6.81,2023-10-30
+REV00238,EMP01620,Annual 2023,EMP01086,3,72,9,3,2,9,8,Team player,Strategic thinking,No,5,1.95,2023-05-11
+REV00239,EMP01481,Q3 2024,EMP01027,4,102,8,5,1,6,1,Team player,Time management,Yes,2,2.87,2024-11-12
+REV00240,EMP01549,Q3 2024,EMP01034,2,93,6,7,10,10,7,Team player,Strategic thinking,No,8,3.64,2024-05-18
+REV00241,EMP01117,Q2 2024,EMP01069,3,61,6,4,9,4,5,Great communicator,Time management,No,11,7.99,2023-05-19
+REV00242,EMP01889,Annual 2023,EMP01085,4,119,8,7,7,6,7,Problem solver,Documentation,Yes,13,8.36,2024-10-08
+REV00243,EMP01076,Annual 2024,EMP01063,3,117,4,4,7,8,8,Customer focused,Technical depth,Yes,3,1.3,2024-12-01
+REV00244,EMP01812,Q3 2024,EMP01035,3,100,2,2,9,3,1,Strong technical skills,Communication clarity,Yes,1,6.6,2023-09-09
+REV00245,EMP01488,Annual 2023,EMP01014,4,63,8,2,8,4,3,Strong technical skills,Communication clarity,Yes,0,4.93,2024-02-09
+REV00246,EMP01414,Q4 2023,EMP01025,4,52,9,5,8,9,9,Customer focused,Documentation,No,14,5.73,2024-06-08
+REV00247,EMP01444,Q3 2024,EMP01071,5,120,8,10,6,8,10,Customer focused,Time management,Yes,9,8.86,2023-03-30
+REV00248,EMP01663,Q4 2024,EMP01071,5,93,2,10,1,7,10,Problem solver,Communication clarity,No,11,1.87,2024-07-05
+REV00249,EMP01947,Annual 2024,EMP01096,4,66,3,8,9,7,7,Leadership potential,Strategic thinking,No,18,5.73,2023-05-30
+REV00250,EMP01032,Q1 2024,EMP01006,3,89,6,1,4,1,6,Problem solver,Technical depth,Yes,3,3.45,2023-06-22
+REV00251,EMP01064,Annual 2023,EMP01020,3,92,6,2,4,4,6,Problem solver,Strategic thinking,Yes,19,4.36,2024-03-23
+REV00252,EMP01080,Q2 2024,EMP01070,4,120,10,7,2,1,9,Innovative thinker,Documentation,No,5,7.8,2024-08-27
+REV00253,EMP01685,Q1 2024,EMP01087,3,80,4,9,7,9,8,Leadership potential,Time management,No,18,5.04,2024-05-17
+REV00254,EMP01545,Q2 2024,EMP01027,2,65,6,5,6,7,2,Innovative thinker,Documentation,No,3,4.1,2023-07-22
+REV00255,EMP01975,Q4 2024,EMP01022,4,78,9,10,10,6,4,Great communicator,Communication clarity,Yes,1,5.68,2023-12-06
+REV00256,EMP01838,Q1 2024,EMP01065,3,43,3,5,2,8,1,Team player,Stakeholder management,Yes,5,8.96,2024-05-17
+REV00257,EMP02057,Q2 2024,EMP01007,3,66,5,3,5,2,5,Customer focused,Time management,No,18,9.09,2024-02-07
+REV00258,EMP01240,Annual 2024,EMP01096,2,101,8,10,5,3,10,Problem solver,Time management,Yes,3,5.46,2024-05-22
+REV00259,EMP01397,Q4 2024,EMP01033,4,50,6,2,8,6,1,Customer focused,Documentation,No,13,3.12,2023-08-19
+REV00260,EMP01210,Q3 2024,EMP01058,4,75,10,7,2,10,7,Reliable and consistent,Time management,No,12,4.53,2024-05-07
+REV00261,EMP01134,Q3 2024,EMP01002,3,46,7,6,9,7,9,Leadership potential,Communication clarity,No,14,5.6,2024-12-14
+REV00262,EMP02098,Q4 2023,EMP01049,4,99,2,3,2,10,10,Team player,Documentation,No,2,5.43,2024-05-04
+REV00263,EMP01002,Annual 2023,EMP01097,5,41,1,3,3,8,10,Leadership potential,Communication clarity,Yes,9,4.03,2024-03-29
+REV00264,EMP01731,Annual 2024,EMP01038,3,65,1,1,4,10,9,Customer focused,Strategic thinking,Yes,13,9.89,2023-10-21
+REV00265,EMP01613,Q3 2024,EMP01095,5,79,10,2,9,7,9,Innovative thinker,Strategic thinking,No,15,7.27,2024-09-08
+REV00266,EMP02037,Q2 2024,EMP01061,4,40,4,10,3,3,7,Leadership potential,Strategic thinking,No,0,6.83,2023-07-31
+REV00267,EMP01676,Q3 2024,EMP01067,3,102,9,6,5,6,8,Leadership potential,Technical depth,No,0,6.22,2023-09-24
+REV00268,EMP02094,Q4 2023,EMP01098,3,42,9,2,4,3,3,Problem solver,Technical depth,No,11,1.17,2023-03-19
+REV00269,EMP01202,Q2 2024,EMP01077,3,79,4,6,1,10,5,Reliable and consistent,Technical depth,No,7,1.88,2024-08-06
+REV00270,EMP01222,Annual 2023,EMP01060,5,94,3,3,5,8,8,Leadership potential,Time management,No,17,2.37,2024-11-27
+REV00271,EMP01726,Q1 2024,EMP01022,4,48,1,1,3,5,6,Leadership potential,Technical depth,Yes,20,5.14,2024-08-24
+REV00272,EMP01353,Q4 2024,EMP01036,4,89,10,8,10,4,4,Team player,Communication clarity,No,6,7.52,2024-06-23
+REV00273,EMP01643,Annual 2024,EMP01055,4,66,9,7,9,10,9,Problem solver,Technical depth,No,3,9.64,2023-08-04
+REV00274,EMP01810,Annual 2024,EMP01089,4,108,2,7,6,3,3,Team player,Technical depth,Yes,15,8.27,2024-10-12
+REV00275,EMP01878,Annual 2024,EMP01091,4,70,8,9,8,4,6,Problem solver,Time management,No,19,5.7,2024-01-21
+REV00276,EMP01750,Q3 2024,EMP01041,5,116,7,1,4,4,5,Problem solver,Strategic thinking,No,11,1.52,2024-02-09
+REV00277,EMP01669,Q2 2024,EMP01033,5,59,7,7,3,9,2,Strong technical skills,Stakeholder management,No,14,5.11,2024-03-30
+REV00278,EMP02188,Annual 2024,EMP01039,4,92,8,4,10,8,2,Great communicator,Strategic thinking,Yes,11,6.87,2024-03-24
+REV00279,EMP01392,Q4 2023,EMP01081,4,113,10,4,4,1,6,Team player,Documentation,No,8,1.39,2024-03-10
+REV00280,EMP01232,Q3 2024,EMP01055,2,55,1,4,4,3,5,Customer focused,Stakeholder management,No,12,4.15,2024-06-24
+REV00281,EMP01782,Q3 2024,EMP01037,4,54,10,9,7,7,2,Team player,Communication clarity,No,9,1.19,2023-09-01
+REV00282,EMP01528,Q4 2023,EMP01041,3,99,7,4,10,9,6,Customer focused,Communication clarity,No,16,3.91,2023-01-12
+REV00283,EMP01671,Q2 2024,EMP01020,4,78,4,9,6,9,1,Strong technical skills,Strategic thinking,No,18,9.22,2024-03-15
+REV00284,EMP01627,Annual 2023,EMP01026,5,112,3,5,6,1,6,Great communicator,Technical depth,No,0,3.79,2024-04-23
+REV00285,EMP02094,Q2 2024,EMP01098,3,117,8,6,5,4,5,Reliable and consistent,Communication clarity,No,9,6.57,2024-02-06
+REV00286,EMP01147,Annual 2023,EMP01021,2,103,10,10,8,8,3,Problem solver,Communication clarity,No,13,3.77,2024-01-23
+REV00287,EMP02066,Annual 2023,EMP01032,2,81,4,4,1,1,3,Customer focused,Time management,No,14,7.98,2023-03-03
+REV00288,EMP01683,Annual 2024,EMP01037,3,118,8,7,10,4,9,Strong technical skills,Technical depth,Yes,8,4.23,2024-07-21
+REV00289,EMP01547,Annual 2023,EMP01077,4,41,2,7,9,2,3,Strong technical skills,Stakeholder management,Yes,0,1.49,2024-02-17
+REV00290,EMP01892,Annual 2024,EMP01047,4,119,2,6,6,9,6,Team player,Strategic thinking,No,4,8.8,2023-09-20
+REV00291,EMP01465,Q3 2024,EMP01029,5,83,3,4,3,3,2,Innovative thinker,Documentation,No,19,3.78,2023-03-27
+REV00292,EMP01279,Q4 2024,EMP01039,5,113,10,6,2,8,7,Team player,Communication clarity,Yes,7,5.96,2023-11-21
+REV00293,EMP01627,Q4 2024,EMP01026,3,45,8,1,6,7,10,Reliable and consistent,Documentation,Yes,0,8.56,2023-08-02
+REV00294,EMP01592,Q1 2024,EMP01036,4,48,3,9,8,5,1,Great communicator,Time management,No,6,9.83,2024-12-04
+REV00295,EMP01543,Q4 2024,EMP01089,4,69,9,3,2,5,6,Problem solver,Strategic thinking,No,16,6.25,2024-08-17
+REV00296,EMP01822,Q4 2023,EMP01016,2,113,4,1,3,9,5,Strong technical skills,Technical depth,No,2,5.52,2023-02-18
+REV00297,EMP01467,Q4 2023,EMP01066,5,111,4,2,10,2,3,Leadership potential,Time management,Yes,17,4.18,2024-06-24
+REV00298,EMP01824,Q4 2023,EMP01006,3,118,9,2,9,5,5,Strong technical skills,Strategic thinking,No,17,9.49,2024-03-14
+REV00299,EMP01512,Q3 2024,EMP01002,4,119,3,8,1,6,5,Customer focused,Technical depth,No,15,1.33,2024-02-13
+REV00300,EMP01551,Q2 2024,EMP01054,3,46,6,7,1,10,5,Innovative thinker,Documentation,No,3,4.25,2023-04-10
+REV00301,EMP01202,Annual 2024,EMP01077,5,68,6,1,7,7,6,Leadership potential,Stakeholder management,Yes,11,1.26,2023-12-24
+REV00302,EMP01902,Q1 2024,EMP01010,5,86,6,8,7,6,8,Team player,Stakeholder management,No,7,6.25,2024-09-08
+REV00303,EMP01449,Q4 2023,EMP01010,3,99,3,10,10,1,4,Reliable and consistent,Communication clarity,Yes,18,7.59,2024-02-01
+REV00304,EMP02192,Annual 2024,EMP01002,1,55,1,3,8,7,5,Customer focused,Time management,Yes,5,3.26,2024-10-29
+REV00305,EMP01337,Q2 2024,EMP01007,2,49,10,1,3,7,7,Problem solver,Communication clarity,No,14,2.73,2024-10-09
+REV00306,EMP01805,Q1 2024,EMP01081,4,71,1,10,9,4,2,Innovative thinker,Technical depth,No,7,5.42,2023-01-14
+REV00307,EMP01302,Q3 2024,EMP01006,3,65,3,9,8,5,3,Reliable and consistent,Stakeholder management,Yes,12,9.68,2024-07-19
+REV00308,EMP01568,Q4 2023,EMP01093,4,44,6,9,1,1,1,Reliable and consistent,Strategic thinking,No,11,9.29,2024-12-17
+REV00309,EMP02102,Q2 2024,EMP01040,4,81,8,6,1,2,6,Innovative thinker,Communication clarity,No,10,5.09,2023-04-20
+REV00310,EMP01814,Annual 2023,EMP01055,1,101,8,10,5,10,2,Innovative thinker,Strategic thinking,No,3,4.13,2024-10-11
+REV00311,EMP02149,Annual 2024,EMP01043,2,77,5,7,7,2,10,Reliable and consistent,Technical depth,Yes,14,1.84,2023-01-04
+REV00312,EMP01584,Q3 2024,EMP01005,3,58,7,7,7,9,9,Reliable and consistent,Technical depth,Yes,10,3.11,2024-10-11
+REV00313,EMP02002,Q4 2023,EMP01082,3,103,7,7,6,10,10,Reliable and consistent,Strategic thinking,No,1,2.52,2023-08-23
+REV00314,EMP01408,Q3 2024,EMP01051,5,56,4,9,2,7,3,Problem solver,Stakeholder management,No,8,5.59,2023-11-14
+REV00315,EMP01896,Annual 2023,EMP01011,2,90,2,5,7,3,9,Team player,Stakeholder management,No,10,5.84,2023-03-03
+REV00316,EMP01964,Q3 2024,EMP01081,4,65,2,6,2,4,2,Team player,Technical depth,No,3,8.34,2024-03-30
+REV00317,EMP01008,Q2 2024,EMP01063,4,100,4,5,5,8,10,Team player,Stakeholder management,No,5,3.04,2024-09-27
+REV00318,EMP02188,Annual 2023,EMP01039,2,88,2,10,7,9,3,Problem solver,Technical depth,No,17,4.07,2024-06-19
+REV00319,EMP02200,Q3 2024,EMP01010,4,55,4,6,8,5,1,Customer focused,Technical depth,No,8,1.25,2024-04-07
+REV00320,EMP01285,Q4 2024,EMP01091,4,113,7,2,8,6,7,Reliable and consistent,Stakeholder management,No,18,6.15,2023-02-26
+REV00321,EMP01557,Q1 2024,EMP01054,4,71,5,5,3,6,2,Great communicator,Strategic thinking,Yes,19,3.85,2023-12-08
+REV00322,EMP01455,Q1 2024,EMP01042,4,56,5,2,6,3,9,Leadership potential,Communication clarity,Yes,17,3.26,2023-03-10
+REV00323,EMP01616,Annual 2024,EMP01008,4,97,1,7,5,10,2,Innovative thinker,Technical depth,Yes,6,9.99,2024-05-19
+REV00324,EMP02009,Q3 2024,EMP01029,5,42,2,6,7,10,2,Innovative thinker,Stakeholder management,Yes,12,7.16,2023-11-02
+REV00325,EMP01114,Q3 2024,EMP01061,3,100,7,9,5,1,10,Great communicator,Communication clarity,Yes,2,6.66,2024-06-02
+REV00326,EMP01103,Q1 2024,EMP01098,4,102,2,10,6,8,2,Innovative thinker,Technical depth,Yes,9,6.25,2023-04-12
+REV00327,EMP01412,Q4 2024,EMP01069,5,85,6,9,4,9,8,Team player,Stakeholder management,No,1,9.6,2024-04-23
+REV00328,EMP01257,Q4 2024,EMP01017,3,49,9,1,9,5,4,Great communicator,Stakeholder management,No,9,5.77,2024-04-24
+REV00329,EMP02043,Q2 2024,EMP01069,5,42,10,10,1,8,1,Innovative thinker,Documentation,No,8,3.26,2023-01-04
+REV00330,EMP01348,Q1 2024,EMP01019,4,88,1,5,6,2,10,Strong technical skills,Strategic thinking,Yes,16,5.31,2023-08-05
+REV00331,EMP01080,Q1 2024,EMP01070,3,88,4,3,8,3,3,Team player,Stakeholder management,No,13,6.52,2023-11-28
+REV00332,EMP01091,Q3 2024,EMP01025,5,58,7,1,6,10,1,Innovative thinker,Stakeholder management,No,11,2.9,2023-05-25
+REV00333,EMP01243,Q4 2023,EMP01089,4,86,5,10,4,1,6,Team player,Strategic thinking,No,6,7.92,2024-01-14
+REV00334,EMP01140,Q2 2024,EMP01087,4,118,10,7,5,3,7,Strong technical skills,Documentation,No,1,7.44,2024-09-16
+REV00335,EMP01816,Q4 2024,EMP01033,4,60,8,5,1,6,2,Innovative thinker,Documentation,No,3,9.25,2024-02-01
+REV00336,EMP01429,Q1 2024,EMP01025,4,117,10,2,4,7,6,Leadership potential,Technical depth,Yes,20,9.8,2023-06-10
+REV00337,EMP02019,Q3 2024,EMP01071,5,62,7,1,1,7,3,Problem solver,Communication clarity,No,16,3.34,2024-01-04
+REV00338,EMP01668,Q4 2024,EMP01032,5,64,9,10,6,10,5,Reliable and consistent,Strategic thinking,No,5,2.4,2023-03-07
+REV00339,EMP01936,Q4 2023,EMP01083,3,102,6,3,10,5,10,Customer focused,Stakeholder management,Yes,12,4.3,2023-04-15
+REV00340,EMP01240,Q4 2024,EMP01096,5,105,10,6,7,4,9,Team player,Stakeholder management,No,13,4.81,2024-04-09
+REV00341,EMP01090,Q2 2024,EMP01023,2,40,2,3,3,2,4,Team player,Documentation,No,15,4.21,2023-08-04
+REV00342,EMP01936,Annual 2024,EMP01083,4,73,3,2,5,5,9,Team player,Technical depth,Yes,10,7.79,2024-04-09
+REV00343,EMP01425,Q4 2024,EMP01077,4,120,4,10,7,9,4,Problem solver,Technical depth,No,11,8.81,2023-08-09
+REV00344,EMP01058,Q4 2024,EMP01001,5,83,4,6,3,2,6,Great communicator,Stakeholder management,No,9,8.11,2024-03-06
+REV00345,EMP01036,Annual 2024,EMP01004,3,108,10,10,3,5,8,Great communicator,Technical depth,No,10,4.74,2023-04-18
+REV00346,EMP01031,Q4 2024,EMP01043,1,49,1,4,1,3,3,Great communicator,Documentation,No,6,6.24,2024-01-08
+REV00347,EMP01155,Q2 2024,EMP01095,2,93,10,9,4,3,4,Problem solver,Strategic thinking,Yes,8,1.89,2023-05-10
+REV00348,EMP01243,Q4 2023,EMP01089,5,120,3,7,3,2,5,Innovative thinker,Technical depth,No,15,1.96,2024-10-23
+REV00349,EMP01060,Q3 2024,EMP01066,3,119,7,8,9,8,8,Strong technical skills,Time management,Yes,20,4.18,2024-09-12
+REV00350,EMP01147,Q2 2024,EMP01021,3,108,5,3,4,3,7,Team player,Technical depth,Yes,8,4.73,2024-11-27
+REV00351,EMP01065,Q2 2024,EMP01099,3,89,10,4,2,1,6,Customer focused,Time management,No,14,3.23,2023-07-25
+REV00352,EMP02027,Q4 2024,EMP01085,2,77,6,6,3,8,9,Customer focused,Stakeholder management,No,20,4.43,2023-07-06
+REV00353,EMP01315,Q3 2024,EMP01055,3,114,4,1,10,10,10,Leadership potential,Strategic thinking,No,2,6.4,2024-01-18
+REV00354,EMP01024,Q4 2023,EMP01098,4,95,8,10,7,10,10,Team player,Documentation,No,3,9.99,2024-10-23
+REV00355,EMP01183,Annual 2023,EMP01099,4,111,8,5,7,2,3,Team player,Documentation,Yes,19,7.26,2023-01-09
+REV00356,EMP01058,Q2 2024,EMP01001,3,86,6,2,8,6,9,Leadership potential,Communication clarity,No,6,4.0,2023-07-27
+REV00357,EMP01244,Q4 2023,EMP01073,1,104,10,10,7,7,7,Leadership potential,Strategic thinking,Yes,17,8.5,2023-10-03
+REV00358,EMP01311,Q1 2024,EMP01003,2,60,2,1,7,6,2,Innovative thinker,Documentation,No,8,8.58,2023-07-31
+REV00359,EMP02149,Q4 2024,EMP01043,5,86,5,4,2,1,6,Reliable and consistent,Stakeholder management,No,2,6.97,2023-07-29
+REV00360,EMP01996,Q1 2024,EMP01029,5,58,8,6,10,7,1,Reliable and consistent,Strategic thinking,No,19,5.06,2023-07-13
+REV00361,EMP01484,Annual 2024,EMP01013,4,66,5,3,4,2,5,Innovative thinker,Technical depth,No,3,2.52,2024-12-25
+REV00362,EMP01797,Q4 2023,EMP01049,1,57,1,10,9,2,9,Strong technical skills,Documentation,Yes,1,6.88,2024-09-25
+REV00363,EMP01850,Q1 2024,EMP01060,3,78,2,5,1,6,1,Reliable and consistent,Time management,Yes,7,7.07,2024-05-05
+REV00364,EMP01921,Q3 2024,EMP01079,4,116,7,4,7,5,2,Problem solver,Communication clarity,No,9,5.07,2023-11-24
+REV00365,EMP02013,Q3 2024,EMP01090,4,113,3,5,6,4,10,Leadership potential,Time management,Yes,4,3.28,2024-07-03
+REV00366,EMP01124,Q4 2023,EMP01063,3,120,5,3,6,4,10,Leadership potential,Strategic thinking,Yes,20,2.67,2024-03-18
+REV00367,EMP01729,Annual 2024,EMP01038,3,112,2,9,9,2,3,Problem solver,Technical depth,No,12,2.11,2023-09-23
+REV00368,EMP01236,Annual 2024,EMP01099,4,117,8,1,3,1,10,Customer focused,Strategic thinking,Yes,19,4.92,2023-09-10
+REV00369,EMP01518,Annual 2024,EMP01076,5,80,10,2,2,8,6,Team player,Communication clarity,Yes,14,1.49,2024-11-17
+REV00370,EMP01509,Q2 2024,EMP01092,3,116,8,1,9,7,1,Innovative thinker,Documentation,No,14,7.87,2023-12-20
+REV00371,EMP01800,Q4 2023,EMP01002,3,87,4,8,2,8,3,Strong technical skills,Documentation,Yes,10,3.07,2023-08-21
+REV00372,EMP01041,Q1 2024,EMP01076,3,63,6,7,10,7,5,Customer focused,Technical depth,Yes,6,9.32,2023-08-30
+REV00373,EMP01104,Q1 2024,EMP01091,3,116,7,9,4,10,5,Innovative thinker,Communication clarity,No,13,6.9,2023-07-22
+REV00374,EMP01128,Q3 2024,EMP01031,3,67,1,10,10,1,4,Innovative thinker,Documentation,No,3,3.22,2023-12-31
+REV00375,EMP01552,Annual 2023,EMP01080,3,88,7,8,2,4,7,Innovative thinker,Stakeholder management,No,10,1.75,2023-11-05
+REV00376,EMP01474,Q2 2024,EMP01066,3,57,4,3,6,4,5,Reliable and consistent,Documentation,No,19,5.02,2024-09-19
+REV00377,EMP01825,Q2 2024,EMP01006,4,116,7,6,8,8,6,Team player,Documentation,No,11,2.59,2024-11-16
+REV00378,EMP01884,Q4 2023,EMP01087,1,89,5,1,7,5,2,Problem solver,Communication clarity,Yes,10,3.53,2023-06-09
+REV00379,EMP01449,Q3 2024,EMP01010,5,104,4,1,8,6,1,Great communicator,Stakeholder management,No,4,5.48,2023-01-22
+REV00380,EMP01279,Annual 2023,EMP01039,3,54,5,2,1,6,3,Leadership potential,Strategic thinking,No,6,8.39,2024-02-28
+REV00381,EMP01437,Q2 2024,EMP01070,4,59,2,3,7,5,6,Innovative thinker,Communication clarity,No,15,4.76,2024-10-25
+REV00382,EMP02124,Q4 2023,EMP01065,4,95,8,5,7,8,3,Leadership potential,Strategic thinking,No,13,7.38,2023-01-05
+REV00383,EMP02150,Q1 2024,EMP01074,4,66,4,3,8,10,9,Problem solver,Time management,No,0,2.54,2024-03-03
+REV00384,EMP01976,Annual 2024,EMP01076,4,117,10,7,2,5,10,Innovative thinker,Strategic thinking,Yes,17,4.17,2023-11-12
+REV00385,EMP02073,Q4 2023,EMP01054,3,55,7,1,4,9,5,Reliable and consistent,Documentation,No,12,1.26,2024-03-04
+REV00386,EMP01748,Q2 2024,EMP01098,5,104,8,10,6,7,2,Innovative thinker,Time management,Yes,18,9.22,2024-01-27
+REV00387,EMP01104,Annual 2023,EMP01091,5,118,3,10,4,3,6,Customer focused,Strategic thinking,No,1,9.2,2024-05-31
+REV00388,EMP01488,Annual 2024,EMP01014,5,94,10,1,4,1,4,Innovative thinker,Documentation,No,2,1.71,2023-02-20
+REV00389,EMP01201,Q4 2023,EMP01019,3,57,4,9,6,10,6,Great communicator,Documentation,No,18,6.64,2023-02-06
+REV00390,EMP01670,Q2 2024,EMP01019,3,66,4,6,9,3,4,Team player,Strategic thinking,No,19,7.08,2023-03-11
+REV00391,EMP01154,Annual 2023,EMP01061,2,70,10,10,8,8,4,Customer focused,Strategic thinking,No,14,5.96,2024-04-24
+REV00392,EMP01564,Q4 2023,EMP01002,5,60,4,7,1,9,5,Problem solver,Communication clarity,No,12,8.29,2024-02-22
+REV00393,EMP01478,Q1 2024,EMP01031,3,73,9,7,6,8,5,Team player,Time management,No,4,8.38,2024-01-27
+REV00394,EMP01765,Q1 2024,EMP01005,3,111,5,10,10,2,10,Customer focused,Communication clarity,Yes,5,8.59,2024-06-10
+REV00395,EMP01118,Q1 2024,EMP01087,3,40,9,5,4,4,10,Great communicator,Technical depth,Yes,18,7.35,2023-04-29
+REV00396,EMP02103,Q1 2024,EMP01041,4,96,10,7,4,4,1,Reliable and consistent,Time management,No,8,6.14,2023-12-14
+REV00397,EMP01080,Annual 2024,EMP01070,3,70,3,8,2,10,3,Strong technical skills,Communication clarity,No,8,9.79,2024-10-27
+REV00398,EMP01390,Annual 2024,EMP01016,5,92,2,7,10,4,7,Problem solver,Technical depth,Yes,16,7.67,2023-12-05
+REV00399,EMP01167,Annual 2023,EMP01089,4,69,3,4,9,2,4,Customer focused,Time management,Yes,15,7.41,2023-10-29
+REV00400,EMP01114,Q1 2024,EMP01032,4,60,3,7,6,10,5,Great communicator,Documentation,Yes,4,4.24,2024-06-30
+REV00401,EMP01307,Q4 2024,EMP01013,3,95,4,6,8,9,2,Great communicator,Stakeholder management,Yes,8,7.43,2024-02-25
+REV00402,EMP01721,Q3 2024,EMP01062,2,64,3,10,1,2,1,Problem solver,Strategic thinking,Yes,10,5.69,2024-11-21
+REV00403,EMP01496,Annual 2023,EMP01070,2,52,9,6,9,2,2,Strong technical skills,Time management,Yes,12,1.41,2023-07-15
+REV00404,EMP02121,Annual 2023,EMP01059,3,83,10,7,9,3,9,Strong technical skills,Time management,Yes,1,5.84,2023-05-24
+REV00405,EMP02014,Q2 2024,EMP01046,3,69,2,7,8,7,7,Strong technical skills,Communication clarity,No,3,4.57,2024-08-20
+REV00406,EMP01265,Q4 2023,EMP01068,5,111,9,5,8,9,8,Great communicator,Strategic thinking,Yes,19,2.79,2024-06-28
+REV00407,EMP01340,Q3 2024,EMP01007,4,96,1,6,2,1,5,Customer focused,Communication clarity,Yes,20,5.99,2023-07-09
+REV00408,EMP01753,Q2 2024,EMP01013,3,50,5,9,3,5,2,Innovative thinker,Documentation,No,0,3.47,2023-10-30
+REV00409,EMP01450,Q4 2023,EMP01098,4,108,10,5,3,6,10,Leadership potential,Communication clarity,Yes,18,9.39,2023-01-17
+REV00410,EMP02110,Q1 2024,EMP01021,5,115,8,7,9,10,4,Team player,Technical depth,Yes,0,1.55,2023-04-17
+REV00411,EMP01904,Q3 2024,EMP01012,4,65,1,4,1,8,7,Leadership potential,Time management,No,0,4.48,2023-04-19
+REV00412,EMP01562,Annual 2023,EMP01022,4,111,5,7,5,9,3,Strong technical skills,Strategic thinking,No,15,2.14,2023-11-13
+REV00413,EMP02124,Q4 2024,EMP01065,5,49,9,2,9,7,10,Leadership potential,Strategic thinking,No,7,8.03,2023-09-18
+REV00414,EMP01380,Q1 2024,EMP01059,3,96,3,5,8,8,3,Great communicator,Communication clarity,No,13,8.68,2024-10-27
+REV00415,EMP01580,Q2 2024,EMP01095,1,114,2,7,1,5,10,Innovative thinker,Time management,No,5,8.78,2023-03-11
+REV00416,EMP01913,Q1 2024,EMP01009,3,89,7,9,7,4,8,Problem solver,Time management,No,11,8.08,2024-08-12
+REV00417,EMP01315,Annual 2024,EMP01045,4,72,1,5,8,1,6,Customer focused,Time management,No,13,3.86,2023-12-21
+REV00418,EMP01556,Annual 2024,EMP01046,5,75,2,7,6,7,7,Leadership potential,Stakeholder management,Yes,10,5.13,2023-04-25
+REV00419,EMP01124,Annual 2024,EMP01063,2,44,8,1,2,9,1,Reliable and consistent,Documentation,No,18,2.73,2024-01-12
+REV00420,EMP01827,Q4 2023,EMP01031,4,115,3,7,3,6,6,Problem solver,Technical depth,No,13,1.7,2023-01-29
+REV00421,EMP02040,Annual 2023,EMP01080,5,70,4,6,10,9,5,Strong technical skills,Strategic thinking,No,2,5.54,2024-11-19
+REV00422,EMP02110,Annual 2023,EMP01021,4,106,4,1,5,4,5,Problem solver,Communication clarity,No,19,8.87,2024-05-22
+REV00423,EMP01787,Q3 2024,EMP01008,3,55,1,2,4,4,10,Team player,Time management,No,0,3.53,2023-02-18
+REV00424,EMP01366,Q4 2023,EMP01025,5,93,6,9,5,10,1,Great communicator,Technical depth,Yes,10,4.89,2023-01-01
+REV00425,EMP01217,Annual 2024,EMP01003,3,110,8,1,10,1,10,Reliable and consistent,Strategic thinking,Yes,4,7.14,2024-04-17
+REV00426,EMP02074,Q4 2024,EMP01019,4,74,7,4,7,10,2,Great communicator,Strategic thinking,No,16,4.78,2023-10-01
+REV00427,EMP01771,Annual 2024,EMP01069,4,88,3,7,10,7,2,Leadership potential,Documentation,No,12,9.58,2024-11-18
+REV00428,EMP01682,Q1 2024,EMP01043,4,98,6,3,10,7,10,Innovative thinker,Documentation,No,12,6.61,2024-01-02
+REV00429,EMP01402,Annual 2023,EMP01006,4,118,8,9,9,2,5,Great communicator,Documentation,No,8,3.95,2023-06-17
+REV00430,EMP02168,Q4 2023,EMP01065,4,100,1,6,1,9,8,Reliable and consistent,Technical depth,Yes,10,4.87,2023-09-29
+REV00431,EMP01435,Annual 2024,EMP01069,2,108,9,7,8,9,10,Reliable and consistent,Time management,Yes,7,8.98,2023-04-26
+REV00432,EMP01838,Q2 2024,EMP01065,4,47,8,5,2,5,3,Strong technical skills,Time management,No,8,8.53,2024-11-03
+REV00433,EMP02157,Q4 2024,EMP01002,5,67,9,3,9,2,5,Strong technical skills,Technical depth,No,5,3.81,2024-06-29
+REV00434,EMP01630,Annual 2023,EMP01024,4,85,8,3,4,7,3,Customer focused,Communication clarity,No,1,5.51,2024-08-07
+REV00435,EMP01023,Q2 2024,EMP01031,3,77,5,7,9,5,4,Problem solver,Time management,Yes,19,3.9,2024-09-07
+REV00436,EMP01561,Q4 2024,EMP01034,3,102,8,4,1,8,10,Strong technical skills,Strategic thinking,No,2,7.26,2024-08-07
+REV00437,EMP01889,Annual 2023,EMP01085,5,104,5,7,8,7,2,Customer focused,Time management,No,18,4.35,2023-04-05
+REV00438,EMP02101,Q1 2024,EMP01028,4,84,7,3,6,8,7,Problem solver,Time management,Yes,20,6.36,2023-05-26
+REV00439,EMP01764,Q1 2024,EMP01094,3,115,6,6,1,1,1,Innovative thinker,Technical depth,Yes,2,4.1,2024-01-27
+REV00440,EMP01996,Q2 2024,EMP01029,1,87,8,3,8,6,7,Problem solver,Communication clarity,Yes,5,2.02,2023-11-23
+REV00441,EMP01787,Q4 2024,EMP01008,3,111,4,10,1,6,4,Customer focused,Time management,Yes,7,6.78,2024-12-26
+REV00442,EMP01567,Annual 2023,EMP01030,4,98,3,1,4,3,5,Team player,Communication clarity,No,20,5.19,2024-05-08
+REV00443,EMP01530,Q4 2023,EMP01060,4,118,5,7,7,9,6,Team player,Communication clarity,Yes,3,9.71,2023-10-28
+REV00444,EMP01731,Q3 2024,EMP01038,3,111,10,9,9,1,8,Customer focused,Technical depth,No,20,9.42,2024-03-23
+REV00445,EMP02165,Q3 2024,EMP01053,4,96,9,6,7,5,6,Great communicator,Documentation,No,5,3.49,2024-04-04
+REV00446,EMP01825,Q2 2024,EMP01006,3,108,3,10,9,6,2,Leadership potential,Technical depth,No,5,7.0,2024-05-17
+REV00447,EMP01302,Q3 2024,EMP01006,2,110,8,8,9,7,4,Innovative thinker,Documentation,Yes,8,3.56,2024-05-04
+REV00448,EMP01975,Q4 2023,EMP01022,3,96,7,4,10,8,2,Strong technical skills,Communication clarity,Yes,16,5.83,2023-07-03
+REV00449,EMP01717,Q4 2023,EMP01097,5,93,1,7,9,9,9,Leadership potential,Stakeholder management,Yes,5,9.56,2023-12-05
+REV00450,EMP02003,Annual 2023,EMP01090,1,81,8,9,5,7,3,Problem solver,Time management,No,6,3.36,2024-02-21
+REV00451,EMP01483,Q1 2024,EMP01016,4,91,6,2,6,4,2,Problem solver,Time management,Yes,2,7.09,2023-08-28
+REV00452,EMP02041,Q4 2024,EMP01077,2,118,9,8,10,1,9,Leadership potential,Documentation,No,13,3.83,2023-04-21
+REV00453,EMP01934,Q3 2024,EMP01069,3,92,1,2,8,1,6,Team player,Strategic thinking,No,14,1.33,2024-12-05
+REV00454,EMP01487,Q3 2024,EMP01007,4,61,3,7,5,2,3,Innovative thinker,Stakeholder management,Yes,10,2.39,2024-11-04
+REV00455,EMP02074,Q4 2024,EMP01019,3,102,9,8,4,6,2,Leadership potential,Strategic thinking,No,4,1.05,2023-07-04
+REV00456,EMP01235,Annual 2024,EMP01041,5,55,2,4,2,9,1,Strong technical skills,Communication clarity,Yes,8,6.41,2023-02-22
+REV00457,EMP01053,Annual 2023,EMP01078,4,108,5,8,6,6,6,Customer focused,Documentation,No,7,3.61,2024-10-22
+REV00458,EMP01316,Q2 2024,EMP01026,4,69,10,2,4,3,2,Team player,Stakeholder management,No,18,8.31,2023-09-26
+REV00459,EMP01910,Q4 2024,EMP01025,3,115,9,1,9,5,7,Customer focused,Communication clarity,No,18,9.82,2024-04-09
+REV00460,EMP01462,Q4 2024,EMP01024,3,82,7,3,8,2,4,Customer focused,Time management,No,8,9.23,2024-02-06
+REV00461,EMP01888,Q4 2024,EMP01070,3,112,9,10,1,10,1,Leadership potential,Stakeholder management,Yes,18,3.67,2024-06-21
+REV00462,EMP01289,Q1 2024,EMP01054,5,58,7,5,7,6,9,Customer focused,Communication clarity,Yes,8,7.83,2024-02-03
+REV00463,EMP01359,Q1 2024,EMP01069,2,107,5,3,1,10,3,Customer focused,Technical depth,No,7,7.17,2023-02-15
+REV00464,EMP01858,Q4 2024,EMP01038,2,50,3,3,1,3,2,Reliable and consistent,Documentation,Yes,4,6.81,2024-06-03
+REV00465,EMP01513,Q1 2024,EMP01076,3,105,5,1,6,5,2,Leadership potential,Documentation,Yes,5,9.97,2024-05-15
+REV00466,EMP01012,Q1 2024,EMP01032,4,97,8,8,6,2,10,Strong technical skills,Time management,No,5,2.43,2024-03-17
+REV00467,EMP01044,Q4 2023,EMP01033,3,99,9,5,4,3,7,Customer focused,Technical depth,No,9,4.8,2024-10-13
+REV00468,EMP01324,Q1 2024,EMP01094,4,66,3,4,4,9,6,Innovative thinker,Communication clarity,No,13,9.63,2024-05-07
+REV00469,EMP01348,Q1 2024,EMP01019,4,110,6,9,3,2,10,Leadership potential,Documentation,Yes,10,6.42,2024-09-19
+REV00470,EMP01609,Q4 2024,EMP01006,2,74,4,2,3,2,3,Reliable and consistent,Technical depth,No,16,6.52,2023-07-20
+REV00471,EMP02074,Q4 2024,EMP01019,3,66,1,8,9,2,5,Great communicator,Communication clarity,Yes,14,1.19,2024-02-27
+REV00472,EMP01650,Q1 2024,EMP01056,4,119,3,5,5,6,5,Customer focused,Technical depth,No,14,1.62,2023-08-25
+REV00473,EMP01159,Q3 2024,EMP01098,5,93,9,8,4,2,1,Problem solver,Technical depth,No,12,8.24,2023-11-21
+REV00474,EMP01876,Annual 2023,EMP01024,5,69,10,5,7,9,5,Reliable and consistent,Strategic thinking,No,3,8.27,2024-08-09
+REV00475,EMP01026,Q2 2024,EMP01033,5,111,6,9,8,3,7,Team player,Documentation,No,15,4.15,2023-07-11
+REV00476,EMP01705,Annual 2023,EMP01012,2,59,7,5,3,2,1,Problem solver,Communication clarity,No,14,8.33,2024-06-12
+REV00477,EMP01795,Q1 2024,EMP01070,4,95,7,5,10,8,1,Leadership potential,Documentation,No,10,6.21,2024-09-27
+REV00478,EMP01004,Annual 2023,EMP01041,4,120,2,10,7,5,4,Team player,Technical depth,No,4,2.7,2023-12-08
+REV00479,EMP02154,Q1 2024,EMP01082,3,49,2,9,8,1,1,Strong technical skills,Time management,No,4,2.61,2023-02-26
+REV00480,EMP01520,Q2 2024,EMP01042,2,61,1,9,10,4,10,Reliable and consistent,Stakeholder management,Yes,16,6.14,2023-02-01
+REV00481,EMP01431,Q4 2023,EMP01097,3,97,2,1,2,5,8,Problem solver,Technical depth,No,11,9.07,2024-09-20
+REV00482,EMP02055,Q1 2024,EMP01052,4,102,4,10,1,7,7,Reliable and consistent,Time management,No,16,5.78,2024-05-29
+REV00483,EMP01528,Q4 2023,EMP01041,4,44,3,8,4,2,7,Strong technical skills,Communication clarity,Yes,1,2.38,2023-11-09
+REV00484,EMP01495,Q1 2024,EMP01016,3,65,3,8,1,6,3,Innovative thinker,Time management,No,19,8.32,2024-10-12
+REV00485,EMP02085,Q3 2024,EMP01086,3,78,7,9,7,7,8,Leadership potential,Documentation,Yes,13,6.53,2023-05-03
+REV00486,EMP01410,Q2 2024,EMP01005,4,79,1,1,1,1,2,Team player,Stakeholder management,Yes,6,5.03,2023-10-05
+REV00487,EMP01702,Annual 2023,EMP01013,1,100,4,9,3,4,3,Problem solver,Technical depth,No,7,3.01,2024-03-13
+REV00488,EMP02141,Annual 2024,EMP01028,5,58,4,4,5,6,1,Great communicator,Technical depth,Yes,3,5.24,2024-02-19
+REV00489,EMP01533,Q4 2023,EMP01007,4,93,7,2,1,1,1,Strong technical skills,Technical depth,No,2,8.67,2023-05-06
+REV00490,EMP01769,Q4 2023,EMP01068,3,74,8,10,4,10,4,Team player,Technical depth,No,18,1.77,2023-02-27
+REV00491,EMP01188,Q4 2023,EMP01063,5,89,4,2,6,6,6,Strong technical skills,Documentation,Yes,16,5.33,2024-05-25
+REV00492,EMP02128,Q3 2024,EMP01097,4,52,4,2,9,4,9,Problem solver,Communication clarity,No,1,6.99,2024-07-04
+REV00493,EMP01413,Q3 2024,EMP01065,3,108,6,1,2,4,9,Great communicator,Communication clarity,No,11,7.43,2024-11-23
+REV00494,EMP01438,Annual 2024,EMP01015,2,79,3,10,4,3,7,Innovative thinker,Technical depth,No,1,1.59,2024-04-04
+REV00495,EMP01368,Q2 2024,EMP01089,5,102,1,2,1,7,6,Team player,Stakeholder management,Yes,11,3.65,2024-08-01
+REV00496,EMP01700,Q1 2024,EMP01024,4,69,2,1,9,3,7,Problem solver,Documentation,No,14,3.82,2024-09-04
+REV00497,EMP01882,Annual 2023,EMP01068,4,40,7,1,5,2,9,Leadership potential,Strategic thinking,No,0,6.5,2024-01-04
+REV00498,EMP01556,Q4 2023,EMP01046,5,52,2,9,3,9,10,Problem solver,Time management,Yes,15,3.82,2024-03-17
+REV00499,EMP01444,Q2 2024,EMP01071,3,70,1,10,8,6,4,Team player,Documentation,No,6,2.02,2023-09-26
+REV00500,EMP01841,Annual 2024,EMP01047,5,57,9,10,7,10,2,Leadership potential,Time management,No,10,6.82,2024-07-12
+REV00501,EMP01624,Q2 2024,EMP01032,3,80,5,10,7,5,3,Problem solver,Time management,No,18,9.02,2024-08-10
+REV00502,EMP01974,Q2 2024,EMP01020,3,83,9,4,1,1,4,Reliable and consistent,Strategic thinking,Yes,17,7.99,2024-01-13
+REV00503,EMP01582,Annual 2023,EMP01094,5,71,5,5,10,2,1,Reliable and consistent,Communication clarity,Yes,17,9.23,2023-09-03
+REV00504,EMP01127,Q4 2024,EMP01012,5,63,8,3,8,8,9,Team player,Technical depth,Yes,15,6.25,2024-12-03
+REV00505,EMP01916,Annual 2024,EMP01025,2,104,2,9,2,7,8,Great communicator,Stakeholder management,No,3,2.07,2023-08-20
+REV00506,EMP01417,Q1 2024,EMP01071,3,102,4,7,2,8,5,Reliable and consistent,Stakeholder management,Yes,3,5.26,2024-09-20
+REV00507,EMP01100,Q4 2024,EMP01035,4,40,1,1,1,1,2,Team player,Communication clarity,Yes,20,2.52,2023-05-01
+REV00508,EMP01408,Annual 2024,EMP01051,4,42,5,1,2,2,4,Problem solver,Time management,Yes,20,6.03,2023-03-21
+REV00509,EMP01843,Q2 2024,EMP01002,4,102,3,5,5,4,8,Leadership potential,Technical depth,Yes,12,1.68,2023-11-14
+REV00510,EMP01616,Q4 2024,EMP01008,4,52,6,9,4,4,7,Reliable and consistent,Strategic thinking,No,9,5.39,2023-02-15
+REV00511,EMP01921,Q4 2024,EMP01079,2,105,8,2,10,3,10,Strong technical skills,Strategic thinking,No,7,9.49,2023-05-15
+REV00512,EMP02087,Q4 2023,EMP01042,3,55,10,8,9,10,7,Great communicator,Communication clarity,No,12,4.7,2024-09-23
+REV00513,EMP01843,Q1 2024,EMP01002,3,113,10,3,8,8,1,Leadership potential,Documentation,No,11,5.1,2023-10-31
+REV00514,EMP01784,Annual 2023,EMP01070,3,116,8,8,6,10,8,Customer focused,Stakeholder management,No,6,7.23,2024-10-03
+REV00515,EMP01735,Q1 2024,EMP01076,1,99,6,1,7,9,3,Team player,Documentation,No,15,3.12,2023-08-18
+REV00516,EMP01823,Q2 2024,EMP01040,3,76,2,3,7,8,9,Leadership potential,Technical depth,No,1,5.02,2024-10-22
+REV00517,EMP01791,Q3 2024,EMP01004,3,91,1,6,3,2,8,Team player,Communication clarity,Yes,7,2.96,2024-10-15
+REV00518,EMP01485,Q4 2024,EMP01013,4,111,10,3,9,9,1,Problem solver,Documentation,No,18,6.91,2023-12-21
+REV00519,EMP01486,Annual 2024,EMP01073,4,103,7,10,4,1,9,Team player,Stakeholder management,Yes,14,6.39,2024-08-19
+REV00520,EMP02062,Q1 2024,EMP01036,5,116,1,7,3,4,2,Reliable and consistent,Documentation,Yes,7,7.96,2023-10-28
+REV00521,EMP01913,Q1 2024,EMP01073,5,79,8,1,9,5,9,Leadership potential,Stakeholder management,Yes,3,7.33,2023-06-12
+REV00522,EMP01433,Q4 2024,EMP01079,4,80,10,7,4,5,4,Leadership potential,Technical depth,Yes,19,3.26,2024-03-03
+REV00523,EMP01206,Annual 2023,EMP01080,4,90,8,3,5,1,9,Leadership potential,Communication clarity,No,15,1.51,2024-12-31
+REV00524,EMP01365,Q2 2024,EMP01053,5,87,7,7,8,1,2,Great communicator,Strategic thinking,No,3,5.18,2023-01-08
+REV00525,EMP01398,Annual 2024,EMP01063,3,118,10,10,3,1,8,Great communicator,Strategic thinking,No,17,9.4,2023-01-23
+REV00526,EMP01221,Q2 2024,EMP01069,2,53,9,10,7,1,6,Strong technical skills,Communication clarity,Yes,12,1.98,2024-10-11
+REV00527,EMP01132,Q4 2023,EMP01022,3,51,8,5,2,5,7,Reliable and consistent,Technical depth,Yes,10,1.77,2023-07-07
+REV00528,EMP01366,Annual 2024,EMP01025,3,83,6,10,2,7,5,Great communicator,Technical depth,No,12,2.74,2024-12-07
+REV00529,EMP01287,Q4 2023,EMP01100,3,105,7,5,9,7,6,Strong technical skills,Time management,No,9,3.36,2023-11-30
+REV00530,EMP01262,Annual 2024,EMP01054,3,40,2,10,2,7,6,Team player,Stakeholder management,Yes,14,1.18,2024-02-07
+REV00531,EMP01950,Q4 2023,EMP01060,4,120,8,8,9,2,4,Innovative thinker,Time management,Yes,10,2.35,2023-10-10
+REV00532,EMP01795,Q4 2023,EMP01070,3,114,2,6,4,6,1,Strong technical skills,Documentation,Yes,6,9.67,2023-03-19
+REV00533,EMP01757,Q3 2024,EMP01097,1,88,4,10,3,10,5,Leadership potential,Technical depth,Yes,6,2.3,2024-04-11
+REV00534,EMP01127,Q1 2024,EMP01012,1,119,10,2,3,7,5,Team player,Strategic thinking,Yes,15,7.4,2024-09-16
+REV00535,EMP01815,Q1 2024,EMP01074,5,42,6,1,10,2,7,Team player,Communication clarity,No,4,6.93,2024-02-05
+REV00536,EMP01187,Q3 2024,EMP01093,4,68,3,9,7,6,8,Great communicator,Time management,No,5,7.37,2024-08-10
+REV00537,EMP02085,Q1 2024,EMP01086,2,67,1,1,7,3,4,Great communicator,Strategic thinking,No,20,6.6,2023-10-02
+REV00538,EMP01526,Q1 2024,EMP01029,3,113,2,8,8,7,2,Leadership potential,Time management,No,19,8.29,2023-04-08
+REV00539,EMP01678,Q2 2024,EMP01036,4,59,4,4,6,10,2,Team player,Documentation,No,11,2.86,2024-01-18
+REV00540,EMP01366,Q3 2024,EMP01025,3,109,8,3,5,6,1,Innovative thinker,Documentation,Yes,18,3.28,2023-09-30
+REV00541,EMP02165,Q4 2023,EMP01053,4,51,7,9,3,9,10,Problem solver,Time management,No,20,2.16,2023-10-20
+REV00542,EMP01558,Q4 2024,EMP01060,3,52,7,4,7,3,10,Customer focused,Time management,No,16,4.88,2024-10-19
+REV00543,EMP01417,Annual 2023,EMP01071,5,96,4,3,3,4,3,Problem solver,Technical depth,No,13,2.8,2024-07-23
+REV00544,EMP02060,Q2 2024,EMP01051,4,50,3,6,5,2,5,Reliable and consistent,Communication clarity,No,15,9.47,2024-07-08
+REV00545,EMP01412,Q4 2023,EMP01069,3,40,5,5,8,5,2,Customer focused,Stakeholder management,Yes,6,3.46,2023-03-21
+REV00546,EMP01005,Q3 2024,EMP01021,4,78,1,7,6,3,6,Team player,Communication clarity,No,7,6.69,2023-10-02
+REV00547,EMP01439,Annual 2024,EMP01088,3,108,4,5,6,2,10,Reliable and consistent,Technical depth,Yes,17,6.87,2024-09-10
+REV00548,EMP01649,Q4 2023,EMP01004,3,73,8,3,9,2,6,Customer focused,Time management,No,13,2.6,2024-12-31
+REV00549,EMP01001,Q1 2024,EMP01092,4,62,3,1,5,4,8,Customer focused,Time management,Yes,19,8.79,2024-07-15
+REV00550,EMP01683,Q2 2024,EMP01037,3,72,10,3,7,2,6,Problem solver,Strategic thinking,No,0,3.9,2024-03-11
+REV00551,EMP01799,Q2 2024,EMP01094,2,111,1,9,3,1,8,Strong technical skills,Strategic thinking,No,16,9.08,2023-06-25
+REV00552,EMP01058,Q4 2024,EMP01001,5,85,3,2,1,10,5,Problem solver,Communication clarity,Yes,8,5.42,2023-03-25
+REV00553,EMP01308,Q1 2024,EMP01070,4,102,10,3,10,10,1,Problem solver,Technical depth,Yes,0,1.14,2024-11-19
+REV00554,EMP01249,Q2 2024,EMP01072,4,111,3,6,8,10,10,Team player,Technical depth,No,8,9.36,2023-06-22
+REV00555,EMP01623,Annual 2024,EMP01047,1,62,3,5,1,9,1,Customer focused,Stakeholder management,Yes,0,3.1,2024-06-30
+REV00556,EMP01152,Q4 2023,EMP01034,2,84,1,7,9,6,3,Innovative thinker,Stakeholder management,Yes,16,5.59,2024-07-29
+REV00557,EMP02172,Q4 2024,EMP01094,3,113,3,1,9,6,2,Reliable and consistent,Time management,No,4,6.82,2024-06-06
+REV00558,EMP01603,Q4 2023,EMP01072,5,42,10,10,10,8,5,Innovative thinker,Time management,Yes,14,1.99,2024-08-19
+REV00559,EMP01094,Q2 2024,EMP01074,3,104,8,4,8,3,6,Strong technical skills,Time management,No,10,6.42,2024-03-12
+REV00560,EMP01733,Q3 2024,EMP01002,4,66,5,4,3,10,8,Leadership potential,Documentation,No,2,4.02,2024-11-03
+REV00561,EMP01270,Annual 2024,EMP01094,5,83,10,10,6,8,2,Innovative thinker,Stakeholder management,No,1,1.4,2023-04-01
+REV00562,EMP01874,Annual 2024,EMP01011,4,46,4,6,4,4,7,Team player,Technical depth,No,4,2.03,2024-04-26
+REV00563,EMP01262,Q2 2024,EMP01054,3,83,2,6,6,9,9,Leadership potential,Stakeholder management,No,3,9.85,2024-10-26
+REV00564,EMP01402,Annual 2023,EMP01006,3,99,1,7,2,2,6,Innovative thinker,Communication clarity,Yes,3,8.6,2024-12-14
+REV00565,EMP01758,Annual 2024,EMP01064,4,83,10,5,10,2,10,Problem solver,Documentation,No,10,7.04,2023-12-10
+REV00566,EMP01173,Q4 2023,EMP01078,3,90,7,7,5,9,2,Innovative thinker,Communication clarity,Yes,6,8.1,2023-09-28
+REV00567,EMP01038,Annual 2024,EMP01007,4,51,10,9,1,2,2,Strong technical skills,Stakeholder management,No,17,2.48,2023-10-08
+REV00568,EMP01401,Q2 2024,EMP01008,3,84,5,10,6,2,9,Great communicator,Documentation,No,15,5.51,2024-11-10
+REV00569,EMP01483,Annual 2024,EMP01016,3,97,10,2,6,5,4,Leadership potential,Strategic thinking,No,1,9.03,2023-08-07
+REV00570,EMP01400,Q3 2024,EMP01078,4,108,10,4,1,5,10,Innovative thinker,Time management,No,1,6.47,2023-03-13
+REV00571,EMP01055,Q1 2024,EMP01098,3,81,7,10,9,2,10,Team player,Communication clarity,No,2,4.58,2024-08-26
+REV00572,EMP02107,Q2 2024,EMP01094,3,89,5,1,4,1,8,Reliable and consistent,Time management,Yes,18,8.37,2024-08-03
+REV00573,EMP01044,Annual 2023,EMP01033,5,75,1,9,2,1,7,Customer focused,Time management,Yes,18,1.94,2024-09-30
+REV00574,EMP01543,Q3 2024,EMP01089,2,81,10,3,1,9,7,Reliable and consistent,Communication clarity,No,9,6.21,2023-12-29
+REV00575,EMP02012,Q3 2024,EMP01005,4,65,10,4,2,9,6,Leadership potential,Stakeholder management,Yes,8,8.96,2023-09-09
+REV00576,EMP01376,Q4 2023,EMP01025,5,53,3,7,9,9,9,Great communicator,Time management,No,20,9.3,2024-10-07
+REV00577,EMP02082,Q4 2024,EMP01059,5,120,4,3,1,2,10,Customer focused,Time management,No,0,5.41,2024-06-21
+REV00578,EMP01179,Q4 2023,EMP01096,4,56,4,3,6,6,9,Great communicator,Time management,No,20,2.05,2024-03-26
+REV00579,EMP01669,Q4 2023,EMP01033,2,86,2,9,1,8,9,Innovative thinker,Technical depth,No,8,4.5,2024-03-21
+REV00580,EMP02144,Annual 2023,EMP01046,4,42,1,5,3,6,10,Customer focused,Stakeholder management,Yes,15,1.83,2023-12-13
+REV00581,EMP01380,Q3 2024,EMP01059,5,109,5,8,10,6,2,Leadership potential,Time management,Yes,18,8.68,2024-09-22
+REV00582,EMP01032,Annual 2024,EMP01006,2,73,1,10,1,6,5,Innovative thinker,Technical depth,No,13,2.53,2024-01-19
+REV00583,EMP01212,Annual 2024,EMP01047,2,84,4,9,10,8,4,Strong technical skills,Stakeholder management,No,12,7.69,2024-05-12
+REV00584,EMP01517,Annual 2023,EMP01011,3,72,5,3,1,4,2,Reliable and consistent,Stakeholder management,No,18,5.44,2024-02-19
+REV00585,EMP01504,Annual 2024,EMP01072,2,56,5,6,1,8,8,Team player,Stakeholder management,No,10,1.38,2024-09-30
+REV00586,EMP01611,Annual 2023,EMP01004,4,53,10,3,3,8,2,Leadership potential,Stakeholder management,No,6,8.71,2024-09-13
+REV00587,EMP01941,Q2 2024,EMP01063,3,93,1,2,8,8,3,Leadership potential,Technical depth,Yes,16,1.61,2023-07-28
+REV00588,EMP01187,Annual 2024,EMP01093,5,52,4,6,5,3,8,Strong technical skills,Time management,No,4,2.92,2024-10-23
+REV00589,EMP02133,Annual 2024,EMP01054,2,120,1,1,3,6,4,Strong technical skills,Technical depth,No,15,7.61,2023-01-18
+REV00590,EMP02141,Q4 2023,EMP01028,2,87,4,4,2,2,6,Leadership potential,Technical depth,No,7,3.91,2024-02-29
+REV00591,EMP01259,Annual 2024,EMP01064,5,111,8,6,4,2,9,Innovative thinker,Strategic thinking,No,7,4.41,2024-07-30
+REV00592,EMP01222,Q1 2024,EMP01060,3,115,7,5,6,9,8,Great communicator,Stakeholder management,No,6,6.85,2023-08-03
+REV00593,EMP02051,Q1 2024,EMP01027,5,60,2,7,9,9,1,Customer focused,Time management,Yes,16,2.4,2023-03-27
+REV00594,EMP02023,Annual 2024,EMP01012,5,82,6,8,5,2,3,Reliable and consistent,Time management,No,3,5.9,2023-07-15
+REV00595,EMP02014,Q2 2024,EMP01046,3,49,8,10,2,10,5,Innovative thinker,Documentation,Yes,20,4.29,2024-04-29
+REV00596,EMP01630,Annual 2023,EMP01024,3,114,7,3,6,4,7,Customer focused,Time management,Yes,15,2.11,2023-05-20
+REV00597,EMP01068,Q2 2024,EMP01004,3,86,8,5,2,8,6,Leadership potential,Technical depth,No,5,2.87,2023-01-06
+REV00598,EMP01074,Q2 2024,EMP01055,3,62,3,4,8,2,7,Leadership potential,Technical depth,No,6,6.96,2023-07-17
+REV00599,EMP02074,Annual 2024,EMP01019,5,85,2,10,10,10,8,Problem solver,Time management,Yes,2,3.85,2024-09-20
+REV00600,EMP01238,Q4 2023,EMP01019,4,41,10,10,4,1,7,Customer focused,Stakeholder management,Yes,4,1.43,2024-12-16
+REV00601,EMP02154,Q1 2024,EMP01082,4,51,8,4,2,1,2,Strong technical skills,Strategic thinking,Yes,0,9.6,2023-09-26
+REV00602,EMP01567,Q1 2024,EMP01030,1,82,3,1,5,10,6,Leadership potential,Stakeholder management,No,12,7.39,2023-04-02
+REV00603,EMP01036,Q2 2024,EMP01004,4,116,6,4,8,3,3,Customer focused,Documentation,No,7,8.43,2023-07-07
+REV00604,EMP02077,Q4 2024,EMP01042,1,83,4,3,5,5,9,Strong technical skills,Stakeholder management,No,19,8.35,2024-12-28
+REV00605,EMP01629,Q3 2024,EMP01086,4,91,6,5,4,10,6,Problem solver,Strategic thinking,No,3,3.31,2023-08-30
+REV00606,EMP02114,Q1 2024,EMP01094,3,77,6,4,5,8,5,Great communicator,Time management,No,1,7.54,2023-09-29
+REV00607,EMP01995,Annual 2024,EMP01064,4,55,9,3,3,3,4,Innovative thinker,Documentation,Yes,20,6.16,2023-10-24
+REV00608,EMP01411,Q4 2023,EMP01083,4,78,9,5,9,6,7,Innovative thinker,Technical depth,Yes,2,7.3,2023-07-01
+REV00609,EMP01173,Annual 2023,EMP01078,3,57,10,10,2,5,3,Leadership potential,Documentation,Yes,15,1.58,2023-07-27
+REV00610,EMP02157,Q4 2024,EMP01002,2,69,9,3,8,7,5,Leadership potential,Time management,No,6,7.6,2023-12-27
+REV00611,EMP01472,Q3 2024,EMP01006,3,58,6,10,2,4,8,Problem solver,Time management,No,14,4.97,2024-11-14
+REV00612,EMP01321,Q1 2024,EMP01080,5,98,9,1,4,10,10,Team player,Technical depth,No,17,4.56,2023-02-22
+REV00613,EMP02044,Q4 2023,EMP01078,3,67,10,2,10,2,10,Team player,Strategic thinking,No,16,9.41,2024-07-31
+REV00614,EMP01124,Q4 2024,EMP01063,5,66,6,1,8,4,10,Innovative thinker,Strategic thinking,Yes,10,1.1,2023-02-07
+REV00615,EMP01566,Q4 2024,EMP01035,2,52,2,5,7,3,8,Reliable and consistent,Stakeholder management,No,5,1.64,2024-12-24
+REV00616,EMP02102,Q4 2023,EMP01040,5,99,3,5,4,9,2,Innovative thinker,Technical depth,Yes,13,8.82,2023-12-26
+REV00617,EMP01124,Annual 2023,EMP01063,5,74,10,10,8,6,4,Strong technical skills,Time management,Yes,8,4.46,2023-08-06
+REV00618,EMP01360,Q4 2024,EMP01034,3,76,6,1,2,3,3,Problem solver,Time management,No,16,6.82,2024-05-29
+REV00619,EMP01437,Q4 2024,EMP01070,2,50,3,1,6,10,4,Strong technical skills,Strategic thinking,No,16,6.56,2023-08-28
+REV00620,EMP01040,Q4 2024,EMP01058,4,63,3,1,3,5,2,Customer focused,Stakeholder management,No,18,4.95,2024-11-27
+REV00621,EMP01580,Annual 2024,EMP01095,4,110,3,9,3,7,7,Customer focused,Technical depth,Yes,0,7.0,2024-09-04
+REV00622,EMP01972,Q4 2023,EMP01036,4,81,5,10,7,3,6,Reliable and consistent,Strategic thinking,Yes,3,2.27,2023-08-11
+REV00623,EMP01526,Q3 2024,EMP01029,5,46,2,3,6,4,5,Team player,Stakeholder management,Yes,12,4.87,2023-08-16
+REV00624,EMP01671,Q1 2024,EMP01020,3,82,7,5,5,1,4,Great communicator,Technical depth,No,5,2.65,2023-03-17
+REV00625,EMP01906,Annual 2023,EMP01069,3,82,8,3,1,6,6,Reliable and consistent,Communication clarity,No,3,4.57,2024-10-26
+REV00626,EMP02139,Annual 2024,EMP01071,5,85,6,1,3,7,10,Innovative thinker,Technical depth,Yes,11,9.7,2023-08-02
+REV00627,EMP02063,Q4 2023,EMP01026,2,60,3,9,9,5,10,Team player,Strategic thinking,No,17,6.71,2024-07-26
+REV00628,EMP02067,Annual 2023,EMP01092,3,89,9,10,9,1,2,Strong technical skills,Stakeholder management,Yes,5,5.77,2023-10-19
+REV00629,EMP01454,Annual 2023,EMP01086,3,80,3,4,7,2,5,Great communicator,Stakeholder management,No,20,5.01,2024-04-16
+REV00630,EMP01931,Q2 2024,EMP01100,4,73,3,1,1,6,1,Problem solver,Documentation,No,9,8.24,2023-01-05
+REV00631,EMP01640,Q4 2024,EMP01060,4,69,10,8,8,9,9,Great communicator,Time management,Yes,16,4.33,2023-04-13
+REV00632,EMP01505,Annual 2024,EMP01073,4,85,5,3,5,9,8,Innovative thinker,Documentation,Yes,9,1.94,2023-11-11
+REV00633,EMP01720,Q1 2024,EMP01028,3,105,9,8,8,10,6,Great communicator,Technical depth,No,19,6.3,2023-06-14
+REV00634,EMP01196,Q4 2024,EMP01066,2,65,8,10,1,2,7,Innovative thinker,Documentation,Yes,9,7.29,2024-02-18
+REV00635,EMP02011,Q2 2024,EMP01053,3,119,10,5,8,10,2,Innovative thinker,Time management,Yes,20,9.95,2024-08-13
+REV00636,EMP01272,Annual 2024,EMP01074,5,104,5,3,8,7,8,Customer focused,Technical depth,Yes,13,4.03,2024-03-31
+REV00637,EMP01412,Q4 2023,EMP01069,4,96,9,6,7,4,8,Great communicator,Stakeholder management,Yes,7,4.57,2024-10-30
+REV00638,EMP02030,Q1 2024,EMP01071,2,91,9,6,10,6,3,Innovative thinker,Time management,No,3,4.87,2024-05-20
+REV00639,EMP01441,Q4 2023,EMP01054,4,80,7,4,5,4,3,Reliable and consistent,Time management,Yes,3,8.67,2023-01-28
+REV00640,EMP01244,Annual 2023,EMP01073,5,111,9,4,2,5,10,Great communicator,Technical depth,Yes,1,1.76,2023-05-13
+REV00641,EMP01072,Annual 2024,EMP01006,2,98,5,8,5,9,2,Reliable and consistent,Documentation,No,18,4.93,2024-08-25
+REV00642,EMP02197,Q3 2024,EMP01020,5,64,9,1,3,2,3,Innovative thinker,Technical depth,No,4,3.36,2024-05-04
+REV00643,EMP02097,Q1 2024,EMP01079,4,43,8,1,10,3,8,Reliable and consistent,Stakeholder management,Yes,6,4.69,2023-10-23
+REV00644,EMP01242,Q3 2024,EMP01036,3,79,8,1,3,7,10,Great communicator,Documentation,Yes,9,4.59,2024-03-22
+REV00645,EMP01883,Annual 2023,EMP01096,2,40,8,3,10,8,3,Problem solver,Communication clarity,Yes,16,6.83,2023-01-27
+REV00646,EMP01736,Q4 2023,EMP01069,5,70,4,5,5,6,4,Customer focused,Technical depth,Yes,17,2.55,2024-10-31
+REV00647,EMP01034,Annual 2023,EMP01085,3,105,6,7,10,9,1,Problem solver,Strategic thinking,Yes,8,1.02,2023-06-07
+REV00648,EMP01650,Q4 2024,EMP01056,3,56,7,9,5,10,5,Great communicator,Documentation,Yes,14,6.4,2023-09-28
+REV00649,EMP01422,Q4 2023,EMP01093,3,84,4,8,10,3,7,Strong technical skills,Stakeholder management,Yes,17,7.93,2023-05-13
+REV00650,EMP01368,Annual 2023,EMP01089,4,41,1,1,3,10,8,Strong technical skills,Stakeholder management,No,17,2.25,2023-10-02
+REV00651,EMP01612,Q3 2024,EMP01049,4,65,1,10,3,3,3,Problem solver,Time management,No,16,5.93,2024-02-13
+REV00652,EMP01910,Q1 2024,EMP01025,3,80,9,4,3,3,4,Problem solver,Stakeholder management,No,7,3.74,2023-05-22
+REV00653,EMP01398,Q1 2024,EMP01063,5,90,1,9,4,9,9,Great communicator,Technical depth,No,18,6.83,2023-10-05
+REV00654,EMP01788,Annual 2023,EMP01076,3,61,4,4,3,3,9,Innovative thinker,Stakeholder management,No,3,6.42,2024-08-03
+REV00655,EMP01642,Q1 2024,EMP01009,1,52,9,7,4,3,2,Team player,Documentation,No,14,9.43,2024-12-10
+REV00656,EMP01464,Annual 2023,EMP01045,5,62,2,5,6,6,5,Innovative thinker,Stakeholder management,No,4,5.3,2023-02-22
+REV00657,EMP01390,Q4 2024,EMP01016,5,119,8,5,5,3,3,Reliable and consistent,Strategic thinking,No,6,1.29,2024-05-18
+REV00658,EMP01374,Q4 2024,EMP01033,5,86,1,9,4,8,5,Team player,Communication clarity,Yes,1,4.6,2023-01-05
+REV00659,EMP01946,Annual 2024,EMP01091,4,40,8,8,4,7,7,Customer focused,Technical depth,No,11,6.23,2024-03-28
+REV00660,EMP01700,Q1 2024,EMP01094,4,80,8,4,4,4,6,Team player,Strategic thinking,No,15,7.89,2024-08-26
+REV00661,EMP01061,Q2 2024,EMP01032,4,115,5,1,6,7,10,Innovative thinker,Documentation,No,12,7.86,2024-09-18
+REV00662,EMP01250,Q4 2023,EMP01095,5,55,3,1,8,10,7,Problem solver,Technical depth,No,1,8.91,2024-09-20
+REV00663,EMP01512,Q2 2024,EMP01002,3,57,8,6,7,2,8,Team player,Stakeholder management,No,1,1.71,2024-12-10
+REV00664,EMP01038,Q1 2024,EMP01007,2,81,6,6,7,8,8,Innovative thinker,Stakeholder management,No,11,2.01,2024-03-04
+REV00665,EMP01654,Annual 2023,EMP01039,5,73,10,10,9,10,1,Customer focused,Time management,No,15,6.65,2024-06-15
+REV00666,EMP02078,Annual 2023,EMP01030,4,70,1,3,5,10,3,Team player,Documentation,Yes,0,6.04,2023-08-18
+REV00667,EMP01442,Q1 2024,EMP01008,5,101,2,6,6,1,4,Team player,Time management,No,16,9.49,2023-01-11
+REV00668,EMP01279,Annual 2024,EMP01039,3,66,2,4,8,4,2,Problem solver,Documentation,No,11,8.16,2023-01-30
+REV00669,EMP02167,Annual 2024,EMP01005,3,105,9,2,10,9,8,Reliable and consistent,Strategic thinking,No,14,3.05,2024-12-11
+REV00670,EMP01259,Annual 2023,EMP01064,4,101,9,1,10,10,3,Team player,Documentation,No,17,4.56,2024-08-14
+REV00671,EMP01138,Annual 2023,EMP01005,3,43,5,7,8,9,7,Team player,Time management,No,17,1.57,2024-02-01
+REV00672,EMP01841,Q1 2024,EMP01047,5,72,9,7,8,1,8,Leadership potential,Documentation,No,17,7.75,2023-09-20
+REV00673,EMP01404,Annual 2024,EMP01086,3,48,2,9,6,2,1,Great communicator,Technical depth,Yes,5,4.96,2023-06-29
+REV00674,EMP01472,Q3 2024,EMP01006,5,69,1,2,9,1,9,Customer focused,Communication clarity,Yes,16,3.71,2023-08-18
+REV00675,EMP01028,Q2 2024,EMP01055,3,100,3,8,6,3,2,Reliable and consistent,Communication clarity,No,4,3.17,2023-05-04
+REV00676,EMP02023,Q3 2024,EMP01012,3,48,7,7,4,9,3,Leadership potential,Stakeholder management,No,11,8.15,2024-03-25
+REV00677,EMP01194,Q4 2023,EMP01054,3,54,10,9,5,7,1,Reliable and consistent,Communication clarity,Yes,12,9.27,2023-12-06
+REV00678,EMP01931,Q4 2023,EMP01100,3,47,10,7,9,4,5,Leadership potential,Documentation,No,16,5.41,2024-03-13
+REV00679,EMP02016,Q3 2024,EMP01053,4,91,3,10,3,10,2,Customer focused,Stakeholder management,No,12,7.92,2023-11-30
+REV00680,EMP01357,Annual 2024,EMP01049,5,40,9,2,2,1,1,Strong technical skills,Stakeholder management,No,17,3.13,2023-04-30
+REV00681,EMP01754,Annual 2024,EMP01021,4,66,8,5,2,10,9,Customer focused,Documentation,Yes,6,9.2,2023-07-10
+REV00682,EMP01464,Q1 2024,EMP01045,4,51,10,4,4,10,3,Problem solver,Stakeholder management,Yes,20,3.62,2024-01-14
+REV00683,EMP01392,Annual 2023,EMP01081,4,76,5,8,3,8,9,Customer focused,Documentation,No,5,3.61,2024-03-24
+REV00684,EMP01992,Annual 2023,EMP01057,4,49,8,5,1,7,7,Leadership potential,Stakeholder management,No,18,7.71,2023-05-09
+REV00685,EMP01009,Annual 2023,EMP01053,4,55,4,8,7,10,9,Problem solver,Communication clarity,No,12,1.77,2024-07-28
+REV00686,EMP01193,Q3 2024,EMP01067,5,117,4,1,9,8,9,Customer focused,Strategic thinking,Yes,19,1.63,2024-05-27
+REV00687,EMP01114,Q2 2024,EMP01011,5,91,4,6,9,2,6,Leadership potential,Stakeholder management,Yes,1,2.56,2024-02-03
+REV00688,EMP01253,Q2 2024,EMP01006,4,53,10,4,4,6,7,Problem solver,Strategic thinking,Yes,9,3.07,2024-11-19
+REV00689,EMP01268,Annual 2024,EMP01069,4,104,5,1,2,3,6,Problem solver,Time management,Yes,8,3.21,2023-02-17
+REV00690,EMP01818,Q1 2024,EMP01080,4,104,2,3,5,8,10,Leadership potential,Documentation,No,13,9.21,2024-11-07
+REV00691,EMP01672,Q4 2024,EMP01086,3,64,2,8,3,10,5,Strong technical skills,Strategic thinking,No,6,8.88,2024-05-01
+REV00692,EMP01509,Q1 2024,EMP01092,3,93,9,5,9,2,5,Great communicator,Documentation,No,12,5.45,2024-09-21
+REV00693,EMP01147,Q4 2024,EMP01021,3,81,2,10,3,1,9,Innovative thinker,Strategic thinking,No,11,3.25,2024-06-09
+REV00694,EMP01489,Q1 2024,EMP01085,5,73,1,6,7,9,5,Reliable and consistent,Documentation,No,6,7.25,2023-02-25
+REV00695,EMP01146,Q1 2024,EMP01034,5,86,3,9,8,10,10,Customer focused,Communication clarity,No,10,5.25,2024-11-05
+REV00696,EMP02032,Q3 2024,EMP01092,1,62,6,10,4,2,3,Problem solver,Stakeholder management,No,11,3.42,2023-10-20
+REV00697,EMP01992,Annual 2024,EMP01057,4,86,6,1,4,1,8,Reliable and consistent,Strategic thinking,No,10,3.26,2024-03-14
+REV00698,EMP01675,Q4 2023,EMP01020,3,88,8,8,9,4,10,Strong technical skills,Stakeholder management,Yes,2,4.66,2024-07-10
+REV00699,EMP01008,Q4 2023,EMP01055,3,101,10,5,1,10,10,Strong technical skills,Stakeholder management,No,14,7.48,2023-06-23
+REV00700,EMP01902,Annual 2023,EMP01010,2,89,5,9,1,4,7,Great communicator,Technical depth,Yes,9,3.26,2024-11-26
+REV00701,EMP02051,Q2 2024,EMP01077,2,118,6,7,6,1,6,Innovative thinker,Strategic thinking,Yes,2,9.83,2023-10-05
+REV00702,EMP01828,Q2 2024,EMP01059,5,108,4,6,7,1,3,Problem solver,Strategic thinking,No,11,9.12,2023-03-25
+REV00703,EMP01972,Q4 2023,EMP01036,4,105,7,4,7,10,4,Strong technical skills,Technical depth,No,8,4.52,2023-02-04
+REV00704,EMP01681,Q1 2024,EMP01032,4,73,4,6,2,8,6,Team player,Time management,No,5,4.8,2023-03-09
+REV00705,EMP01055,Q4 2024,EMP01098,4,73,6,7,4,2,5,Customer focused,Documentation,No,12,1.94,2023-07-03
+REV00706,EMP01611,Q3 2024,EMP01004,2,108,10,10,8,6,6,Reliable and consistent,Communication clarity,No,18,6.41,2024-05-03
+REV00707,EMP01784,Q4 2024,EMP01070,5,94,7,9,1,10,7,Reliable and consistent,Time management,Yes,18,5.94,2024-06-03
+REV00708,EMP01806,Q4 2023,EMP01018,3,78,8,4,3,2,8,Customer focused,Strategic thinking,Yes,9,3.86,2023-10-20
+REV00709,EMP01684,Annual 2023,EMP01036,4,90,1,9,6,6,9,Team player,Technical depth,No,11,8.76,2023-10-18
+REV00710,EMP02101,Annual 2023,EMP01030,5,99,6,5,2,2,6,Leadership potential,Technical depth,No,15,5.09,2023-03-28
+REV00711,EMP01937,Q3 2024,EMP01044,5,89,3,7,7,10,10,Great communicator,Strategic thinking,Yes,11,2.13,2024-08-24
+REV00712,EMP01221,Q1 2024,EMP01069,1,81,5,7,4,2,7,Innovative thinker,Documentation,No,1,4.6,2024-12-03
+REV00713,EMP01577,Annual 2023,EMP01084,3,65,3,4,8,6,6,Team player,Strategic thinking,No,6,7.53,2023-08-19
+REV00714,EMP01336,Annual 2023,EMP01031,2,114,4,3,6,5,9,Reliable and consistent,Strategic thinking,No,16,8.21,2024-10-07
+REV00715,EMP01256,Annual 2023,EMP01099,1,90,7,7,6,4,5,Customer focused,Strategic thinking,No,2,1.31,2023-01-22
+REV00716,EMP01036,Q2 2024,EMP01004,5,50,1,1,1,4,3,Leadership potential,Stakeholder management,No,2,5.2,2023-01-14
+REV00717,EMP01736,Annual 2023,EMP01069,4,91,5,5,10,10,2,Leadership potential,Communication clarity,No,15,8.0,2023-12-20
+REV00718,EMP01005,Q2 2024,EMP01021,5,117,5,3,6,1,2,Problem solver,Communication clarity,No,3,4.25,2023-07-26
+REV00719,EMP01533,Q2 2024,EMP01007,4,114,3,8,2,10,8,Leadership potential,Documentation,No,3,4.38,2023-10-23
+REV00720,EMP01200,Q4 2024,EMP01097,4,67,9,1,2,1,8,Strong technical skills,Time management,No,14,7.79,2023-10-28
+REV00721,EMP01449,Q4 2023,EMP01010,1,68,5,9,7,5,10,Great communicator,Stakeholder management,Yes,0,5.1,2023-07-27
+REV00722,EMP01139,Q2 2024,EMP01027,3,80,4,5,10,8,7,Problem solver,Time management,No,9,1.64,2023-01-31
+REV00723,EMP02102,Annual 2023,EMP01040,3,84,2,5,2,7,5,Leadership potential,Documentation,No,16,7.17,2024-07-27
+REV00724,EMP01274,Q2 2024,EMP01050,4,98,4,3,8,9,7,Strong technical skills,Communication clarity,No,9,7.26,2024-02-28
+REV00725,EMP01315,Q3 2024,EMP01047,5,42,2,3,2,10,10,Great communicator,Technical depth,No,18,4.13,2023-11-26
+REV00726,EMP01280,Q3 2024,EMP01083,4,70,1,2,10,7,6,Innovative thinker,Strategic thinking,No,1,4.03,2024-09-30
+REV00727,EMP01428,Q3 2024,EMP01043,3,115,10,2,5,6,3,Great communicator,Time management,No,1,6.76,2023-07-29
+REV00728,EMP01730,Q4 2024,EMP01068,4,40,8,2,4,7,1,Innovative thinker,Communication clarity,Yes,4,9.61,2023-04-12
+REV00729,EMP02186,Q1 2024,EMP01005,3,109,8,10,8,6,3,Great communicator,Time management,Yes,16,3.56,2024-03-17
+REV00730,EMP01457,Q3 2024,EMP01015,3,82,7,9,7,3,3,Problem solver,Strategic thinking,Yes,20,3.9,2023-09-30
+REV00731,EMP01416,Annual 2024,EMP01043,2,51,1,6,7,8,4,Problem solver,Strategic thinking,No,20,4.7,2024-08-10
+REV00732,EMP01054,Q4 2023,EMP01011,5,88,5,9,8,3,4,Reliable and consistent,Strategic thinking,No,17,6.69,2024-08-12
+REV00733,EMP01976,Annual 2023,EMP01076,5,50,8,6,3,1,5,Customer focused,Stakeholder management,Yes,1,3.76,2023-07-20
+REV00734,EMP02019,Q1 2024,EMP01071,4,97,7,3,8,4,3,Reliable and consistent,Technical depth,No,17,2.42,2023-11-11
+REV00735,EMP01316,Q4 2024,EMP01026,3,90,3,3,6,1,7,Team player,Technical depth,No,6,5.1,2024-11-27
+REV00736,EMP02080,Q2 2024,EMP01030,5,49,5,7,5,7,8,Reliable and consistent,Time management,No,16,1.51,2024-09-08
+REV00737,EMP01476,Annual 2023,EMP01048,3,50,9,6,3,1,4,Customer focused,Time management,Yes,3,7.23,2023-01-21
+REV00738,EMP01408,Annual 2024,EMP01051,3,67,1,6,1,10,9,Strong technical skills,Strategic thinking,No,7,8.38,2023-02-12
+REV00739,EMP01972,Q4 2024,EMP01036,5,42,1,9,8,7,9,Innovative thinker,Documentation,No,12,4.36,2024-06-17
+REV00740,EMP01981,Q3 2024,EMP01036,3,84,3,8,8,7,9,Reliable and consistent,Stakeholder management,Yes,11,7.24,2023-10-28
+REV00741,EMP01454,Q2 2024,EMP01086,4,103,8,6,1,2,10,Team player,Communication clarity,Yes,4,7.37,2024-03-27
+REV00742,EMP01454,Q4 2024,EMP01086,3,63,3,2,7,7,1,Reliable and consistent,Communication clarity,No,16,8.13,2023-10-09
+REV00743,EMP01886,Q4 2024,EMP01019,4,76,3,1,4,6,8,Customer focused,Stakeholder management,No,7,2.08,2023-09-17
+REV00744,EMP01077,Q3 2024,EMP01076,3,89,4,7,3,4,2,Customer focused,Technical depth,Yes,6,2.96,2024-04-23
+REV00745,EMP01290,Annual 2023,EMP01090,3,101,8,7,4,1,7,Reliable and consistent,Strategic thinking,Yes,16,2.29,2024-03-17
+REV00746,EMP01516,Q3 2024,EMP01006,5,120,7,10,10,2,6,Customer focused,Communication clarity,Yes,20,3.2,2024-05-18
+REV00747,EMP02102,Q4 2024,EMP01040,5,107,2,5,5,3,10,Team player,Stakeholder management,No,14,4.69,2024-10-01
+REV00748,EMP01036,Q4 2023,EMP01004,3,80,7,2,2,6,6,Reliable and consistent,Time management,Yes,15,9.38,2024-09-01
+REV00749,EMP01914,Q4 2024,EMP01053,2,106,7,10,7,2,2,Reliable and consistent,Strategic thinking,No,19,1.25,2024-05-14
+REV00750,EMP01107,Annual 2023,EMP01003,4,56,10,8,1,2,3,Leadership potential,Strategic thinking,No,20,2.05,2024-02-20
+REV00751,EMP01250,Annual 2023,EMP01034,3,89,1,6,2,2,7,Customer focused,Stakeholder management,No,0,4.09,2023-09-10
+REV00752,EMP01486,Annual 2024,EMP01073,3,91,9,3,2,10,5,Customer focused,Time management,No,0,7.23,2024-11-13
+REV00753,EMP01366,Q2 2024,EMP01025,4,53,1,8,4,3,6,Customer focused,Technical depth,No,4,2.08,2023-07-05
+REV00754,EMP01353,Annual 2024,EMP01036,1,65,5,9,10,10,1,Reliable and consistent,Stakeholder management,Yes,6,9.95,2023-03-25
+REV00755,EMP01640,Q2 2024,EMP01060,4,50,1,5,7,4,2,Great communicator,Strategic thinking,No,14,8.84,2024-10-29
+REV00756,EMP01101,Q4 2024,EMP01039,4,108,4,6,1,6,5,Innovative thinker,Technical depth,No,6,1.98,2023-04-20
+REV00757,EMP01328,Q1 2024,EMP01006,2,77,8,1,10,10,8,Team player,Technical depth,Yes,7,4.22,2023-01-22
+REV00758,EMP01498,Q3 2024,EMP01004,4,97,7,5,8,2,9,Leadership potential,Documentation,No,20,6.29,2023-07-16
+REV00759,EMP01588,Q4 2024,EMP01066,4,64,2,5,6,4,10,Innovative thinker,Strategic thinking,Yes,14,8.48,2023-01-24
+REV00760,EMP01638,Annual 2024,EMP01069,5,84,9,5,6,9,5,Strong technical skills,Communication clarity,No,5,4.99,2024-05-10
+REV00761,EMP01548,Annual 2023,EMP01088,1,52,9,1,7,7,8,Problem solver,Technical depth,No,14,6.32,2023-10-18
+REV00762,EMP01375,Q3 2024,EMP01046,3,55,10,1,7,8,8,Innovative thinker,Documentation,No,2,7.59,2023-01-08
+REV00763,EMP02107,Q4 2024,EMP01094,3,93,4,5,5,4,8,Great communicator,Time management,No,8,2.5,2024-03-31
+REV00764,EMP02063,Q3 2024,EMP01026,5,63,4,8,4,6,4,Innovative thinker,Strategic thinking,No,4,9.8,2024-06-18
+REV00765,EMP01609,Q4 2024,EMP01006,4,105,4,3,3,6,4,Reliable and consistent,Time management,No,5,5.03,2024-04-01
+REV00766,EMP01387,Annual 2023,EMP01013,3,114,1,4,4,9,5,Customer focused,Time management,No,15,8.98,2023-12-14
+REV00767,EMP01765,Q4 2023,EMP01005,5,102,6,3,3,3,2,Problem solver,Documentation,Yes,1,7.61,2023-01-13
+REV00768,EMP01927,Q2 2024,EMP01009,3,75,3,1,4,4,9,Customer focused,Documentation,No,17,3.72,2023-08-04
+REV00769,EMP01520,Annual 2024,EMP01042,1,46,3,2,6,7,4,Team player,Stakeholder management,No,13,6.09,2024-10-17
+REV00770,EMP02104,Q2 2024,EMP01053,5,104,7,10,5,10,2,Customer focused,Strategic thinking,Yes,3,8.56,2024-12-27
+REV00771,EMP01938,Q3 2024,EMP01056,3,80,6,4,3,10,7,Customer focused,Stakeholder management,No,15,8.68,2024-08-18
+REV00772,EMP01454,Annual 2024,EMP01086,5,109,4,2,9,9,9,Leadership potential,Time management,No,13,4.6,2023-09-07
+REV00773,EMP02200,Q3 2024,EMP01010,3,105,1,10,2,2,6,Innovative thinker,Documentation,Yes,12,5.6,2023-10-30
+REV00774,EMP01882,Annual 2024,EMP01068,4,40,6,5,10,2,2,Innovative thinker,Time management,No,11,6.79,2024-05-20
+REV00775,EMP01572,Q3 2024,EMP01099,2,63,7,8,5,10,1,Customer focused,Technical depth,No,11,1.91,2024-06-09
+REV00776,EMP01367,Q3 2024,EMP01019,5,92,3,10,4,4,5,Reliable and consistent,Stakeholder management,Yes,3,4.01,2024-06-28
+REV00777,EMP01226,Q2 2024,EMP01090,4,67,1,10,5,8,7,Strong technical skills,Technical depth,No,13,5.03,2024-01-08
+REV00778,EMP01981,Annual 2024,EMP01036,3,61,5,10,9,4,4,Innovative thinker,Technical depth,Yes,9,4.44,2024-08-16
+REV00779,EMP01556,Q4 2024,EMP01046,4,66,9,10,3,6,3,Great communicator,Technical depth,No,7,9.33,2023-08-07
+REV00780,EMP02102,Q3 2024,EMP01040,4,60,10,1,9,4,2,Great communicator,Documentation,No,16,4.8,2024-12-07
+REV00781,EMP01390,Annual 2024,EMP01016,3,97,9,7,9,8,4,Problem solver,Time management,No,2,5.79,2023-04-10
+REV00782,EMP01580,Q4 2024,EMP01095,3,54,9,3,7,10,8,Great communicator,Strategic thinking,No,1,7.42,2023-12-18
+REV00783,EMP01337,Annual 2023,EMP01007,4,99,5,1,6,5,2,Great communicator,Strategic thinking,No,18,3.69,2024-12-16
+REV00784,EMP01877,Q4 2024,EMP01060,4,55,2,8,5,3,7,Great communicator,Technical depth,No,4,9.05,2023-11-14
+REV00785,EMP01046,Q3 2024,EMP01070,3,61,3,9,6,9,10,Team player,Documentation,No,0,6.04,2023-02-20
+REV00786,EMP02085,Q2 2024,EMP01086,3,75,4,2,9,10,2,Strong technical skills,Time management,Yes,20,8.81,2023-07-03
+REV00787,EMP01376,Q4 2023,EMP01025,1,55,3,9,6,5,10,Customer focused,Communication clarity,No,7,1.9,2023-12-09
+REV00788,EMP01079,Q4 2024,EMP01022,2,110,7,7,8,1,5,Problem solver,Documentation,No,11,8.43,2024-04-04
+REV00789,EMP01873,Q1 2024,EMP01050,5,81,5,1,7,5,3,Problem solver,Communication clarity,Yes,18,8.64,2023-10-14
+REV00790,EMP02192,Q4 2024,EMP01002,4,102,7,10,2,9,7,Innovative thinker,Strategic thinking,Yes,2,9.92,2023-03-24
+REV00791,EMP01218,Q2 2024,EMP01011,3,88,1,6,10,4,8,Strong technical skills,Documentation,No,4,5.17,2023-08-20
+REV00792,EMP01487,Q2 2024,EMP01007,3,66,7,2,2,4,9,Customer focused,Time management,Yes,15,1.92,2024-03-18
+REV00793,EMP01238,Annual 2024,EMP01019,4,75,8,6,5,9,8,Strong technical skills,Documentation,Yes,18,4.88,2024-02-26
+REV00794,EMP01173,Q3 2024,EMP01078,3,118,5,9,4,9,6,Leadership potential,Documentation,Yes,3,4.91,2024-03-08
+REV00795,EMP01729,Q3 2024,EMP01038,4,92,8,8,9,10,6,Team player,Documentation,No,9,6.56,2023-12-11
+REV00796,EMP02177,Q2 2024,EMP01090,4,45,4,7,2,10,10,Team player,Communication clarity,No,0,3.23,2024-07-08
+REV00797,EMP02006,Annual 2023,EMP01014,3,54,6,8,5,3,4,Leadership potential,Strategic thinking,No,14,7.63,2023-01-09
+REV00798,EMP01987,Q2 2024,EMP01004,4,99,2,9,7,6,9,Strong technical skills,Stakeholder management,Yes,12,8.05,2024-12-07
+REV00799,EMP01215,Q1 2024,EMP01033,5,83,5,6,7,6,7,Leadership potential,Communication clarity,No,6,4.52,2024-12-23
+REV00800,EMP01805,Annual 2023,EMP01081,4,66,10,3,3,3,4,Strong technical skills,Technical depth,No,3,1.51,2024-05-18
+REV00801,EMP01866,Annual 2023,EMP01074,4,63,1,5,9,8,10,Team player,Stakeholder management,Yes,2,2.57,2023-07-25
+REV00802,EMP01488,Annual 2024,EMP01014,3,112,4,8,8,6,10,Strong technical skills,Time management,No,19,2.17,2024-11-27
+REV00803,EMP01907,Q2 2024,EMP01026,4,43,2,4,4,8,1,Innovative thinker,Technical depth,No,8,7.42,2024-11-08
+REV00804,EMP01805,Q3 2024,EMP01081,1,100,5,10,2,2,4,Problem solver,Strategic thinking,No,6,8.86,2024-02-26
+REV00805,EMP01842,Q4 2023,EMP01090,4,119,4,9,3,7,9,Team player,Time management,No,17,1.12,2023-01-20
+REV00806,EMP02044,Annual 2023,EMP01078,3,71,9,4,4,7,8,Team player,Documentation,No,2,3.69,2023-03-05
+REV00807,EMP01416,Q4 2023,EMP01043,4,49,10,5,6,7,2,Reliable and consistent,Strategic thinking,Yes,16,2.0,2023-03-18
+REV00808,EMP01023,Q4 2023,EMP01031,4,118,10,5,3,10,3,Problem solver,Communication clarity,Yes,19,5.41,2024-05-31
+REV00809,EMP01842,Annual 2023,EMP01090,5,83,9,10,4,3,1,Great communicator,Time management,No,19,8.14,2024-12-05
+REV00810,EMP01112,Q1 2024,EMP01074,4,69,3,3,8,5,8,Team player,Time management,Yes,19,9.01,2023-11-13
+REV00811,EMP01397,Q1 2024,EMP01033,1,108,4,5,5,5,3,Reliable and consistent,Communication clarity,No,9,2.25,2024-09-04
+REV00812,EMP02107,Q3 2024,EMP01094,2,103,9,6,9,5,8,Customer focused,Time management,No,6,6.25,2024-06-03
+REV00813,EMP01981,Annual 2023,EMP01036,3,47,10,2,6,8,2,Great communicator,Time management,Yes,20,3.16,2024-08-29
+REV00814,EMP01642,Annual 2024,EMP01009,4,62,4,5,2,1,3,Innovative thinker,Communication clarity,Yes,1,3.9,2024-12-04
+REV00815,EMP01564,Q2 2024,EMP01002,2,88,3,7,9,5,5,Great communicator,Strategic thinking,No,14,8.09,2024-11-20
+REV00816,EMP01785,Q4 2024,EMP01077,3,100,7,9,8,3,10,Leadership potential,Communication clarity,Yes,9,2.53,2024-08-23
+REV00817,EMP01707,Q3 2024,EMP01038,4,109,2,1,2,5,2,Strong technical skills,Documentation,Yes,16,7.55,2023-06-03
+REV00818,EMP01501,Q4 2024,EMP01007,4,67,1,7,6,2,2,Customer focused,Stakeholder management,No,5,8.6,2023-11-29
+REV00819,EMP01174,Q3 2024,EMP01038,5,104,9,1,1,5,10,Leadership potential,Time management,Yes,8,4.77,2023-01-25
+REV00820,EMP01539,Annual 2024,EMP01015,1,78,10,6,2,8,1,Innovative thinker,Communication clarity,Yes,9,5.31,2023-01-23
+REV00821,EMP01761,Annual 2024,EMP01088,3,109,8,6,3,7,4,Problem solver,Communication clarity,No,8,3.66,2023-08-27
+REV00822,EMP01341,Annual 2023,EMP01035,3,110,1,3,2,1,4,Customer focused,Documentation,No,0,1.25,2023-09-02
+REV00823,EMP01314,Q3 2024,EMP01028,4,65,6,1,7,3,8,Innovative thinker,Documentation,Yes,11,5.26,2023-02-24
+REV00824,EMP01736,Annual 2024,EMP01069,5,107,4,3,9,7,1,Innovative thinker,Time management,No,3,3.8,2023-12-16
+REV00825,EMP01412,Q2 2024,EMP01069,5,78,10,2,9,10,3,Innovative thinker,Technical depth,Yes,14,7.56,2024-10-28
+REV00826,EMP01610,Annual 2023,EMP01038,4,65,4,1,5,1,4,Strong technical skills,Documentation,Yes,17,8.0,2024-05-27
+REV00827,EMP01174,Q3 2024,EMP01038,4,84,4,6,1,7,3,Problem solver,Technical depth,No,1,7.6,2024-09-02
+REV00828,EMP02186,Q4 2024,EMP01036,4,112,5,4,8,4,4,Team player,Time management,No,19,8.85,2024-12-14
+REV00829,EMP01771,Q4 2023,EMP01069,4,85,6,7,9,6,1,Problem solver,Communication clarity,Yes,20,5.78,2024-01-19
+REV00830,EMP01279,Q4 2024,EMP01039,4,103,10,3,8,10,6,Great communicator,Communication clarity,No,8,4.57,2023-03-19
+REV00831,EMP01794,Q2 2024,EMP01034,4,116,2,5,7,2,3,Strong technical skills,Time management,Yes,1,7.56,2024-08-26
+REV00832,EMP01733,Q2 2024,EMP01002,3,40,8,8,2,7,1,Great communicator,Documentation,Yes,17,7.53,2023-08-14
+REV00833,EMP02135,Q1 2024,EMP01036,5,96,4,5,10,10,7,Team player,Communication clarity,Yes,11,4.23,2024-10-28
+REV00834,EMP02112,Q2 2024,EMP01079,4,81,4,2,8,6,3,Leadership potential,Time management,No,5,3.3,2023-01-24
+REV00835,EMP01936,Annual 2023,EMP01083,1,57,6,10,4,8,6,Great communicator,Strategic thinking,No,10,1.34,2023-02-16
+REV00836,EMP01271,Q2 2024,EMP01036,4,74,1,9,10,8,6,Customer focused,Documentation,No,8,8.83,2023-08-23
+REV00837,EMP01503,Q1 2024,EMP01078,4,44,3,7,5,3,2,Innovative thinker,Strategic thinking,No,17,7.38,2023-11-01
+REV00838,EMP01108,Q4 2023,EMP01100,4,75,5,8,8,10,3,Customer focused,Documentation,No,13,6.51,2023-07-23
+REV00839,EMP01902,Annual 2023,EMP01010,5,59,1,6,6,2,6,Customer focused,Time management,Yes,11,8.81,2023-07-13
+REV00840,EMP02075,Annual 2023,EMP01089,3,77,4,5,10,5,9,Great communicator,Technical depth,No,17,9.26,2023-05-27
+REV00841,EMP02012,Q4 2023,EMP01005,4,77,5,4,4,8,4,Great communicator,Technical depth,Yes,4,6.48,2023-08-21
+REV00842,EMP01034,Q1 2024,EMP01085,4,40,4,10,2,2,2,Innovative thinker,Time management,No,11,4.36,2024-08-07
+REV00843,EMP01674,Q4 2024,EMP01088,4,61,2,7,4,5,9,Innovative thinker,Documentation,Yes,7,9.45,2023-12-08
+REV00844,EMP01312,Q3 2024,EMP01044,5,101,6,6,1,9,3,Team player,Strategic thinking,No,16,6.72,2024-07-25
+REV00845,EMP01141,Q4 2023,EMP01092,2,98,2,10,6,9,9,Strong technical skills,Stakeholder management,No,4,9.19,2023-05-05
+REV00846,EMP01448,Q4 2023,EMP01088,3,83,5,3,9,5,7,Leadership potential,Communication clarity,No,14,2.59,2023-08-03
+REV00847,EMP01247,Q2 2024,EMP01071,4,59,3,8,1,5,10,Innovative thinker,Communication clarity,No,15,9.7,2023-10-27
+REV00848,EMP01046,Q2 2024,EMP01070,3,83,9,6,10,3,5,Reliable and consistent,Strategic thinking,Yes,5,3.12,2023-09-11
+REV00849,EMP01179,Q1 2024,EMP01096,4,104,6,5,9,1,6,Great communicator,Technical depth,No,16,5.7,2023-06-30
+REV00850,EMP01681,Q2 2024,EMP01032,4,74,10,1,10,10,5,Innovative thinker,Stakeholder management,Yes,17,8.81,2024-10-18
+REV00851,EMP02136,Annual 2024,EMP01002,2,65,3,5,1,7,3,Great communicator,Documentation,Yes,13,1.85,2023-08-10
+REV00852,EMP01510,Q3 2024,EMP01038,3,71,8,1,3,6,6,Reliable and consistent,Documentation,No,6,3.62,2024-07-16
+REV00853,EMP01176,Q3 2024,EMP01089,2,85,8,8,2,9,1,Customer focused,Technical depth,No,4,2.3,2024-11-08
+REV00854,EMP01941,Q2 2024,EMP01063,4,94,7,6,3,9,6,Great communicator,Documentation,Yes,3,6.34,2024-06-08
+REV00855,EMP02106,Annual 2024,EMP01024,4,97,5,6,8,5,6,Leadership potential,Technical depth,No,20,7.78,2023-06-03
+REV00856,EMP01536,Q1 2024,EMP01008,4,64,4,8,4,7,5,Team player,Technical depth,No,15,2.01,2023-04-11
+REV00857,EMP01432,Q4 2023,EMP01038,3,103,1,1,10,6,9,Team player,Time management,Yes,5,7.94,2024-07-06
+REV00858,EMP01567,Q2 2024,EMP01030,2,48,1,3,7,6,6,Customer focused,Technical depth,No,8,7.15,2024-09-09
+REV00859,EMP01290,Q4 2023,EMP01090,3,69,6,3,2,7,1,Team player,Technical depth,Yes,5,9.2,2024-06-03
+REV00860,EMP01862,Q4 2023,EMP01040,5,40,10,4,10,4,5,Leadership potential,Technical depth,No,19,9.43,2024-01-08
+REV00861,EMP01324,Q4 2024,EMP01094,4,83,7,3,2,6,5,Problem solver,Documentation,No,4,8.48,2024-04-10
+REV00862,EMP01122,Q4 2024,EMP01087,4,60,7,8,1,2,4,Leadership potential,Time management,No,2,4.71,2024-03-25
+REV00863,EMP01324,Q2 2024,EMP01094,4,55,8,8,6,10,5,Great communicator,Technical depth,Yes,15,5.31,2023-07-02
+REV00864,EMP01040,Annual 2024,EMP01058,3,68,4,8,7,10,8,Great communicator,Documentation,No,4,5.14,2023-06-03
+REV00865,EMP02160,Annual 2024,EMP01066,3,113,7,1,7,4,1,Strong technical skills,Stakeholder management,No,16,9.53,2023-06-27
+REV00866,EMP01302,Annual 2023,EMP01006,3,111,10,2,8,9,8,Team player,Documentation,Yes,13,2.99,2023-07-09
+REV00867,EMP01112,Q1 2024,EMP01074,4,98,9,2,7,3,7,Customer focused,Stakeholder management,No,10,7.66,2023-04-30
+REV00868,EMP01075,Q3 2024,EMP01020,5,119,8,4,5,5,7,Reliable and consistent,Time management,Yes,19,3.65,2024-09-23
+REV00869,EMP01991,Q3 2024,EMP01098,4,115,3,10,4,7,2,Leadership potential,Stakeholder management,No,19,9.51,2024-07-11
+REV00870,EMP01642,Q4 2024,EMP01009,5,56,10,7,9,7,4,Leadership potential,Documentation,No,14,8.45,2023-08-25
+REV00871,EMP01910,Q4 2023,EMP01025,3,87,3,8,4,7,1,Strong technical skills,Stakeholder management,Yes,11,1.1,2023-01-10
+REV00872,EMP01950,Q4 2024,EMP01060,3,65,9,4,9,10,1,Great communicator,Time management,No,10,9.24,2024-07-11
+REV00873,EMP01941,Q2 2024,EMP01063,1,100,10,1,8,8,10,Leadership potential,Time management,No,5,4.36,2024-12-24
+REV00874,EMP01103,Q4 2023,EMP01098,3,45,3,9,1,3,9,Strong technical skills,Communication clarity,No,5,7.11,2023-10-29
+REV00875,EMP01562,Q4 2023,EMP01022,2,92,6,2,8,6,9,Leadership potential,Stakeholder management,No,5,8.64,2023-12-30
+REV00876,EMP01717,Annual 2024,EMP01097,2,67,9,9,4,4,10,Problem solver,Communication clarity,No,8,1.23,2024-08-14
+REV00877,EMP02040,Q1 2024,EMP01080,3,90,10,2,8,7,5,Reliable and consistent,Stakeholder management,No,9,2.51,2023-08-03
+REV00878,EMP01458,Q4 2024,EMP01057,4,73,1,8,1,6,5,Customer focused,Communication clarity,Yes,19,2.2,2023-10-02
+REV00879,EMP01562,Annual 2023,EMP01022,3,58,10,7,8,10,5,Customer focused,Time management,No,19,8.57,2023-03-21
+REV00880,EMP02024,Q4 2023,EMP01072,3,45,8,4,2,1,1,Great communicator,Stakeholder management,No,15,5.23,2024-01-28
+REV00881,EMP01978,Q1 2024,EMP01051,2,60,1,1,4,7,5,Problem solver,Communication clarity,No,5,2.23,2023-12-18
+REV00882,EMP01466,Q2 2024,EMP01075,2,117,5,2,3,5,6,Leadership potential,Communication clarity,Yes,4,7.67,2023-01-24
+REV00883,EMP01251,Q3 2024,EMP01049,3,43,10,5,2,2,4,Leadership potential,Technical depth,Yes,11,2.43,2024-12-12
+REV00884,EMP01455,Q1 2024,EMP01042,3,89,6,7,10,9,4,Leadership potential,Technical depth,No,10,1.24,2024-09-05
+REV00885,EMP01955,Q2 2024,EMP01072,3,105,10,8,6,8,3,Strong technical skills,Documentation,No,3,3.58,2023-07-21
+REV00886,EMP01016,Q4 2023,EMP01013,3,62,9,9,6,9,10,Innovative thinker,Stakeholder management,Yes,19,6.93,2023-01-22
+REV00887,EMP01600,Q4 2024,EMP01038,4,110,2,9,10,3,4,Customer focused,Time management,Yes,8,3.73,2023-03-02
+REV00888,EMP01712,Q1 2024,EMP01085,2,94,5,7,9,10,1,Leadership potential,Documentation,No,16,5.2,2023-11-18
+REV00889,EMP01784,Q1 2024,EMP01070,3,52,3,8,8,10,1,Reliable and consistent,Communication clarity,No,15,4.0,2024-12-10
+REV00890,EMP01735,Annual 2023,EMP01076,5,83,4,5,3,10,8,Strong technical skills,Communication clarity,No,14,7.59,2024-05-20
+REV00891,EMP01295,Q2 2024,EMP01055,5,40,1,5,2,5,4,Problem solver,Documentation,No,20,9.46,2023-11-16
+REV00892,EMP01928,Q3 2024,EMP01009,2,41,5,3,4,3,1,Strong technical skills,Documentation,No,12,4.28,2024-01-20
+REV00893,EMP01256,Annual 2023,EMP01099,5,64,4,5,9,8,9,Great communicator,Strategic thinking,No,9,8.73,2023-04-06
+REV00894,EMP01098,Q3 2024,EMP01030,3,76,7,8,6,8,4,Problem solver,Documentation,Yes,2,7.37,2023-09-14
+REV00895,EMP01157,Q3 2024,EMP01087,5,48,8,4,2,3,5,Team player,Communication clarity,Yes,18,5.12,2023-06-07
+REV00896,EMP01372,Q4 2023,EMP01069,5,91,2,8,5,1,4,Reliable and consistent,Documentation,No,1,1.35,2023-12-07
+REV00897,EMP01554,Q4 2024,EMP01003,5,55,8,3,8,4,5,Strong technical skills,Stakeholder management,No,15,8.29,2023-09-27
+REV00898,EMP01172,Q2 2024,EMP01043,5,63,7,4,1,2,6,Strong technical skills,Strategic thinking,No,4,2.18,2024-05-31
+REV00899,EMP01292,Q1 2024,EMP01052,4,58,2,4,4,8,1,Innovative thinker,Documentation,Yes,1,2.95,2024-06-10
+REV00900,EMP01590,Q1 2024,EMP01022,4,119,5,4,1,7,3,Customer focused,Communication clarity,Yes,10,2.11,2024-08-10
+REV00901,EMP01534,Annual 2024,EMP01092,2,96,3,9,6,6,9,Leadership potential,Stakeholder management,No,7,2.08,2023-02-10
+REV00902,EMP01940,Q2 2024,EMP01061,4,65,5,9,8,7,6,Leadership potential,Documentation,Yes,4,5.77,2023-02-26
+REV00903,EMP01588,Q4 2024,EMP01066,5,84,6,3,2,2,1,Reliable and consistent,Communication clarity,Yes,12,8.71,2023-12-09
+REV00904,EMP01553,Annual 2024,EMP01015,3,110,6,10,8,2,4,Innovative thinker,Time management,Yes,4,6.47,2024-10-09
+REV00905,EMP01782,Annual 2023,EMP01037,5,48,1,5,3,4,9,Reliable and consistent,Documentation,No,8,5.06,2024-02-14
+REV00906,EMP01466,Annual 2023,EMP01075,5,77,6,1,9,6,6,Innovative thinker,Strategic thinking,No,10,6.41,2024-10-09
+REV00907,EMP02132,Annual 2023,EMP01006,3,46,5,4,10,9,8,Innovative thinker,Strategic thinking,No,9,7.91,2023-01-02
+REV00908,EMP01571,Q1 2024,EMP01093,2,89,10,1,10,6,10,Innovative thinker,Time management,Yes,20,2.19,2024-08-02
+REV00909,EMP01764,Q4 2024,EMP01094,4,63,1,8,8,8,4,Strong technical skills,Strategic thinking,No,2,3.97,2023-01-21
+REV00910,EMP01240,Q4 2024,EMP01096,3,65,7,8,8,1,6,Problem solver,Strategic thinking,No,18,2.23,2023-08-28
+REV00911,EMP01787,Q3 2024,EMP01008,2,58,8,10,2,4,3,Reliable and consistent,Communication clarity,No,4,7.32,2024-06-16
+REV00912,EMP02106,Q4 2024,EMP01066,4,42,5,2,7,3,8,Innovative thinker,Communication clarity,No,3,2.16,2023-04-25
+REV00913,EMP01130,Annual 2023,EMP01082,5,81,5,5,5,9,6,Strong technical skills,Communication clarity,Yes,13,7.28,2023-01-19
+REV00914,EMP01994,Annual 2023,EMP01051,2,108,2,1,8,2,4,Customer focused,Stakeholder management,No,15,3.08,2024-09-26
+REV00915,EMP01927,Annual 2023,EMP01009,3,52,5,7,1,8,4,Customer focused,Communication clarity,Yes,9,1.36,2024-10-12
+REV00916,EMP01260,Annual 2023,EMP01039,4,41,5,5,1,2,3,Great communicator,Stakeholder management,No,10,9.59,2024-12-25
+REV00917,EMP01935,Annual 2024,EMP01069,3,79,4,7,2,5,6,Reliable and consistent,Time management,Yes,5,6.4,2023-09-15
+REV00918,EMP01351,Q1 2024,EMP01049,5,107,7,9,7,7,8,Customer focused,Technical depth,No,9,4.59,2024-09-16
+REV00919,EMP02193,Annual 2024,EMP01076,4,65,7,4,4,3,1,Innovative thinker,Strategic thinking,Yes,13,5.57,2023-12-30
+REV00920,EMP01280,Q1 2024,EMP01083,5,114,10,1,9,8,1,Great communicator,Technical depth,No,3,9.35,2024-04-25
+REV00921,EMP01088,Annual 2024,EMP01051,4,60,8,4,10,3,5,Leadership potential,Stakeholder management,No,7,1.8,2024-12-07
+REV00922,EMP02144,Q4 2023,EMP01046,3,82,1,9,9,3,4,Problem solver,Technical depth,No,19,4.7,2024-08-07
+REV00923,EMP01624,Annual 2024,EMP01032,4,79,8,8,4,3,4,Customer focused,Communication clarity,Yes,18,7.42,2023-06-18
+REV00924,EMP01879,Q2 2024,EMP01082,4,71,4,3,5,1,7,Great communicator,Strategic thinking,No,19,6.81,2024-02-18
+REV00925,EMP01034,Q3 2024,EMP01085,3,59,8,5,6,1,6,Leadership potential,Strategic thinking,Yes,16,2.51,2023-03-27
+REV00926,EMP01621,Annual 2023,EMP01053,4,65,5,4,9,2,3,Reliable and consistent,Strategic thinking,Yes,5,3.88,2024-02-06
+REV00927,EMP01251,Q1 2024,EMP01049,4,74,8,7,1,5,5,Strong technical skills,Technical depth,No,8,1.98,2023-05-30
+REV00928,EMP02014,Annual 2023,EMP01046,3,88,3,7,2,7,1,Innovative thinker,Stakeholder management,Yes,7,1.24,2023-01-28
+REV00929,EMP01632,Q2 2024,EMP01040,4,90,7,1,6,4,2,Team player,Strategic thinking,No,16,2.89,2023-10-18
+REV00930,EMP01685,Q4 2023,EMP01087,3,117,4,8,8,8,3,Innovative thinker,Documentation,No,8,2.52,2024-06-06
+REV00931,EMP01454,Annual 2024,EMP01086,4,62,9,8,7,2,3,Problem solver,Stakeholder management,Yes,5,3.52,2024-08-20
+REV00932,EMP01894,Annual 2024,EMP01085,5,99,8,10,10,10,5,Great communicator,Strategic thinking,Yes,1,4.66,2024-07-18
+REV00933,EMP01181,Q2 2024,EMP01020,5,84,7,2,1,5,1,Leadership potential,Stakeholder management,No,4,3.91,2024-06-17
+REV00934,EMP01568,Q4 2024,EMP01093,5,106,2,1,7,3,5,Customer focused,Time management,No,11,9.24,2024-09-22
+REV00935,EMP01284,Annual 2023,EMP01006,5,108,7,6,2,3,1,Reliable and consistent,Technical depth,Yes,11,8.12,2024-05-29
+REV00936,EMP01043,Annual 2023,EMP01062,4,78,8,8,1,2,7,Leadership potential,Communication clarity,Yes,4,6.97,2023-07-17
+REV00937,EMP01551,Q2 2024,EMP01054,4,43,7,6,4,9,2,Team player,Stakeholder management,No,18,3.98,2024-02-01
+REV00938,EMP02011,Q2 2024,EMP01053,5,81,5,4,6,2,3,Strong technical skills,Technical depth,Yes,17,8.2,2024-03-01
+REV00939,EMP01324,Annual 2023,EMP01094,4,117,6,3,5,1,6,Strong technical skills,Time management,Yes,10,8.1,2023-01-23
+REV00940,EMP02069,Q4 2023,EMP01021,4,92,1,6,9,9,1,Reliable and consistent,Strategic thinking,No,20,3.35,2024-08-16
+REV00941,EMP01935,Annual 2023,EMP01069,4,83,9,9,4,3,3,Reliable and consistent,Stakeholder management,Yes,5,2.0,2024-02-26
+REV00942,EMP01789,Annual 2023,EMP01026,3,45,3,9,10,3,9,Great communicator,Technical depth,No,16,6.45,2023-12-25
+REV00943,EMP01627,Annual 2024,EMP01026,4,52,8,9,2,6,5,Team player,Stakeholder management,Yes,2,3.84,2024-07-25
+REV00944,EMP01325,Q2 2024,EMP01091,5,89,5,5,10,4,5,Customer focused,Documentation,Yes,7,1.47,2023-10-29
+REV00945,EMP01938,Q2 2024,EMP01056,3,99,9,5,6,7,7,Great communicator,Time management,Yes,11,4.59,2024-10-22
+REV00946,EMP01114,Q4 2023,EMP01001,4,89,5,1,6,8,9,Customer focused,Stakeholder management,No,0,7.86,2023-03-19
+REV00947,EMP01677,Q4 2024,EMP01100,3,119,7,2,5,8,4,Strong technical skills,Stakeholder management,Yes,17,7.47,2023-06-03
+REV00948,EMP01660,Q4 2024,EMP01013,4,57,8,4,1,2,10,Leadership potential,Strategic thinking,No,9,4.56,2024-01-17
+REV00949,EMP02168,Annual 2024,EMP01065,5,53,8,5,6,7,6,Innovative thinker,Communication clarity,No,13,6.06,2023-11-07
+REV00950,EMP01335,Annual 2023,EMP01084,4,90,9,5,2,5,6,Customer focused,Strategic thinking,Yes,11,9.53,2024-04-10
+REV00951,EMP01287,Q4 2024,EMP01100,5,83,7,8,10,10,8,Problem solver,Strategic thinking,Yes,11,9.37,2023-03-27
+REV00952,EMP01275,Annual 2023,EMP01044,1,120,4,3,8,7,4,Great communicator,Stakeholder management,No,9,8.01,2024-05-26
+REV00953,EMP01301,Annual 2024,EMP01074,4,106,8,7,6,10,7,Innovative thinker,Stakeholder management,Yes,17,8.11,2023-03-24
+REV00954,EMP01987,Q4 2023,EMP01004,3,69,5,1,10,7,2,Customer focused,Documentation,Yes,3,1.78,2024-05-12
+REV00955,EMP01462,Q4 2023,EMP01024,5,76,5,1,7,1,3,Great communicator,Time management,No,3,8.98,2023-07-06
+REV00956,EMP01625,Q4 2024,EMP01011,3,93,8,3,8,9,4,Team player,Communication clarity,No,12,9.3,2024-05-18
+REV00957,EMP01290,Q1 2024,EMP01090,4,106,3,5,4,7,10,Great communicator,Communication clarity,Yes,1,4.87,2024-07-23
+REV00958,EMP02006,Q4 2024,EMP01014,3,94,8,2,6,7,10,Great communicator,Documentation,Yes,14,8.25,2023-01-16
+REV00959,EMP01108,Q2 2024,EMP01100,4,109,4,10,5,6,5,Great communicator,Stakeholder management,Yes,12,1.25,2024-12-03
+REV00960,EMP01156,Q3 2024,EMP01051,1,95,7,6,3,9,6,Team player,Time management,Yes,8,3.95,2024-04-25
+REV00961,EMP02016,Annual 2023,EMP01053,4,91,9,6,10,3,3,Problem solver,Communication clarity,Yes,0,7.92,2023-12-21
+REV00962,EMP02055,Annual 2023,EMP01052,4,101,8,5,2,5,5,Problem solver,Documentation,Yes,2,5.57,2023-01-03
+REV00963,EMP01307,Q3 2024,EMP01013,5,40,7,9,8,3,2,Customer focused,Time management,Yes,13,4.76,2024-04-28
+REV00964,EMP01937,Annual 2024,EMP01044,1,111,2,8,10,7,3,Great communicator,Time management,No,15,1.98,2023-08-29
+REV00965,EMP01065,Q3 2024,EMP01099,3,83,9,4,7,6,10,Strong technical skills,Documentation,Yes,13,7.03,2024-01-02
+REV00966,EMP01792,Annual 2024,EMP01033,4,68,7,7,3,3,3,Strong technical skills,Strategic thinking,No,2,7.16,2023-05-23
+REV00967,EMP01147,Q2 2024,EMP01021,5,86,1,10,7,4,10,Innovative thinker,Stakeholder management,No,6,9.04,2024-06-26
+REV00968,EMP01795,Q1 2024,EMP01070,4,90,1,9,3,5,8,Innovative thinker,Time management,No,18,7.21,2023-11-06
+REV00969,EMP01302,Q3 2024,EMP01006,3,54,8,6,7,7,7,Great communicator,Strategic thinking,No,5,1.79,2023-06-24
+REV00970,EMP01348,Q4 2024,EMP01019,5,119,6,1,2,10,8,Leadership potential,Time management,Yes,6,2.21,2023-04-15
+REV00971,EMP01567,Q3 2024,EMP01030,5,104,1,9,8,3,7,Customer focused,Documentation,Yes,10,6.93,2023-04-28
+REV00972,EMP01906,Q2 2024,EMP01069,5,108,4,1,10,1,5,Reliable and consistent,Documentation,No,2,4.55,2024-04-26
+REV00973,EMP01274,Q4 2024,EMP01050,5,116,4,1,5,3,1,Great communicator,Strategic thinking,Yes,18,1.55,2023-12-25
+REV00974,EMP01236,Q4 2023,EMP01030,2,110,8,7,6,7,8,Problem solver,Communication clarity,Yes,3,2.41,2024-02-03
+REV00975,EMP01488,Annual 2023,EMP01014,1,71,9,5,2,1,2,Reliable and consistent,Strategic thinking,No,20,7.4,2023-06-13
+REV00976,EMP01266,Q3 2024,EMP01034,4,74,5,5,1,7,7,Great communicator,Technical depth,No,20,2.59,2023-05-12
+REV00977,EMP01196,Q1 2024,EMP01066,5,102,7,5,9,7,2,Team player,Documentation,No,5,4.14,2023-12-12
+REV00978,EMP02009,Q4 2024,EMP01029,2,68,3,2,2,8,3,Innovative thinker,Technical depth,No,1,8.02,2023-03-20
+REV00979,EMP01743,Q2 2024,EMP01097,2,44,9,7,2,8,9,Strong technical skills,Strategic thinking,No,3,2.8,2023-08-18
+REV00980,EMP01754,Annual 2023,EMP01040,3,65,3,5,3,1,6,Customer focused,Time management,No,13,4.27,2024-01-19
+REV00981,EMP01843,Q2 2024,EMP01002,3,43,8,3,8,10,3,Strong technical skills,Documentation,Yes,13,7.71,2024-09-22
+REV00982,EMP01783,Annual 2024,EMP01045,5,49,2,8,3,2,4,Customer focused,Time management,No,13,7.52,2024-01-28
+REV00983,EMP01702,Q1 2024,EMP01050,5,100,3,8,1,3,3,Innovative thinker,Time management,Yes,5,4.76,2023-04-10
+REV00984,EMP01028,Q4 2024,EMP01055,3,110,4,3,1,10,2,Innovative thinker,Documentation,No,20,2.1,2024-08-14
+REV00985,EMP01350,Q4 2024,EMP01020,5,72,2,6,4,2,2,Problem solver,Communication clarity,Yes,15,8.4,2023-03-23
+REV00986,EMP01340,Q4 2024,EMP01007,4,112,9,9,8,3,9,Customer focused,Stakeholder management,Yes,6,9.23,2023-02-11
+REV00987,EMP01442,Q2 2024,EMP01008,5,104,8,7,9,1,10,Strong technical skills,Time management,No,14,6.55,2023-10-16
+REV00988,EMP01232,Annual 2023,EMP01055,4,98,1,10,8,9,6,Problem solver,Technical depth,No,18,6.56,2023-03-09
+REV00989,EMP01275,Q4 2024,EMP01044,3,79,2,4,2,8,5,Innovative thinker,Strategic thinking,Yes,3,8.16,2024-01-03
+REV00990,EMP01372,Q3 2024,EMP01069,5,68,4,5,5,1,3,Reliable and consistent,Documentation,No,20,5.56,2024-01-07
+REV00991,EMP02160,Q3 2024,EMP01066,5,41,9,9,10,3,2,Customer focused,Time management,Yes,16,6.98,2023-10-08
+REV00992,EMP01780,Q3 2024,EMP01090,3,83,10,10,7,5,7,Strong technical skills,Strategic thinking,No,4,8.42,2023-12-13
+REV00993,EMP01369,Q4 2023,EMP01095,5,103,6,4,9,9,2,Customer focused,Stakeholder management,No,7,4.32,2023-05-13
+REV00994,EMP01407,Q4 2023,EMP01028,4,54,1,2,7,3,2,Customer focused,Technical depth,Yes,13,6.23,2023-07-26
+REV00995,EMP01132,Q4 2023,EMP01022,4,51,6,2,7,5,10,Great communicator,Documentation,No,0,5.44,2024-10-09
+REV00996,EMP01401,Q3 2024,EMP01008,3,116,7,5,10,3,4,Strong technical skills,Stakeholder management,No,2,8.65,2024-09-23
+REV00997,EMP01026,Q1 2024,EMP01033,4,74,9,5,3,6,3,Innovative thinker,Stakeholder management,No,3,6.4,2023-03-05
+REV00998,EMP01553,Annual 2023,EMP01015,5,77,8,4,10,1,9,Customer focused,Technical depth,No,10,5.8,2024-07-31
+REV00999,EMP01814,Q2 2024,EMP01055,3,74,4,6,10,6,2,Team player,Communication clarity,No,2,9.13,2024-02-23
+REV01000,EMP02084,Q4 2024,EMP01098,3,74,4,3,4,3,5,Leadership potential,Strategic thinking,No,11,4.2,2024-03-04

@@ -1,0 +1,17 @@
+{
+  "name": "talentiq-platform",
+  "version": "1.0.0",
+  "description": "AI-Powered HR & Talent Intelligence Platform - Company Level Full Stack Project",
+  "private": true,
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=backend\" \"npm run dev --workspace=frontend\"",
+    "build": "npm run build --workspace=frontend",
+    "install:all": "npm install && npm install --workspace=frontend && npm install --workspace=backend",
+    "seed": "node backend/utils/seedDatabase.js",
+    "lint": "npm run lint --workspace=frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
